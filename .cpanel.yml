@@ -2,7 +2,8 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/peke6862/public_html/
-    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp index.php $DEPLOYPATH
+    - /bin/cp index-backup.html $DEPLOYPATH
     - /bin/cp index-one-page.html $DEPLOYPATH
     - /bin/cp index-dark.html $DEPLOYPATH
     - /bin/cp index2-one-page.html $DEPLOYPATH
@@ -11,7 +12,7 @@ deployment:
     - /bin/cp index3.html $DEPLOYPATH
     - /bin/cp team-details.html $DEPLOYPATH
     - /bin/cp team.html $DEPLOYPATH
-    - /bin/cp about.html $DEPLOYPATH
+    - /bin/cp about.php $DEPLOYPATH
     
     
     - /bin/cp blog-details.html $DEPLOYPATH
@@ -26,10 +27,10 @@ deployment:
     - /bin/cp event-grid.html $DEPLOYPATH
     - /bin/cp event-list.html $DEPLOYPATH
     
-    - /bin/cp gallery.html $DEPLOYPATH
+    - /bin/cp gallery.php $DEPLOYPATH
 
-    - /bin/cp contact.html $DEPLOYPATH
-
+    - /bin/cp contact.php $DEPLOYPATH
+    - /bin/cp header.php $DEPLOYPATH
     
     - /bin/cp faq.html $DEPLOYPATH
     - /bin/cp become-volunteer.html $DEPLOYPATH

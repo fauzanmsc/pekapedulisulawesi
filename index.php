@@ -1,0 +1,2581 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Peka Peduli Sulawesi- Official Website</title>
+    <!-- favicons Icons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
+    <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
+    <meta name="description" content="Donatix HTML 5 Template " />
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap"
+        rel="stylesheet">
+
+
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="assets/css/animate.min.css" />
+    <link rel="stylesheet" href="assets/css/custom-animate.css" />
+    <link rel="stylesheet" href="assets/css/swiper.min.css" />
+    <link rel="stylesheet" href="assets/css/font-awesome-all.css" />
+    <link rel="stylesheet" href="assets/css/jarallax.css" />
+    <link rel="stylesheet" href="assets/css/jquery.magnific-popup.css" />
+    <link rel="stylesheet" href="assets/css/flaticon.css">
+    <link rel="stylesheet" href="assets/css/owl.carousel.min.css" />
+    <link rel="stylesheet" href="assets/css/owl.theme.default.min.css" />
+    <link rel="stylesheet" href="assets/css/nice-select.css" />
+    <link rel="stylesheet" href="assets/css/jquery-ui.css" />
+    <link rel="stylesheet" href="assets/css/aos.css" />
+    <link rel="stylesheet" href="assets/css/odometer.min.css" />
+
+
+    <link rel="stylesheet" href="assets/css/module-css/slider.css" />
+    <link rel="stylesheet" href="assets/css/module-css/footer.css" />
+    <link rel="stylesheet" href="assets/css/module-css/feature.css" />
+    <link rel="stylesheet" href="assets/css/module-css/about.css" />
+    <link rel="stylesheet" href="assets/css/module-css/service.css" />
+    <link rel="stylesheet" href="assets/css/module-css/counter.css" />
+    <link rel="stylesheet" href="assets/css/module-css/why-choose.css" />
+    <link rel="stylesheet" href="assets/css/module-css/project.css" />
+    <link rel="stylesheet" href="assets/css/module-css/video.css" />
+    <link rel="stylesheet" href="assets/css/module-css/team.css" />
+    <link rel="stylesheet" href="assets/css/module-css/brand.css" />
+    <link rel="stylesheet" href="assets/css/module-css/pricing.css" />
+    <link rel="stylesheet" href="assets/css/module-css/testimonial.css" />
+    <link rel="stylesheet" href="assets/css/module-css/blog.css" />
+    <link rel="stylesheet" href="assets/css/module-css/cause.css" />
+    <link rel="stylesheet" href="assets/css/module-css/cta.css" />
+    <link rel="stylesheet" href="assets/css/module-css/sliding-text.css" />
+    <link rel="stylesheet" href="assets/css/module-css/approch.css" />
+    <link rel="stylesheet" href="assets/css/module-css/faq.css" />
+    <link rel="stylesheet" href="assets/css/module-css/contact.css" />
+
+
+    <!-- template styles -->
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <link rel="stylesheet" href="assets/css/responsive.css" />
+</head>
+
+<body class="custom-cursor">
+
+    <div class="custom-cursor__cursor"></div>
+    <div class="custom-cursor__cursor-two"></div>
+
+    <!--Start Preloader-->
+    <div class="loader js-preloader">
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+    <!--End Preloader-->
+
+
+    <div class="chat-icon"><button type="button" class="chat-toggler"><i class="fa fa-comment"></i></button></div>
+    <!--Chat Popup-->
+    <div id="chat-popup" class="chat-popup">
+        <div class="popup-inner">
+            <div class="close-chat"><i class="fa fa-times"></i></div>
+            <div class="chat-form">
+                <p>Please fill out the form below and we will get back to you as soon as possible.</p>
+                <form action="assets/inc/sendemail.php" method="POST" class="contact-form-validated">
+                    <div class="form-group">
+                        <input type="text" name="name" placeholder="Your Name" required>
+                    </div>
+                    <div class="form-group">
+                        <input type="email" name="email" placeholder="Your Email" required>
+                    </div>
+                    <div class="form-group">
+                        <textarea name="message" placeholder="Your Text"></textarea>
+                    </div>
+                    <div class="form-group message-btn">
+                        <button type="submit" class="thm-btn">
+                            Submit Now
+                            <span class="icon-arrow-right"></span>
+                        </button>
+                    </div>
+                    <div class="result"></div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Start sidebar widget content -->
+    <div class="xs-sidebar-group info-group info-sidebar">
+        <div class="xs-overlay xs-bg-black"></div>
+        <div class="xs-sidebar-widget">
+            <div class="sidebar-widget-container">
+                <div class="widget-heading">
+                    <a href="#" class="close-side-widget">X</a>
+                </div>
+                <div class="sidebar-textwidget">
+                    <div class="sidebar-info-contents">
+                        <div class="content-inner">
+                            <div class="logo">
+                                <a href="index.html"><img src="assets/images/resources/logo-2.png" alt="" /></a>
+                            </div>
+                            <div class="content-box">
+                                <h4>About Us</h4>
+                                <div class="inner-text">
+                                    <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has
+                                        roots in a piece of classical Latin literature from 45 BC, making it over
+                                        2000 years old.
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="form-inner">
+                                <h4>Get a free quote</h4>
+                                <form action="assets/inc/sendemail.php" method="POST" class="contact-form-validated">
+                                    <div class="form-group">
+                                        <input type="text" name="name" placeholder="Name" required="">
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="email" name="email" placeholder="Email" required="">
+                                    </div>
+                                    <div class="form-group">
+                                        <textarea name="message" placeholder="Message..." required></textarea>
+                                    </div>
+                                    <div class="form-group message-btn">
+                                        <button class="thm-btn" type="submit" data-loading-text="Please wait...">
+                                            Submit Now <span class="icon-arrow-right"></span>
+                                        </button>
+                                    </div>
+                                    <div class="result"></div>
+                                </form>
+                            </div>
+
+                            <div class="sidebar-contact-info">
+                                <h4>Contact Info</h4>
+                                <ul class="list-unstyled">
+                                    <li>
+                                        <span class="icon-location"></span> 88 broklyn street, New York
+                                    </li>
+                                    <li>
+                                        <span class="icon-call"></span>
+                                        <a href="tel:123456789">+1 555-9990-153</a>
+                                    </li>
+                                    <li>
+                                        <span class="icon-envelope"></span>
+                                        <a href="mailto:info@example.com">info@example.com</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="thm-social-link1">
+                                <ul class="social-box list-unstyled">
+                                    <li>
+                                        <a href="#"><i class="icon-facebook" aria-hidden="true"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="icon-xpa" aria-hidden="true"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="icon-link-in" aria-hidden="true"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="icon-instagram" aria-hidden="true"></i></a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End sidebar widget content -->
+
+    <div class="page-wrapper">
+
+        <!--Start Main Header One-->
+            <?php include 'header.php'; ?>
+        <!--End Main Header One-->
+
+        <div class="stricky-header stricked-menu main-menu">
+            <div class="sticky-header__content"></div><!-- /.sticky-header__content -->
+        </div><!-- /.stricky-header -->
+
+
+        <!-- Start Main Slider One -->
+        <section class="main-slider main-slider-one">
+            <div class="main-slider-one__inner">
+                <div class="main-slider__carousel owl-carousel owl-theme">
+                    <!-- Start Main Slider One Single-->
+                    <div class="main-slider-one__single">
+                        <div class="main-slider-one__bg"
+                            style="background-image: url(assets/images/backgrounds/main-slider-v1-img1.jpg);"></div>
+
+                        <div class="main-slider-one__single-img-bg"></div>
+                        <div class="main-slider-one__single-img">
+                            <img src="assets/images/backgrounds/main-slider-v1-img3.jpg" alt="">
+                        </div>
+                        <div class="shape1 float-bob-y"><img src="assets/images/shapes/main-slider-v1-shape1.png"
+                                alt="">
+                        </div>
+                        <div class="shape2"><img src="assets/images/shapes/main-slider-v1-shape2.png" alt=""></div>
+                        <div class="shape3 float-bob-x"><img src="assets/images/shapes/main-slider-v1-shape3.png"
+                                alt="">
+                        </div>
+                        <div class="shape4"><img src="assets/images/shapes/main-slider-v1-shape4.png" alt=""></div>
+
+                        <div class="container">
+                            <div class="main-slider-one__content">
+                                <div class="main-slider-one__sub-title">
+                                    <div class="line"></div>
+                                    <p>Kita Peka, Kita Peduli </p>
+                                </div>
+                                <div class="main-slider-one__title">
+                                    <h2>Dari Hati yang Peka, <br> Lahir Kepedulian</h2>
+                                </div>
+                                <div class="main-slider-one__text">
+                                    <p>Kami hadir sebagai ruang untuk melihat, merasakan, dan bergerak bersama.
+                                        <br>
+                                        Berawal dari kepekaan terhadap sekitar, kami percaya setiap langkah kecil kepedulian
+                                        <br>
+                                         mampu menghadirkan perubahan nyata bagi sesama dan lingkungan.</p>
+                                </div>
+                                <div class="main-slider-one__btn">
+                                    <a href="contact.html" class="thm-btn">Mari Bergerak <span
+                                            class="icon-diagonal-arrow1"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Main Slider One Single-->
+
+                    <!-- Start Main Slider One Single-->
+                    <div class="main-slider-one__single">
+                        <div class="main-slider-one__bg"
+                            style="background-image: url(assets/images/backgrounds/main-slider-v1-img2.jpg);"></div>
+                        <div class="main-slider-one__single-img-bg"></div>
+                        <div class="main-slider-one__single-img">
+                            <img src="assets/images/backgrounds/main-slider-v1-img3.jpg" alt="">
+                        </div>
+                        <div class="shape1 float-bob-y"><img src="assets/images/shapes/main-slider-v1-shape1.png"
+                                alt="">
+                        </div>
+                        <div class="shape2"><img src="assets/images/shapes/main-slider-v1-shape2.png" alt=""></div>
+                        <div class="shape3 float-bob-x"><img src="assets/images/shapes/main-slider-v1-shape3.png"
+                                alt="">
+                        </div>
+                        <div class="shape4"><img src="assets/images/shapes/main-slider-v1-shape4.png" alt=""></div>
+
+                        <div class="container">
+                            <div class="main-slider-one__content">
+                                <div class="main-slider-one__sub-title">
+                                    <div class="line"></div>
+                                    <p>Kita Peka, Kita Peduli </p>
+                                </div>
+                                <div class="main-slider-one__title">
+                                    <h2>Dari Kepedulian <br>Menuju Perubahan</h2>
+                                </div>
+                                <div class="main-slider-one__text">
+                                    <p>Perubahan tidak lahir dari satu tangan, melainkan dari kebersamaan.
+                                        <br>
+                                        Dengan semangat kolaborasi dan kepedulian, kami percaya harapan dapat tumbuh,
+                                    <br>menguatkan sesama, dan menciptakan masa depan yang lebih baik bagi komunitas dan lingkungan.</p>
+                                </div>
+                                <div class="main-slider-one__btn">
+                                    <a href="contact.html" class="thm-btn">Mari Bergerak <span
+                                            class="icon-diagonal-arrow1"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Main Slider One Single-->
+
+                    <!-- Start Main Slider One Single-->
+                    <div class="main-slider-one__single">
+                        <div class="main-slider-one__bg"
+                            style="background-image: url(assets/images/backgrounds/main-slider-v1-img1.jpg);"></div>
+                        <div class="main-slider-one__single-img-bg"></div>
+                        <div class="main-slider-one__single-img">
+                            <img src="assets/images/backgrounds/main-slider-v1-img3.jpg" alt="">
+                        </div>
+                        <div class="shape1 float-bob-y"><img src="assets/images/shapes/main-slider-v1-shape1.png"
+                                alt="">
+                        </div>
+                        <div class="shape2"><img src="assets/images/shapes/main-slider-v1-shape2.png" alt=""></div>
+                        <div class="shape3 float-bob-x"><img src="assets/images/shapes/main-slider-v1-shape3.png"
+                                alt="">
+                        </div>
+                        <div class="shape4"><img src="assets/images/shapes/main-slider-v1-shape4.png" alt=""></div>
+
+                        <div class="container">
+                            <div class="main-slider-one__content">
+                                <div class="main-slider-one__sub-title">
+                                    <div class="line"></div>
+                                    <p>Kita Peka, Kita Peduli </p>
+                                </div>
+                                <div class="main-slider-one__title">
+                                    <h2>Langkah Kecil,  <br> Dampak Besar</h2>
+                                </div>
+                                <div class="main-slider-one__text">
+                                    <p>Setiap tindakan peduli, sekecil apapun, dapat menggerakkan perubahan. 
+                                        <br>
+                                        Dengan empati dan komitmen, setiap orang bisa menjadi bagian <br>dari solusi untuk sesama.</p>
+                                </div>
+                                <div class="main-slider-one__btn">
+                                    <a href="contact.html" class="thm-btn">Mari Bergerak <span
+                                            class="icon-diagonal-arrow1"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Main Slider One Single-->
+
+                    <!-- Start Main Slider One Single-->
+                    <div class="main-slider-one__single">
+                        <div class="main-slider-one__bg"
+                            style="background-image: url(assets/images/backgrounds/main-slider-v1-img2.jpg);"></div>
+                        <div class="main-slider-one__single-img-bg"></div>
+                        <div class="main-slider-one__single-img">
+                            <img src="assets/images/backgrounds/main-slider-v1-img3.jpg" alt="">
+                        </div>
+                        <div class="shape1 float-bob-y"><img src="assets/images/shapes/main-slider-v1-shape1.png"
+                                alt="">
+                        </div>
+                        <div class="shape2"><img src="assets/images/shapes/main-slider-v1-shape2.png" alt=""></div>
+                        <div class="shape3 float-bob-x"><img src="assets/images/shapes/main-slider-v1-shape3.png"
+                                alt="">
+                        </div>
+                        <div class="shape4"><img src="assets/images/shapes/main-slider-v1-shape4.png" alt=""></div>
+
+                        <div class="container">
+                            <div class="main-slider-one__content">
+                                <div class="main-slider-one__sub-title">
+                                    <div class="line"></div>
+                                    <p>Kita Peka, Kita Peduli </p>
+                                </div>
+                                <div class="main-slider-one__title">
+                                    <h2>Dari Hati yang Peka, <br> Lahir Kepedulian</h2>
+                                </div>
+                                <div class="main-slider-one__text">
+                                    <p>Join our mission to provide food, shelter, education, and hope to communities in
+                                        <br>
+                                        need. Every act of kindness brings us closer to a better world</p>
+                                </div>
+                                <div class="main-slider-one__btn">
+                                    <a href="contact.html" class="thm-btn">Mari Bergerak <span
+                                            class="icon-diagonal-arrow1"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Main Slider One Single-->
+                </div>
+            </div>
+        </section>
+        <!-- End Main Slider One -->
+
+        <!--Start About One-->
+        <div class="about-one">
+            <div class="shape2 float-bob-y"><img src="assets/images/shapes/about-v1-shape2.png" alt=""></div>
+            <div class="container">
+                <div class="row">
+                    <!--Start About One Img-->
+                    <div class="col-xl-6 wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                        <div class="about-one__img">
+                            <div class="shape1"><img src="assets/images/shapes/about-v1-shape1.png" alt=""></div>
+                            <div class="about-one__img-inner">
+                                <div class="about-one__img1">
+                                    <div class="inner">
+                                        <img src="assets/images/about/about-v1-img1.jpg" alt="">
+                                    </div>
+                                </div>
+                                <div class="about-one__img2">
+                                    <img src="assets/images/about/about-v1-img2.jpg" alt="">
+                                </div>
+                            </div>
+                            <div class="about-one__img-content">
+                                <div class="about-one__img-content-inner">
+                                    <h2>Anak-Anak Sulawesi Butuh Pendidikan</h2>
+                                    <div class="btn-box">
+                                        <a href="#">Jadilah Relawan Kami</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End About One Img-->
+
+                    <!--Start About One Content-->
+                    <div class="col-xl-6 wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
+                        <div class="about-one__content">
+                            <div class="sec-title sec-title-animation animation-style2">
+                                <div class="sec-title__tagline">
+                                    <div class="left-line"></div>
+                                    <div class="text">
+                                        <h4>Who We Are</h4>
+                                    </div>
+                                </div>
+                                <h2 class="sec-title__title title-animation">Bergerak Bersama <br> Menyalurkan Kebaikan
+                                </h2>
+                            </div>
+                            <div class="about-one__content-text">
+                                <p>Peka Peduli Sulawesi merupakan yayasan nirlaba dalam bidang sosial kemanusiaan, pendidikan, kesehatan, ekonomi yang sumber dananya yaitu mengumpulkan dana zakat, infaq, dan sedekah serta wakaf baik secara instansi maupun perseorangan.</p>
+                            </div>
+
+                            <div class="about-one__tab tab-box">
+                                <ul class="tabs-button-box clearfix">
+                                    <li data-tab="#cause" class="tab-btn-item">
+                                        <h3>Kontribusi Kami</h3>
+                                    </li>
+                                    <li data-tab="#food" class="tab-btn-item active-btn">
+                                        <h3>Charity For Food</h3>
+                                    </li>
+                                    <li data-tab="#charity" class="tab-btn-item">
+                                        <h3>Charity For Water</h3>
+                                    </li>
+                                </ul>
+
+                                <div class="tabs-content tabs-content-box">
+                                    <!--Start Single Tab Content-->
+                                    <div class="tab" id="cause">
+                                        <div class="about-one__single-tab">
+                                            <div class="about-one__single-tab-inner">
+                                                <div class="about-one__single-tab-text1">
+                                                    <div class="icon-box">
+                                                        <span class="icon-checked"></span>
+                                                    </div>
+                                                    <div class="text-box">
+                                                        <p>Telah mendukung lebih dari <span>24.500+</span> proyek di berbagai wilayah,
+                                                            membantu lebih dari <span> 8 juta orang</span> meraih kehidupan yang lebih baik.
+                                                        </p>
+                                                    </div>
+                                                </div>
+
+                                                <div class="about-one__single-tab-text2">
+                                                    <ul class="row">
+                                                        <li
+                                                            class="col-xl-6 col-lg-6 col-md-6 about-one__single-tab-text2-single">
+                                                            <div class="about-one__single-tab-text2-single-inner">
+                                                                <div class="icon-box">
+                                                                    <span class="icon-solidarity"></span>
+                                                                </div>
+
+                                                                <div class="text-box">
+                                                                    <h3>Yayasan Terpercaya</h3>
+                                                                    <p>Membantu mengembangkan program sosial yang transparan dan berdampak nyata.</p>
+                                                                </div>
+                                                            </div>
+                                                        </li>
+
+                                                        <li
+                                                            class="col-xl-6 col-lg-6 col-md-6 about-one__single-tab-text2-single">
+                                                            <div class="about-one__single-tab-text2-single-inner">
+                                                                <div class="icon-box">
+                                                                    <span class="icon-zakat"></span>
+                                                                </div>
+
+                                                                <div class="text-box">
+                                                                    <h3>Mulai Berdonasi</h3>
+                                                                    <p>Memudahkan donasi untuk berbagai kebutuhan sosial dengan aman dan mudah.</p>
+                                                                </div>
+                                                            </div>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--End Single Tab Content-->
+
+                                    <!--Start Single Tab Content-->
+                                    <div class="tab tab-active" id="food">
+                                        <div class="about-one__single-tab">
+                                            <div class="about-one__single-tab-inner">
+                                                <div class="about-one__single-tab-text1">
+                                                    <div class="icon-box">
+                                                        <span class="icon-checked"></span>
+                                                    </div>
+                                                    <div class="text-box">
+                                                        <p>contributed to the funding of <span>24,537</span> projects in
+                                                            <span>24</span> countries that benefited more than
+                                                            <span>8.2</span> million people.
+                                                        </p>
+                                                    </div>
+                                                </div>
+
+                                                <div class="about-one__single-tab-text2">
+                                                    <ul class="row">
+                                                        <li
+                                                            class="col-xl-6 col-lg-6 col-md-6 about-one__single-tab-text2-single">
+                                                            <div class="about-one__single-tab-text2-single-inner">
+                                                                <div class="icon-box">
+                                                                    <span class="icon-solidarity"></span>
+                                                                </div>
+
+                                                                <div class="text-box">
+                                                                    <h3>Yayasan Terpercaya</h3>
+                                                                    <p>Membantu mengembangkan program sosial yang transparan dan berdampak nyata.</p>
+                                                                </div>
+                                                            </div>
+                                                        </li>
+
+                                                        <li
+                                                            class="col-xl-6 col-lg-6 col-md-6 about-one__single-tab-text2-single">
+                                                            <div class="about-one__single-tab-text2-single-inner">
+                                                                <div class="icon-box">
+                                                                    <span class="icon-zakat"></span>
+                                                                </div>
+
+                                                                <div class="text-box">
+                                                                    <h3>Mulai Berdonasi</h3>
+                                                                    <p>Memudahkan donasi untuk berbagai kebutuhan sosial dengan aman dan mudah.</p>
+                                                                </div>
+                                                            </div>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--End Single Tab Content-->
+
+                                    <!--Start Single Tab Content-->
+                                    <div class="tab" id="charity">
+                                        <div class="about-one__single-tab">
+                                            <div class="about-one__single-tab-inner">
+                                                <div class="about-one__single-tab-text1">
+                                                    <div class="icon-box">
+                                                        <span class="icon-checked"></span>
+                                                    </div>
+                                                    <div class="text-box">
+                                                        <p>contributed to the funding of <span>24,537</span> projects in
+                                                            <span>24</span> countries that benefited more than
+                                                            <span>8.2</span> million people.
+                                                        </p>
+                                                    </div>
+                                                </div>
+
+                                                <div class="about-one__single-tab-text2">
+                                                    <ul class="row">
+                                                        <li
+                                                            class="col-xl-6 col-lg-6 col-md-6 about-one__single-tab-text2-single">
+                                                            <div class="about-one__single-tab-text2-single-inner">
+                                                                <div class="icon-box">
+                                                                    <span class="icon-solidarity"></span>
+                                                                </div>
+
+                                                                <div class="text-box">
+                                                                    <h3>Yayasan Terpercaya</h3>
+                                                                    <p>Membantu mengembangkan program sosial yang transparan dan berdampak nyata.</p>
+                                                                </div>
+                                                            </div>
+                                                        </li>
+
+                                                        <li
+                                                            class="col-xl-6 col-lg-6 col-md-6 about-one__single-tab-text2-single">
+                                                            <div class="about-one__single-tab-text2-single-inner">
+                                                                <div class="icon-box">
+                                                                    <span class="icon-zakat"></span>
+                                                                </div>
+
+                                                                <div class="text-box">
+                                                                    <h3>Mulai Berdonasi</h3>
+                                                                    <p>Memudahkan donasi untuk berbagai kebutuhan sosial dengan aman dan mudah.</p>
+                                                                </div>
+                                                            </div>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--End Single Tab Content-->
+                                </div>
+                            </div>
+
+                            <div class="about-one__content-bottom">
+                                <div class="btn-box">
+                                    <a href="about.html" class="thm-btn">Mari Bergerak <span
+                                            class="icon-diagonal-arrow1"></span></a>
+                                </div>
+
+                                <div class="contact-info">
+                                    <div class="icon-box">
+                                        <span class="icon-telephone"></span>
+                                    </div>
+
+                                    <div class="content-box">
+                                        <p>Hubungi Kami :</p>
+                                        <h4><a href="tel:1234567890">+62 812 4209 9798</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End About One Content-->
+                </div>
+            </div>
+        </div>
+        <!--End About One-->
+
+        <!--Start Cause One-->
+        <section class="cause-one">
+            <div class="cause-one__pattern" style="background-image: url(assets/images/pattern/cause-v1-pattern.jpg);">
+            </div>
+            <div class="shape2"><img src="assets/images/shapes/cause-v1-shape2.png" alt=""></div>
+            <div class="container">
+                <div class="sec-title text-center sec-title-animation animation-style1">
+                    <div class="sec-title__tagline center">
+                        <div class="left-line"></div>
+                        <div class="text">
+                            <h4>Bantu Sesama</h4>
+                        </div>
+                        <div class="right-line"></div>
+                    </div>
+                    <h2 class="sec-title__title title-animation">Temukan Program Populer <br> dan Salurkan Donasi Anda
+                    </h2>
+                </div>
+
+                <div class="row">
+                    <div class="col-xl-12">
+                        <div class="cause-one__carousel owl-carousel owl-theme thm-dot-style1">
+                            <!--Start Cause One Single-->
+                            <div class="cause-one__single">
+                                <div class="cause-one__single-inner">
+                                    <div class="shape1"><img src="assets/images/shapes/cause-v1-shape1.png" alt="">
+                                    </div>
+                                    <div class="cause-one__single-img">
+                                        <img src="assets/images/resources/cause-v1-img1.jpg" alt="">
+                                    </div>
+                                    <div class="cause-one__single-content">
+                                        <div class="cause-one__rised-and-progress">
+                                            <div class="title-box">
+                                                <h4>Donation</h4>
+                                            </div>
+
+                                            <div class="progress-box">
+                                                <div class="inner count-box">
+                                                    <div class="bar">
+                                                        <div class="bar-inner count-bar" data-percent="95%">
+                                                            <div class="count-text">95%</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="cause-one__rised-and-goals">
+                                                <div class="cause-one__raised">
+                                                    <span>Raised $60,050</span>
+                                                </div>
+                                                <div class="cause-one__goals">
+                                                    <span>goal $55,000</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <h2><a href="donation-details.html">Helping the Homeless During <br>
+                                                Hopeless</a></h2>
+                                        <div class="btn-box">
+                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                                    class="icon-diagonal-arrow1"></span></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Cause One Single-->
+
+                            <!--Start Cause One Single-->
+                            <div class="cause-one__single">
+                                <div class="cause-one__single-inner">
+                                    <div class="shape1"><img src="assets/images/shapes/cause-v1-shape1.png" alt="">
+                                    </div>
+                                    <div class="cause-one__single-img">
+                                        <img src="assets/images/resources/cause-v1-img2.jpg" alt="">
+                                    </div>
+                                    <div class="cause-one__single-content">
+                                        <div class="cause-one__rised-and-progress">
+                                            <div class="title-box">
+                                                <h4>Donation</h4>
+                                            </div>
+
+                                            <div class="progress-box">
+                                                <div class="inner count-box">
+                                                    <div class="bar">
+                                                        <div class="bar-inner count-bar" data-percent="85%">
+                                                            <div class="count-text">85%</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="cause-one__rised-and-goals">
+                                                <div class="cause-one__raised">
+                                                    <span>Raised $50,050</span>
+                                                </div>
+                                                <div class="cause-one__goals">
+                                                    <span>goal $45,000</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <h2><a href="donation-details.html">Fighting Hunger with Food <br> Distribution
+                                                Drives</a></h2>
+                                        <div class="btn-box">
+                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                                    class="icon-diagonal-arrow1"></span></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Cause One Single-->
+
+                            <!--Start Cause One Single-->
+                            <div class="cause-one__single">
+                                <div class="cause-one__single-inner">
+                                    <div class="shape1"><img src="assets/images/shapes/cause-v1-shape1.png" alt="">
+                                    </div>
+                                    <div class="cause-one__single-img">
+                                        <img src="assets/images/resources/cause-v1-img3.jpg" alt="">
+                                    </div>
+                                    <div class="cause-one__single-content">
+                                        <div class="cause-one__rised-and-progress">
+                                            <div class="title-box">
+                                                <h4>Donation</h4>
+                                            </div>
+
+                                            <div class="progress-box">
+                                                <div class="inner count-box">
+                                                    <div class="bar">
+                                                        <div class="bar-inner count-bar" data-percent="65%">
+                                                            <div class="count-text">65%</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="cause-one__rised-and-goals">
+                                                <div class="cause-one__raised">
+                                                    <span>Raised $70,050</span>
+                                                </div>
+                                                <div class="cause-one__goals">
+                                                    <span>goal $35,000</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <h2><a href="donation-details.html">Providing Medical Aid to <br> Undeserved
+                                                Areas
+                                            </a></h2>
+                                        <div class="btn-box">
+                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                                    class="icon-diagonal-arrow1"></span></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Cause One Single-->
+
+                            <!--Start Cause One Single-->
+                            <div class="cause-one__single">
+                                <div class="cause-one__single-inner">
+                                    <div class="shape1"><img src="assets/images/shapes/cause-v1-shape1.png" alt="">
+                                    </div>
+                                    <div class="cause-one__single-img">
+                                        <img src="assets/images/resources/cause-v1-img1.jpg" alt="">
+                                    </div>
+                                    <div class="cause-one__single-content">
+                                        <div class="cause-one__rised-and-progress">
+                                            <div class="title-box">
+                                                <h4>Donation</h4>
+                                            </div>
+
+                                            <div class="progress-box">
+                                                <div class="inner count-box">
+                                                    <div class="bar">
+                                                        <div class="bar-inner count-bar" data-percent="95%">
+                                                            <div class="count-text">95%</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="cause-one__rised-and-goals">
+                                                <div class="cause-one__raised">
+                                                    <span>Raised $60,050</span>
+                                                </div>
+                                                <div class="cause-one__goals">
+                                                    <span>goal $55,000</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <h2><a href="donation-details.html">Helping the Homeless During <br>
+                                                Hopeless</a></h2>
+                                        <div class="btn-box">
+                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                                    class="icon-diagonal-arrow1"></span></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Cause One Single-->
+
+                            <!--Start Cause One Single-->
+                            <div class="cause-one__single">
+                                <div class="cause-one__single-inner">
+                                    <div class="shape1"><img src="assets/images/shapes/cause-v1-shape1.png" alt="">
+                                    </div>
+                                    <div class="cause-one__single-img">
+                                        <img src="assets/images/resources/cause-v1-img2.jpg" alt="">
+                                    </div>
+                                    <div class="cause-one__single-content">
+                                        <div class="cause-one__rised-and-progress">
+                                            <div class="title-box">
+                                                <h4>Donation</h4>
+                                            </div>
+
+                                            <div class="progress-box">
+                                                <div class="inner count-box">
+                                                    <div class="bar">
+                                                        <div class="bar-inner count-bar" data-percent="85%">
+                                                            <div class="count-text">85%</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="cause-one__rised-and-goals">
+                                                <div class="cause-one__raised">
+                                                    <span>Raised $50,050</span>
+                                                </div>
+                                                <div class="cause-one__goals">
+                                                    <span>goal $45,000</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <h2><a href="donation-details.html">Fighting Hunger with Food <br> Distribution
+                                                Drives</a></h2>
+                                        <div class="btn-box">
+                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                                    class="icon-diagonal-arrow1"></span></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Cause One Single-->
+
+                            <!--Start Cause One Single-->
+                            <div class="cause-one__single">
+                                <div class="cause-one__single-inner">
+                                    <div class="shape1"><img src="assets/images/shapes/cause-v1-shape1.png" alt="">
+                                    </div>
+                                    <div class="cause-one__single-img">
+                                        <img src="assets/images/resources/cause-v1-img3.jpg" alt="">
+                                    </div>
+                                    <div class="cause-one__single-content">
+                                        <div class="cause-one__rised-and-progress">
+                                            <div class="title-box">
+                                                <h4>Donation</h4>
+                                            </div>
+
+                                            <div class="progress-box">
+                                                <div class="inner count-box">
+                                                    <div class="bar">
+                                                        <div class="bar-inner count-bar" data-percent="65%">
+                                                            <div class="count-text">65%</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="cause-one__rised-and-goals">
+                                                <div class="cause-one__raised">
+                                                    <span>Raised $70,050</span>
+                                                </div>
+                                                <div class="cause-one__goals">
+                                                    <span>goal $35,000</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <h2><a href="donation-details.html">Providing Medical Aid to <br> Undeserved
+                                                Areas
+                                            </a></h2>
+                                        <div class="btn-box">
+                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                                    class="icon-diagonal-arrow1"></span></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Cause One Single-->
+
+                            <!--Start Cause One Single-->
+                            <div class="cause-one__single">
+                                <div class="cause-one__single-inner">
+                                    <div class="shape1"><img src="assets/images/shapes/cause-v1-shape1.png" alt="">
+                                    </div>
+                                    <div class="cause-one__single-img">
+                                        <img src="assets/images/resources/cause-v1-img1.jpg" alt="">
+                                    </div>
+                                    <div class="cause-one__single-content">
+                                        <div class="cause-one__rised-and-progress">
+                                            <div class="title-box">
+                                                <h4>Donation</h4>
+                                            </div>
+
+                                            <div class="progress-box">
+                                                <div class="inner count-box">
+                                                    <div class="bar">
+                                                        <div class="bar-inner count-bar" data-percent="95%">
+                                                            <div class="count-text">95%</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="cause-one__rised-and-goals">
+                                                <div class="cause-one__raised">
+                                                    <span>Raised $60,050</span>
+                                                </div>
+                                                <div class="cause-one__goals">
+                                                    <span>goal $55,000</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <h2><a href="donation-details.html">Helping the Homeless During <br>
+                                                Hopeless</a></h2>
+                                        <div class="btn-box">
+                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                                    class="icon-diagonal-arrow1"></span></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Cause One Single-->
+
+                            <!--Start Cause One Single-->
+                            <div class="cause-one__single">
+                                <div class="cause-one__single-inner">
+                                    <div class="shape1"><img src="assets/images/shapes/cause-v1-shape1.png" alt="">
+                                    </div>
+                                    <div class="cause-one__single-img">
+                                        <img src="assets/images/resources/cause-v1-img2.jpg" alt="">
+                                    </div>
+                                    <div class="cause-one__single-content">
+                                        <div class="cause-one__rised-and-progress">
+                                            <div class="title-box">
+                                                <h4>Donation</h4>
+                                            </div>
+
+                                            <div class="progress-box">
+                                                <div class="inner count-box">
+                                                    <div class="bar">
+                                                        <div class="bar-inner count-bar" data-percent="85%">
+                                                            <div class="count-text">85%</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="cause-one__rised-and-goals">
+                                                <div class="cause-one__raised">
+                                                    <span>Raised $50,050</span>
+                                                </div>
+                                                <div class="cause-one__goals">
+                                                    <span>goal $45,000</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <h2><a href="donation-details.html">Fighting Hunger with Food <br> Distribution
+                                                Drives</a></h2>
+                                        <div class="btn-box">
+                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                                    class="icon-diagonal-arrow1"></span></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Cause One Single-->
+
+                            <!--Start Cause One Single-->
+                            <div class="cause-one__single">
+                                <div class="cause-one__single-inner">
+                                    <div class="shape1"><img src="assets/images/shapes/cause-v1-shape1.png" alt="">
+                                    </div>
+                                    <div class="cause-one__single-img">
+                                        <img src="assets/images/resources/cause-v1-img3.jpg" alt="">
+                                    </div>
+                                    <div class="cause-one__single-content">
+                                        <div class="cause-one__rised-and-progress">
+                                            <div class="title-box">
+                                                <h4>Donation</h4>
+                                            </div>
+
+                                            <div class="progress-box">
+                                                <div class="inner count-box">
+                                                    <div class="bar">
+                                                        <div class="bar-inner count-bar" data-percent="65%">
+                                                            <div class="count-text">65%</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="cause-one__rised-and-goals">
+                                                <div class="cause-one__raised">
+                                                    <span>Raised $70,050</span>
+                                                </div>
+                                                <div class="cause-one__goals">
+                                                    <span>goal $35,000</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <h2><a href="donation-details.html">Providing Medical Aid to <br> Undeserved
+                                                Areas
+                                            </a></h2>
+                                        <div class="btn-box">
+                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                                    class="icon-diagonal-arrow1"></span></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Cause One Single-->
+
+                            <!--Start Cause One Single-->
+                            <div class="cause-one__single">
+                                <div class="cause-one__single-inner">
+                                    <div class="shape1"><img src="assets/images/shapes/cause-v1-shape1.png" alt="">
+                                    </div>
+                                    <div class="cause-one__single-img">
+                                        <img src="assets/images/resources/cause-v1-img1.jpg" alt="">
+                                    </div>
+                                    <div class="cause-one__single-content">
+                                        <div class="cause-one__rised-and-progress">
+                                            <div class="title-box">
+                                                <h4>Donation</h4>
+                                            </div>
+
+                                            <div class="progress-box">
+                                                <div class="inner count-box">
+                                                    <div class="bar">
+                                                        <div class="bar-inner count-bar" data-percent="95%">
+                                                            <div class="count-text">95%</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="cause-one__rised-and-goals">
+                                                <div class="cause-one__raised">
+                                                    <span>Raised $60,050</span>
+                                                </div>
+                                                <div class="cause-one__goals">
+                                                    <span>goal $55,000</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <h2><a href="donation-details.html">Helping the Homeless During <br>
+                                                Hopeless</a></h2>
+                                        <div class="btn-box">
+                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                                    class="icon-diagonal-arrow1"></span></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Cause One Single-->
+
+                            <!--Start Cause One Single-->
+                            <div class="cause-one__single">
+                                <div class="cause-one__single-inner">
+                                    <div class="shape1"><img src="assets/images/shapes/cause-v1-shape1.png" alt="">
+                                    </div>
+                                    <div class="cause-one__single-img">
+                                        <img src="assets/images/resources/cause-v1-img2.jpg" alt="">
+                                    </div>
+                                    <div class="cause-one__single-content">
+                                        <div class="cause-one__rised-and-progress">
+                                            <div class="title-box">
+                                                <h4>Donation</h4>
+                                            </div>
+
+                                            <div class="progress-box">
+                                                <div class="inner count-box">
+                                                    <div class="bar">
+                                                        <div class="bar-inner count-bar" data-percent="85%">
+                                                            <div class="count-text">85%</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="cause-one__rised-and-goals">
+                                                <div class="cause-one__raised">
+                                                    <span>Raised $50,050</span>
+                                                </div>
+                                                <div class="cause-one__goals">
+                                                    <span>goal $45,000</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <h2><a href="donation-details.html">Fighting Hunger with Food <br> Distribution
+                                                Drives</a></h2>
+                                        <div class="btn-box">
+                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                                    class="icon-diagonal-arrow1"></span></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Cause One Single-->
+
+                            <!--Start Cause One Single-->
+                            <div class="cause-one__single">
+                                <div class="cause-one__single-inner">
+                                    <div class="shape1"><img src="assets/images/shapes/cause-v1-shape1.png" alt="">
+                                    </div>
+                                    <div class="cause-one__single-img">
+                                        <img src="assets/images/resources/cause-v1-img3.jpg" alt="">
+                                    </div>
+                                    <div class="cause-one__single-content">
+                                        <div class="cause-one__rised-and-progress">
+                                            <div class="title-box">
+                                                <h4>Donation</h4>
+                                            </div>
+
+                                            <div class="progress-box">
+                                                <div class="inner count-box">
+                                                    <div class="bar">
+                                                        <div class="bar-inner count-bar" data-percent="65%">
+                                                            <div class="count-text">65%</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="cause-one__rised-and-goals">
+                                                <div class="cause-one__raised">
+                                                    <span>Raised $70,050</span>
+                                                </div>
+                                                <div class="cause-one__goals">
+                                                    <span>goal $35,000</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <h2><a href="donation-details.html">Providing Medical Aid to <br> Undeserved
+                                                Areas
+                                            </a></h2>
+                                        <div class="btn-box">
+                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                                    class="icon-diagonal-arrow1"></span></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Cause One Single-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--End Cause One-->
+
+        <!--Start Cta One-->
+        <section class="cta-one">
+            <div class="shape1"><img src="assets/images/shapes/cta-v1-shape1.png" alt=""></div>
+            <div class="shape2 float-bob-y"><img src="assets/images/shapes/cta-v1-shape2.png" alt=""></div>
+            <div class="shape3"><img src="assets/images/shapes/cta-v1-shape3.png" alt=""></div>
+            <div class="shape4"><img src="assets/images/shapes/cta-v1-shape4.png" alt=""></div>
+            <div class="cta-one__bg" style="background-image: url(assets/images/backgrounds/cta-v1-bg.jpg);"></div>
+            <div class="container">
+                <div class="cta-one__inner">
+                    <div class="cta-one__content">
+                        <div class="sec-title sec-title-animation animation-style2">
+                            <div class="sec-title__tagline">
+                                <div class="left-line"></div>
+                                <div class="text">
+                                    <h4>Let’s Start Something For Them</h4>
+                                </div>
+                            </div>
+                            <h2 class="sec-title__title title-animation">Giving Has Never Caused Anyone <br> To Become
+                                Poor.
+                            </h2>
+                        </div>
+
+                        <div class="btn-box">
+                            <a href="donate-now.html" class="thm-btn">Start Kirim Donasi <span
+                                    class="icon-diagonal-arrow1"></span></a>
+                        </div>
+                    </div>
+
+                    <div class="cta-one__round-text wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
+                        <div class="cta-one__round-text-inner">
+                            <div class="cta-one__curved-circle">
+                                PLAY VIDEO PLAY VIDEO PLAY VIDEO PLAY VIDEO
+                            </div>
+
+                            <div class="cta-one__video-link">
+                                <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ" class="video-popup">
+                                    <div class="cta-one__video-icon">
+                                        <span class="fa fa-play"></span>
+                                    </div>
+                                </a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--End Cta One-->
+
+        <!--Start Sliding Text One-->
+        <section class="sliding-text-one">
+            <div class="sliding-text-one__wrap">
+                <ul class="sliding-text-one__list marquee_mode">
+                    <li>
+                        <h2 data-hover="medical" class="sliding-text-one__title"> medical
+                            <img src="assets/images/shapes/sliding-text-shape-1.png" alt=""></h2>
+                    </li>
+                    <li>
+                        <h2 data-hover="education" class="sliding-text-one__title style2"> education
+                            <img src="assets/images/shapes/sliding-text-shape-1.png" alt=""></h2>
+                    </li>
+                    <li>
+                        <h2 data-hover="foods" class="sliding-text-one__title"> foods
+                            <img src="assets/images/shapes/sliding-text-shape-1.png" alt=""></h2>
+                    </li>
+                    <li>
+                        <h2 data-hover="health" class="sliding-text-one__title style2">health
+                            <img src="assets/images/shapes/sliding-text-shape-1.png" alt=""></h2>
+                    </li>
+                    <li>
+                        <h2 data-hover="support" class="sliding-text-one__title">support
+                            <img src="assets/images/shapes/sliding-text-shape-1.png" alt=""></h2>
+                    </li>
+                    <li>
+                        <h2 data-hover="donation" class="sliding-text-one__title style2">donation
+                            <img src="assets/images/shapes/sliding-text-shape-1.png" alt=""></h2>
+                    </li>
+                </ul>
+            </div>
+        </section>
+        <!--End Sliding Text One-->
+
+        <!--Start Services One-->
+        <section class="services-one">
+            <div class="shape2 float-bob-y"><img src="assets/images/shapes/services-v1-shape2.png" alt=""></div>
+            <div class="container">
+                <div class="sec-title text-center sec-title-animation animation-style1">
+                    <div class="sec-title__tagline center">
+                        <div class="left-line"></div>
+                        <div class="text">
+                            <h4>How We Make a Difference</h4>
+                        </div>
+                        <div class="right-line"></div>
+                    </div>
+                    <h2 class="sec-title__title title-animation">What We Do to Create Change</h2>
+                </div>
+
+                <div class="row">
+                    <!--Start Services One Single-->
+                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="0ms"
+                        data-wow-duration="1500ms">
+                        <div class="services-one__single text-center">
+                            <div class="shape1"><img src="assets/images/shapes/services-v1-shape1.png" alt=""></div>
+                            <div class="services-one__single-icon">
+                                <span class="icon-mortarboard"></span>
+                            </div>
+                            <h2><a href="donation-details.html">Education</a></h2>
+                            <p>Stay updated with the latest news, events, and impact stories from our organization.
+                                Subscribe to our newsletter.</p>
+                            <div class="btn-box">
+                                <a href="donation-details.html">View Details <span
+                                        class="icon-diagonal-arrow1"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Services One Single-->
+
+                    <!--Start Services One Single-->
+                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInRight" data-wow-delay="100ms"
+                        data-wow-duration="1500ms">
+                        <div class="services-one__single text-center">
+                            <div class="shape1"><img src="assets/images/shapes/services-v1-shape1.png" alt=""></div>
+                            <div class="services-one__single-icon">
+                                <span class="icon-supplies"></span>
+                            </div>
+                            <h2><a href="donation-details.html">Food & Water</a></h2>
+                            <p>Stay updated with the latest news, events, and impact stories from our organization.
+                                Subscribe to our newsletter.</p>
+                            <div class="btn-box">
+                                <a href="donation-details.html">View Details <span
+                                        class="icon-diagonal-arrow1"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Services One Single-->
+
+                    <!--Start Services One Single-->
+                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="200ms"
+                        data-wow-duration="1500ms">
+                        <div class="services-one__single text-center">
+                            <div class="shape1"><img src="assets/images/shapes/services-v1-shape1.png" alt=""></div>
+                            <div class="services-one__single-icon">
+                                <span class="icon-first-aid-kit"></span>
+                            </div>
+                            <h2><a href="donation-details.html">Medical Aid</a></h2>
+                            <p>Stay updated with the latest news, events, and impact stories from our organization.
+                                Subscribe to our newsletter.</p>
+                            <div class="btn-box">
+                                <a href="donation-details.html">View Details <span
+                                        class="icon-diagonal-arrow1"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Services One Single-->
+
+                    <!--Start Services One Single-->
+                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInRight" data-wow-delay="200ms"
+                        data-wow-duration="1500ms">
+                        <div class="services-one__single text-center">
+                            <div class="shape1"><img src="assets/images/shapes/services-v1-shape1.png" alt=""></div>
+                            <div class="services-one__single-icon">
+                                <span class="icon-team"></span>
+                            </div>
+                            <h2><a href="donation-details.html">Disaster Relief</a></h2>
+                            <p>Stay updated with the latest news, events, and impact stories from our organization.
+                                Subscribe to our newsletter.</p>
+                            <div class="btn-box">
+                                <a href="donation-details.html">View Details <span
+                                        class="icon-diagonal-arrow1"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Services One Single-->
+                </div>
+            </div>
+        </section>
+        <!--End Services One-->
+
+        <!--Start Why Choose One-->
+        <section class="why-choose-one">
+            <div class="why-choose-one__pattern"
+                style="background-image: url(assets/images/pattern/why-choose-v1-pattern.jpg);"></div>
+            <div class="shape1"><img src="assets/images/shapes/why-choose-v1-shape1.png" alt=""></div>
+            <div class="shape2"><img src="assets/images/shapes/why-choose-v1-shape2.png" alt=""></div>
+            <div class="container">
+                <div class="row">
+                    <!--Start Why Choose One Content-->
+                    <div class="col-xl-6">
+                        <div class="why-choose-one__content">
+                            <div class="sec-title sec-title-animation animation-style2">
+                                <div class="sec-title__tagline">
+                                    <div class="left-line"></div>
+                                    <div class="text">
+                                        <h4>Your Trust, Their Future</h4>
+                                    </div>
+                                </div>
+                                <h2 class="sec-title__title title-animation">We Turn Your Kindness Into <br> Real Change
+                                </h2>
+                            </div>
+
+                            <div class="why-choose-one__content-text1">
+                                <p>We’re more than just a charity — we’re a movement of hope. Every donation, every
+                                    gift, every hRelawan Kamied goes directly to changing a child’s world. Here’s why
+                                    thousands trust us to deliver smiles and second chances</p>
+                            </div>
+
+                            <div class="why-choose-one__content-text2">
+                                <div class="why-choose-one__content-text2-top">
+                                    <div class="why-choose-one__content-text2-top-left">
+                                        <ul class="why-choose-one__content-text2-top-left-img">
+                                            <li>
+                                                <div class="img-box">
+                                                    <img src="assets/images/resources/why-choose-v1-img3.png" alt="">
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="img-box">
+                                                    <img src="assets/images/resources/why-choose-v1-img4.png" alt="">
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="img-box">
+                                                    <img src="assets/images/resources/why-choose-v1-img5.png" alt="">
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="img-box">
+                                                    <img src="assets/images/resources/why-choose-v1-img6.png" alt="">
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="icon-box">
+                                                    <a href="#"><span class="icon-plus"></span></a>
+                                                </div>
+                                            </li>
+                                        </ul>
+
+                                        <div class="why-choose-one__content-text2-top-left-text">
+                                            <p><span class="odometer" data-count="2"></span>k+ Happy <br>People</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="why-choose-one__content-text2-top-right">
+                                        <div class="rating-box">
+                                            <a href="#"><i class="icon-star"></i></a>
+                                            <a href="#"><i class="icon-star"></i></a>
+                                            <a href="#"><i class="icon-star"></i></a>
+                                            <a href="#"><i class="icon-star"></i></a>
+                                            <a href="#"><i class="icon-star"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="why-choose-one__content-text2-bottom">
+                                    <p>about 45 million people were benefited by 589,537 projects in 24 countries that
+                                        were funded in part.</p>
+                                </div>
+                            </div>
+
+                            <div class="why-choose-one__content-text3">
+                                <ul class="row">
+                                    <li class="col-xl-6 col-lg-6 col-md-6 why-choose-one__content-text3-single">
+                                        <div class="why-choose-one__content-text3-single-inner">
+                                            <div class="icon-box">
+                                                <span class="icon-checked"></span>
+                                            </div>
+
+                                            <div class="text-box">
+                                                <h3>Start Your Donating Now</h3>
+                                                <p>Charity refers to the act of voluntar giving help, ai assistance
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </li>
+
+                                    <li class="col-xl-6 col-lg-6 col-md-6 why-choose-one__content-text3-single">
+                                        <div class="why-choose-one__content-text3-single-inner">
+                                            <div class="icon-box">
+                                                <span class="icon-checked"></span>
+                                            </div>
+
+                                            <div class="text-box">
+                                                <h3>Poor People Make Donation</h3>
+                                                <p>Charity refers to the act of voluntar giving help, ai assistance
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Why Choose One Content-->
+
+                    <!--Start Why Choose One Img-->
+                    <div class="col-xl-6">
+                        <div class="why-choose-one__img clearfix">
+                            <div class="why-choose-one__img1">
+                                <div class="inner">
+                                    <img src="assets/images/resources/why-choose-v1-img1.jpg" alt="">
+                                </div>
+                                <div class="why-choose-one__img-experince">
+                                    <div class="why-choose-one__img-experince-inner">
+                                        <div class="count-text">
+                                            <h2><span class="odometer" data-count="25"></span>+</h2>
+                                        </div>
+                                        <p>Years of <br> Experiences</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="why-choose-one__img2">
+                                <img src="assets/images/resources/why-choose-v1-img2.jpg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Why Choose One Img-->
+                </div>
+            </div>
+        </section>
+        <!--End Why Choose One-->
+
+        <!--Start Approch One-->
+        <section class="approch-one">
+            <div class="shape1 float-bob-x"><img src="assets/images/shapes/approch-v1-shape1.png" alt=""></div>
+            <div class="shape2 float-bob-y"><img src="assets/images/shapes/approch-v1-shape2.png" alt=""></div>
+            <div class="shape3 float-bob-y"><img src="assets/images/shapes/approch-v1-shape3.png" alt=""></div>
+            <div class="container">
+                <div class="sec-title text-center sec-title-animation animation-style1">
+                    <div class="sec-title__tagline center">
+                        <div class="left-line"></div>
+                        <div class="text">
+                            <h4>How We Are</h4>
+                        </div>
+                        <div class="right-line"></div>
+                    </div>
+                    <h2 class="sec-title__title title-animation">Reasons to believe in our <br> effect and dedication
+                    </h2>
+                </div>
+
+                <div class="approch-one__tab tab-box-two">
+                    <ul class="tabs-button-box clearfix">
+                        <li data-tab="#approach" class="tab-btn-item active-btn">
+                            <h3>Our Approach</h3>
+                        </li>
+                        <li data-tab="#inspiration" class="tab-btn-item">
+                            <h3>Full Inspiration</h3>
+                        </li>
+                        <li data-tab="#deffarance" class="tab-btn-item">
+                            <h3>Make A deffarance</h3>
+                        </li>
+                    </ul>
+
+                    <div class="approch-one__tabs-content-inner">
+                        <div class="tabs-content tabs-content-box">
+                            <!--Start Single Tab Content-->
+                            <div class="tab tab-active" id="approach">
+                                <div class="approch-one__single-tab">
+                                    <div class="approch-one__single-tab-inner">
+                                        <div class="row">
+                                            <div class="col-xl-6">
+                                                <div class="approch-one__single-content">
+                                                    <div class="approch-one__single-content-text1">
+                                                        <h2>Inspiring Hope with Generous Acts</h2>
+                                                        <p>We’re more than just a charity — we’re a movement of hope.
+                                                            Every donation, every gift, every hRelawan Kamied goes
+                                                            directly to changing a child’s world. Here’s why thousands
+                                                            trust us to deliver smiles and second chances</p>
+                                                    </div>
+                                                    <div class="approch-one__single-content-text2">
+                                                        <div class="row">
+                                                            <div class="col-xl-6 col-lg-6 col-md-6">
+                                                                <ul class="approch-one__single-content-text2-list">
+                                                                    <li>
+                                                                        <p><span class="icon-checked-1"></span> Accurate
+                                                                            Testing Processes</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        <p><span class="icon-checked-1"></span> 100%
+                                                                            Satisfaction Guarantee</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        <p><span class="icon-checked-1"></span> Award
+                                                                            Winning Company</p>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+
+                                                            <div class="col-xl-6 col-lg-6 col-md-6">
+                                                                <ul class="approch-one__single-content-text2-list">
+                                                                    <li>
+                                                                        <p><span class="icon-checked-1"></span> Accurate
+                                                                            Testing Processes</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        <p><span class="icon-checked-1"></span> 100%
+                                                                            Satisfaction Guarantee</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        <p><span class="icon-checked-1"></span> Award
+                                                                            Winning Company</p>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="approch-one__single-content-btn">
+                                                        <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                                                class="icon-diagonal-arrow1"></span></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-6">
+                                                <div class="approch-one__single-img">
+                                                    <img src="assets/images/resources/approch-v1-img1.jpg" alt="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Single Tab Content-->
+
+                            <!--Start Single Tab Content-->
+                            <div class="tab" id="inspiration">
+                                <div class="approch-one__single-tab">
+                                    <div class="approch-one__single-tab-inner">
+                                        <div class="row">
+                                            <div class="col-xl-6">
+                                                <div class="approch-one__single-content">
+                                                    <div class="approch-one__single-content-text1">
+                                                        <h2>Inspiring Hope with Generous Acts</h2>
+                                                        <p>We’re more than just a charity — we’re a movement of hope.
+                                                            Every donation, every gift, every hRelawan Kamied goes
+                                                            directly to changing a child’s world. Here’s why thousands
+                                                            trust us to deliver smiles and second chances</p>
+                                                    </div>
+                                                    <div class="approch-one__single-content-text2">
+                                                        <div class="row">
+                                                            <div class="col-xl-6 col-lg-6 col-md-6">
+                                                                <ul class="approch-one__single-content-text2-list">
+                                                                    <li>
+                                                                        <p><span class="icon-checked-1"></span> Accurate
+                                                                            Testing Processes</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        <p><span class="icon-checked-1"></span> 100%
+                                                                            Satisfaction Guarantee</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        <p><span class="icon-checked-1"></span> Award
+                                                                            Winning Company</p>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+
+                                                            <div class="col-xl-6 col-lg-6 col-md-6">
+                                                                <ul class="approch-one__single-content-text2-list">
+                                                                    <li>
+                                                                        <p><span class="icon-checked-1"></span> Accurate
+                                                                            Testing Processes</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        <p><span class="icon-checked-1"></span> 100%
+                                                                            Satisfaction Guarantee</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        <p><span class="icon-checked-1"></span> Award
+                                                                            Winning Company</p>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="approch-one__single-content-btn">
+                                                        <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                                                class="icon-diagonal-arrow1"></span></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-6">
+                                                <div class="approch-one__single-img">
+                                                    <img src="assets/images/resources/approch-v1-img1.jpg" alt="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Single Tab Content-->
+
+                            <!--Start Single Tab Content-->
+                            <div class="tab" id="deffarance">
+                                <div class="approch-one__single-tab">
+                                    <div class="approch-one__single-tab-inner">
+                                        <div class="row">
+                                            <div class="col-xl-6">
+                                                <div class="approch-one__single-content">
+                                                    <div class="approch-one__single-content-text1">
+                                                        <h2>Inspiring Hope with Generous Acts</h2>
+                                                        <p>We’re more than just a charity — we’re a movement of hope.
+                                                            Every donation, every gift, every hRelawan Kamied goes
+                                                            directly to changing a child’s world. Here’s why thousands
+                                                            trust us to deliver smiles and second chances</p>
+                                                    </div>
+                                                    <div class="approch-one__single-content-text2">
+                                                        <div class="row">
+                                                            <div class="col-xl-6 col-lg-6 col-md-6">
+                                                                <ul class="approch-one__single-content-text2-list">
+                                                                    <li>
+                                                                        <p><span class="icon-checked-1"></span> Accurate
+                                                                            Testing Processes</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        <p><span class="icon-checked-1"></span> 100%
+                                                                            Satisfaction Guarantee</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        <p><span class="icon-checked-1"></span> Award
+                                                                            Winning Company</p>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+
+                                                            <div class="col-xl-6 col-lg-6 col-md-6">
+                                                                <ul class="approch-one__single-content-text2-list">
+                                                                    <li>
+                                                                        <p><span class="icon-checked-1"></span> Accurate
+                                                                            Testing Processes</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        <p><span class="icon-checked-1"></span> 100%
+                                                                            Satisfaction Guarantee</p>
+                                                                    </li>
+                                                                    <li>
+                                                                        <p><span class="icon-checked-1"></span> Award
+                                                                            Winning Company</p>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="approch-one__single-content-btn">
+                                                        <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                                                class="icon-diagonal-arrow1"></span></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-6">
+                                                <div class="approch-one__single-img">
+                                                    <img src="assets/images/resources/approch-v1-img1.jpg" alt="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Single Tab Content-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--End Approch One-->
+
+        <!--Start Funfact One-->
+        <section class="funfact-one">
+            <div class="shape1 float-bob-x"><img src="assets/images/shapes/funfact-v1-shape1.png" alt=""></div>
+            <div class="container">
+                <div class="funfact-one__inner">
+                    <ul class="row funfact-one__box">
+                        <li class="col-xl-3 col-lg-3 col-md-6 funfact-one__single wow fadeInLeft" data-wow-delay="0ms"
+                            data-wow-duration="1500ms">
+                            <div class="funfact-one__single-inner">
+                                <h2><span class="odometer" data-count="25"></span>k<span class="plus icon-plus"></span>
+                                </h2>
+                                <p>Incredible Volunteers</p>
+                            </div>
+                        </li>
+
+                        <li class="col-xl-3 col-lg-3 col-md-6  funfact-one__single clr2 wow fadeInRight"
+                            data-wow-delay="0ms" data-wow-duration="1500ms">
+                            <div class="funfact-one__single-inner">
+                                <h2><span class="odometer" data-count="10"></span>k<span class="plus icon-plus"></span>
+                                </h2>
+                                <p>Successful Campaigns</p>
+                            </div>
+                        </li>
+
+                        <li class="col-xl-3 col-lg-3 col-md-6  funfact-one__single wow fadeInLeft" data-wow-delay="0ms"
+                            data-wow-duration="1500ms">
+                            <div class="funfact-one__single-inner">
+                                <h2><span class="odometer" data-count="500"></span><span
+                                        class="plus ml icon-plus"></span>
+                                </h2>
+                                <p>Monthly Donors</p>
+                            </div>
+                        </li>
+
+                        <li class="col-xl-3 col-lg-3 col-md-6 funfact-one__single clr2 wow fadeInRight"
+                            data-wow-delay="0ms" data-wow-duration="1500ms">
+                            <div class="funfact-one__single-inner">
+                                <h2><span class="odometer" data-count="45"></span>k<span class="plus icon-plus"></span>
+                                </h2>
+                                <p>Team Support</p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <!--End Funfact One-->
+
+        <!--Start Testimonial One-->
+        <section class="testimonial-one">
+            <div class="testimonial-one__pattern"
+                style="background-image: url(assets/images/pattern/testimonial-v1-pattern.jpg);"></div>
+            <div class="container">
+                <div class="row">
+                    <!--Start Testimonial One Img-->
+                    <div class="col-xl-5 wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                        <div class="testimonial-one__img">
+                            <div class="testimonial-one__img-inner">
+                                <img src="assets/images/testimonial/testimonial-v1-img1.jpg" alt="">
+
+                                <div class="ratting-box">
+                                    <p><span class="icon-star"></span> 4.9</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Testimonial One Img-->
+
+                    <!--Start Testimonial One Content-->
+                    <div class="col-xl-7">
+                        <div class="testimonial-one__content">
+                            <div class="sec-title sec-title-animation animation-style2">
+                                <div class="sec-title__tagline">
+                                    <div class="left-line"></div>
+                                    <div class="text">
+                                        <h4>Testimoni Kami</h4>
+                                    </div>
+                                </div>
+                                <h2 class="sec-title__title title-animation">Dipercaya oleh Ribuan Orang <br>& Lembaga atau Instansi
+                                </h2>
+                            </div>
+
+                            <div class="testimonial-one__carousel owl-carousel owl-theme">
+                                <!--Start Testimonial One Single-->
+                                <div class="testimonial-one__single">
+                                    <div class="testimonial-one__single-quote">
+                                        <span class="icon-ux"></span>
+                                    </div>
+                                    <div class="rating-box">
+                                        <a href="#"><i class="icon-star"></i></a>
+                                        <a href="#"><i class="icon-star"></i></a>
+                                        <a href="#"><i class="icon-star"></i></a>
+                                        <a href="#"><i class="icon-star"></i></a>
+                                        <a href="#"><i class="icon-star"></i></a>
+                                    </div>
+                                    <p>“Tetap terhubung dengan kegiatan dan kampanye kami. Baik itu gala penggalangan dana, lari amal, atau program bantuan masyarakat, selalu ada cara untuk terlibat dan mendukung program kami. Periksa kalender kegiatan kami untuk detail lengkap. Kami juga mengutamakan keamanan Anda. Proses donasi menggunakan teknologi enkripsi terbaru untuk melindungi informasi pribadi dan keuangan Anda. Berdonasilah dengan tenang dan yakin."</p>
+
+                                    <div class="author-info">
+                                        <div class="img-box">
+                                            <img src="assets/images/testimonial/testimonial-v1-img2.jpg" alt="">
+                                        </div>
+                                        <div class="text-box">
+                                            <h2>Isman Muhlis</h2>
+                                            <p>CEO, Founder</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--End Testimonial One Single-->
+                                <!--Start Testimonial One Single-->
+                                <div class="testimonial-one__single">
+                                    <div class="testimonial-one__single-quote">
+                                        <span class="icon-ux"></span>
+                                    </div>
+                                    <div class="rating-box">
+                                        <a href="#"><i class="icon-star"></i></a>
+                                        <a href="#"><i class="icon-star"></i></a>
+                                        <a href="#"><i class="icon-star"></i></a>
+                                        <a href="#"><i class="icon-star"></i></a>
+                                        <a href="#"><i class="icon-star"></i></a>
+                                    </div>
+                                    <p>“Stay informed about our upcoming events and campaigns. Whether it's a
+                                        fundraising gala, a charity run, or a community outreach program, there are
+                                        plenty of ways to get involved and support our cause. Check our event calendar
+                                        for details. We prioritize your security. Our donation process uses the latest
+                                        encryption technology to protect your personal and financial information. Donate
+                                        with confidence knowing”</p>
+
+                                    <div class="author-info">
+                                        <div class="img-box">
+                                            <img src="assets/images/testimonial/testimonial-v1-img2.png" alt="">
+                                        </div>
+                                        <div class="text-box">
+                                            <h2>Isman Muhlis</h2>
+                                            <p>CEO, Founder</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--End Testimonial One Single-->
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Testimonial One Content-->
+                </div>
+            </div>
+        </section>
+        <!--End Testimonial One-->
+
+        <!--Start Team One-->
+        <section class="team-one">
+            <div class="team-one__pattern" style="background-image: url(assets/images/pattern/team-v1-pattern.png);">
+            </div>
+            <div class="shape1 float-bob-y"><img src="assets/images/shapes/team-v1-shape1.png" alt=""></div>
+            <div class="container">
+                <div class="sec-title text-center sec-title-animation animation-style1">
+                    <div class="sec-title__tagline center">
+                        <div class="left-line"></div>
+                        <div class="text">
+                            <h4>Relawan Kami</h4>
+                        </div>
+                        <div class="right-line"></div>
+                    </div>
+                    <h2 class="sec-title__title title-animation">Relawan Kami yang Penuh Semangat</h2>
+                </div>
+                <div class="row">
+                    <!--Start Team One Single-->
+                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
+                        <div class="team-one__single">
+                            <div class="team-one__single-img">
+                                <img src="assets/images/team/team-v1-img1.jpg" alt="">
+                                <div class="team-one__single-content">
+                                    <div class="team-one__single-social-links">
+                                        <a href="#"><span class="icon-facebook-app-symbol"></span></a>
+                                        <a href="#"><span class="icon-twitter"></span></a>
+                                        <a href="#"><span class="icon-instagram"></span></a>
+                                        <a href="#"><span class="icon-behance"></span></a>
+                                    </div>
+
+                                    <div class="text-box">
+                                        <h2><a href="team-details.html">Isman Muhlis</a></h2>
+                                        <p>Volunteer</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Team One Single-->
+
+                    <!--Start Team One Single-->
+                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInDown" data-wow-delay=".3s">
+                        <div class="team-one__single">
+                            <div class="team-one__single-img">
+                                <img src="assets/images/team/team-v1-img2.jpg" alt="">
+                                <div class="team-one__single-content">
+                                    <div class="team-one__single-social-links">
+                                        <a href="#"><span class="icon-facebook-app-symbol"></span></a>
+                                        <a href="#"><span class="icon-twitter"></span></a>
+                                        <a href="#"><span class="icon-instagram"></span></a>
+                                        <a href="#"><span class="icon-behance"></span></a>
+                                    </div>
+
+                                    <div class="text-box">
+                                        <h2><a href="team-details.html">Isman Muhlis</a></h2>
+                                        <p>Volunteer</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Team One Single-->
+
+                    <!--Start Team One Single-->
+                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
+                        <div class="team-one__single">
+                            <div class="team-one__single-img">
+                                <img src="assets/images/team/team-v1-img3.jpg" alt="">
+                                <div class="team-one__single-content">
+                                    <div class="team-one__single-social-links">
+                                        <a href="#"><span class="icon-facebook-app-symbol"></span></a>
+                                        <a href="#"><span class="icon-twitter"></span></a>
+                                        <a href="#"><span class="icon-instagram"></span></a>
+                                        <a href="#"><span class="icon-behance"></span></a>
+                                    </div>
+
+                                    <div class="text-box">
+                                        <h2><a href="team-details.html">Isman Muhlis</a></h2>
+                                        <p>Volunteer</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Team One Single-->
+
+                    <!--Start Team One Single-->
+                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInDown" data-wow-delay=".3s">
+                        <div class="team-one__single">
+                            <div class="team-one__single-img">
+                                <img src="assets/images/team/team-v1-img4.jpg" alt="">
+                                <div class="team-one__single-content">
+                                    <div class="team-one__single-social-links">
+                                        <a href="#"><span class="icon-facebook-app-symbol"></span></a>
+                                        <a href="#"><span class="icon-twitter"></span></a>
+                                        <a href="#"><span class="icon-instagram"></span></a>
+                                        <a href="#"><span class="icon-behance"></span></a>
+                                    </div>
+
+                                    <div class="text-box">
+                                        <h2><a href="team-details.html">Isman Muhlis</a></h2>
+                                        <p>Volunteer</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Team One Single-->
+                </div>
+            </div>
+        </section>
+        <!--End Team One-->
+
+        <!--Start Faq One-->
+        <section class="faq-one">
+            <div class="shape2 float-bob-y"><img src="assets/images/shapes/faq-v1-shape2.png" alt=""></div>
+            <div class="container">
+                <div class="row">
+                    <!--Start Faq One Content-->
+                    <div class="col-xl-6">
+                        <div class="faq-one__content">
+                            <div class="sec-title sec-title-animation animation-style2">
+                                <div class="sec-title__tagline">
+                                    <div class="left-line"></div>
+                                    <div class="text">
+                                        <h4>Pertanyaan yang Sering Diajukan (FAQ)</h4>
+                                    </div>
+                                </div>
+                                <h2 class="sec-title__title title-animation">Di sini Anda bisa menemukan jawaban <br>dari pertanyaan umum</h2>
+                            </div>
+
+                            <div class="faq-one__content-faq">
+                                <div class="accrodion-grp faq-one-accrodion" data-grp-name="faq-one-accrodion-1">
+                                    <div class="accrodion active">
+                                        <div class="accrodion-title">
+                                            <h4>Apakah saya bisa memilih program yang ingin saya bantu?</h4>
+                                        </div>
+
+                                        <div class="accrodion-content">
+                                            <div class="inner">
+                                                <p>Ya! Anda dapat memilih program atau anak yang ingin didukung sesuai dengan pilihan dan kepedulian Anda. Kami menyediakan berbagai program dari pendidikan, kesehatan, hingga pemberdayaan ekonomi, sehingga Anda bisa menyalurkan bantuan sesuai minat.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="accrodion">
+                                        <div class="accrodion-title">
+                                            <h4>Bagaimana saya bisa menjadi relawan?</h4>
+                                        </div>
+
+                                        <div class="accrodion-content">
+                                            <div class="inner">
+                                                <p>Kami menawarkan banyak kesempatan untuk menjadi relawan, mulai dari perencanaan acara, penggalangan dana, pekerjaan lapangan, hingga dukungan administrasi. Temukan peran yang paling sesuai dengan kemampuan dan minat Anda.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="accrodion">
+                                        <div class="accrodion-title">
+                                            <h4>Bagaimana cara memastikan donasi saya tepat sasaran?</h4>
+                                        </div>
+
+                                        <div class="accrodion-content">
+                                            <div class="inner">
+                                                <p>Setiap donasi dikelola secara transparan dan diawasi oleh tim profesional kami. Kami menjamin bantuan yang Anda berikan tersalurkan langsung kepada penerima manfaat yang membutuhkan.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Faq One Content-->
+
+                    <!--Start Faq One Img-->
+                    <div class="col-xl-6">
+                        <div class="faq-one__img clearfix">
+                            <div class="faq-one__img1">
+                                <img src="assets/images/resources/faq-v1-img1.jpg" alt="">
+                                <div class="shape1"><img src="assets/images/shapes/faq-v1-shape1.png" alt=""></div>
+                            </div>
+                            <div class="faq-one__img2">
+                                <img src="assets/images/resources/faq-v1-img2.jpg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Faq One Img-->
+                </div>
+            </div>
+        </section>
+        <!--End Faq One-->
+
+        <!--Start Contact One -->
+        <section class="contact-one">
+            <div class="contact-one__bg" style=" background-image: url(assets/images/backgrounds/contact-v1-bg.jpg);">
+            </div>
+            <div class="shape1"><img src="assets/images/shapes/contact-v1-shape1.png" alt=""></div>
+            <div class="container">
+                <div class="contact-one__inner clearfix">
+                    <!--Start Contact One Form-->
+                    <div class="contact-one__form wow fadeInRight" data-wow-delay="200ms" data-wow-duration="1500ms">
+                        <div class="sec-title sec-title-animation animation-style2">
+                            <div class="sec-title__tagline">
+                                <div class="left-line"></div>
+                                <div class="text">
+                                    <h4>Get In Touch</h4>
+                                </div>
+                            </div>
+                            <h2 class="sec-title__title title-animation">We’d Love to Hear From You
+                            </h2>
+                        </div>
+                        <form class="contact-form-validated contact-one__form-box" action="assets/inc/sendemail.php"
+                            method="post" novalidate="novalidate">
+                            <div class="row">
+                                <div class="col-xl-6 col-lg-6 col-md-6">
+                                    <div class="input-box">
+                                        <input type="text" name="name" placeholder="Full Name*" required="">
+                                    </div>
+                                </div>
+                                <div class="col-xl-6 col-lg-6 col-md-6">
+                                    <div class="input-box">
+                                        <input type="email" name="email" placeholder="Email Address*" required="">
+                                    </div>
+                                </div>
+
+                                <div class="col-xl-12 col-lg-12 col-md-12">
+                                    <div class="input-box">
+                                        <div class="select-box">
+                                            <select class="selectmenu wide">
+                                                <option selected="selected">Services</option>
+                                                <option>Services 01</option>
+                                                <option>Services 02</option>
+                                                <option>Services 03</option>
+                                                <option>Services 04</option>
+                                                <option>Services 05</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-xl-12">
+                                    <div class="input-box">
+                                        <textarea name="message" placeholder="Your Message"></textarea>
+                                    </div>
+                                </div>
+
+                                <div class="col-xl-12">
+                                    <div class="contact-page__form-btn">
+                                        <button type="submit" class="thm-btn">
+                                            Contact Us <span class="icon-diagonal-arrow1"></span>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                        <div class="result"></div>
+                    </div>
+                    <!--End Contact One Form-->
+                </div>
+            </div>
+        </section>
+        <!--End Contact One -->
+
+        <!--Start Blog One-->
+        <section class="blog-one">
+            <div class="shape2 float-bob-y"><img src="assets/images/shapes/blog-v1-shape2.png" alt=""></div>
+            <div class="container">
+                <div class="sec-title text-center sec-title-animation animation-style1">
+                    <div class="sec-title__tagline center">
+                        <div class="left-line"></div>
+                        <div class="text">
+                            <h4>News & Articles</h4>
+                        </div>
+                        <div class="right-line"></div>
+                    </div>
+                    <h2 class="sec-title__title title-animation">Latest News & Articles from <br>
+                        the Blog Posts</h2>
+                </div>
+
+                <div class="row">
+                    <!--Start Blog One Single-->
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s">
+                        <div class="blog-one__single">
+                            <div class="blog-one__single-img">
+                                <div class="shape1"><img src="assets/images/shapes/blog-v1-shape1.png" alt=""></div>
+                                <img src="assets/images/blog/blog-v1-img1.jpg" alt="">
+                                <a href="blog-details.html" class="blog-one__link"><span class="icon-plus"></span></a>
+                            </div>
+
+                            <div class="blog-one__single-content">
+                                <ul class="meta-info">
+                                    <li>
+                                        <p>By Admin</p>
+                                    </li>
+                                    <li>
+                                        <p>08 April, 2025</p>
+                                    </li>
+                                </ul>
+                                <h2><a href="blog-details.html">How Clean Water Changed a Village in Kenya</a></h2>
+                                <div class="btn-box">
+                                    <a href="blog-details.html" class="thm-btn">Read More <span
+                                            class="icon-diagonal-arrow1"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Blog One Single-->
+
+                    <!--Start Blog One Single-->
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.3s">
+                        <div class="blog-one__single">
+                            <div class="blog-one__single-img">
+                                <div class="shape1"><img src="assets/images/shapes/blog-v1-shape1.png" alt=""></div>
+                                <img src="assets/images/blog/blog-v1-img2.jpg" alt="">
+                                <a href="blog-details.html" class="blog-one__link"><span class="icon-plus"></span></a>
+                            </div>
+
+                            <div class="blog-one__single-content">
+                                <ul class="meta-info">
+                                    <li>
+                                        <p>By Admin</p>
+                                    </li>
+                                    <li>
+                                        <p>12 April, 2025</p>
+                                    </li>
+                                </ul>
+                                <h2><a href="blog-details.html">Volunteer Diaries: Feeding 500 Families in One Day</a>
+                                </h2>
+                                <div class="btn-box">
+                                    <a href="blog-details.html" class="thm-btn">Read More <span
+                                            class="icon-diagonal-arrow1"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Blog One Single-->
+
+                    <!--Start Blog One Single-->
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.5s">
+                        <div class="blog-one__single">
+                            <div class="blog-one__single-img">
+                                <div class="shape1"><img src="assets/images/shapes/blog-v1-shape1.png" alt=""></div>
+                                <img src="assets/images/blog/blog-v1-img3.jpg" alt="">
+                                <a href="blog-details.html" class="blog-one__link"><span class="icon-plus"></span></a>
+                            </div>
+
+                            <div class="blog-one__single-content">
+                                <ul class="meta-info">
+                                    <li>
+                                        <p>By Admin</p>
+                                    </li>
+                                    <li>
+                                        <p>20 April, 2025</p>
+                                    </li>
+                                </ul>
+                                <h2><a href="blog-details.html">5 Ways You Can Support Without Donating</a></h2>
+                                <div class="btn-box">
+                                    <a href="blog-details.html" class="thm-btn">Read More <span
+                                            class="icon-diagonal-arrow1"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Blog One Single-->
+                </div>
+            </div>
+        </section>
+        <!--End Blog One-->
+
+        <!--Start Brand One-->
+        <section class="brand-one">
+            <div class="shape1 float-bob-y"><img src="assets/images/shapes/brand-v1-shape1.png" alt=""></div>
+            <div class="container">
+                <div class="brand-one__title">
+                    <h4><span>2k+</span> Brands Trust Us</h4>
+                </div>
+                <div class="brand-one__inner">
+                    <div class="brand-one__carousel owl-carousel owl-theme">
+                        <!--Start Brand One Single-->
+                        <div class="brand-one__single">
+                            <div class="brand-one__single-inner">
+                                <a href="#">
+                                    <img src="assets/images/brand/brand-1-7.png" alt="">
+                                    <img src="assets/images/brand/brand-1-1.png" alt="">
+                                </a>
+                            </div>
+                        </div>
+                        <!--End Brand One Single-->
+
+                        <!--Start Brand One Single-->
+                        <div class="brand-one__single">
+                            <div class="brand-one__single-inner">
+                                <a href="#">
+                                    <img src="assets/images/brand/brand-1-8.png" alt="">
+                                    <img src="assets/images/brand/brand-1-2.png" alt="">
+                                </a>
+                            </div>
+                        </div>
+                        <!--End Brand One Single-->
+
+                        <!--Start Brand One Single-->
+                        <div class="brand-one__single">
+                            <div class="brand-one__single-inner">
+                                <a href="#">
+                                    <img src="assets/images/brand/brand-1-9.png" alt="">
+                                    <img src="assets/images/brand/brand-1-3.png" alt="">
+                                </a>
+                            </div>
+                        </div>
+                        <!--End Brand One Single-->
+
+                        <!--Start Brand One Single-->
+                        <div class="brand-one__single">
+                            <div class="brand-one__single-inner">
+                                <a href="#">
+                                    <img src="assets/images/brand/brand-1-10.png" alt="">
+                                    <img src="assets/images/brand/brand-1-4.png" alt="">
+                                </a>
+                            </div>
+                        </div>
+                        <!--End Brand One Single-->
+
+                        <!--Start Brand One Single-->
+                        <div class="brand-one__single">
+                            <div class="brand-one__single-inner">
+                                <a href="#">
+                                    <img src="assets/images/brand/brand-1-11.png" alt="">
+                                    <img src="assets/images/brand/brand-1-5.png" alt="">
+                                </a>
+                            </div>
+                        </div>
+                        <!--End Brand One Single-->
+
+                        <!--Start Brand One Single-->
+                        <div class="brand-one__single">
+                            <div class="brand-one__single-inner">
+                                <a href="#">
+                                    <img src="assets/images/brand/brand-1-12.png" alt="">
+                                    <img src="assets/images/brand/brand-1-6.png" alt="">
+                                </a>
+                            </div>
+                        </div>
+                        <!--End Brand One Single-->
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--End Brand One-->
+
+        <!--Start Site Footer-->
+        <footer class="site-footer site-footer--one">
+            <div class="site-footer__bg" style="background-image: url(assets/images/backgrounds/site-footer-bg.jpg);">
+            </div>
+            <div class="shape1"><img src="assets/images/shapes/site-footer-v1-shape1.png" alt=""></div>
+            <div class="shape2 float-bob-x"><img src="assets/images/shapes/site-footer-v1-shape2.png" alt=""></div>
+            <div class="shape3 float-bob-y"><img src="assets/images/shapes/site-footer-v1-shape3.png" alt=""></div>
+            <div class="container">
+                <div class="site-footer__top">
+                    <ul class="row site-footer__top-contact-info">
+                        <li class="col-xl-4 col-lg-4 site-footer__top-contact-info-single">
+                            <div class="site-footer__top-contact-info-single-inner">
+                                <div class="icon-box">
+                                    <span class="icon-telephone"></span>
+                                </div>
+
+                                <div class="content-box">
+                                    <p>call emergency</p>
+                                    <h3><a href="http://wa.me/6281242099798">+62 812 4209 9798</a></h3>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="col-xl-4 col-lg-4 site-footer__top-contact-info-single">
+                            <div class="site-footer__top-contact-info-single-inner">
+                                <div class="icon-box">
+                                    <span class="icon-mail"></span>
+                                </div>
+
+                                <div class="content-box">
+                                    <p>call emergency</p>
+                                    <h3><a href="mailto:info@exmple.com">info@exmple.com</a></h3>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="col-xl-4 col-lg-4 site-footer__top-contact-info-single">
+                            <div class="site-footer__top-contact-info-single-inner">
+                                <div class="icon-box">
+                                    <span class="icon-location"></span>
+                                </div>
+
+                                <div class="content-box">
+                                    <p>address</p>
+                                    <h3>4648 Rocky Road Philadelphia PA</h3>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="site-footer__middle">
+                    <div class="row">
+                        <div class="col-xl-3 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s">
+                            <div class="footer-widget__column footer-widget__about">
+                                <div class="footer-widget__logo">
+                                    <a href="index.html"><img class="logo-footer" src="assets/images/resources/logo-2.png" alt=""></a>
+                                </div>
+
+                                <p class="footer-widget__about-text">Our secure online donation platform allows you to
+                                    make contributions quickly and safely. Choose from various.</p>
+
+                                <div class="footer-widget__about-social-links">
+                                    <a href="#"><span class="icon-facebook-app-symbol"></span></a>
+                                    <a href="#"><span class="icon-twitter"></span></a>
+                                    <a href="#"><span class="icon-youtube"></span></a>
+                                    <a href="#"><span class="icon-linkedin-big-logo"></span></a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xl-3 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.2s">
+                            <div class="footer-widget__column footer-widget__useful-link ml85">
+                                <div class="footer-widget__title-box">
+                                    <h3 class="footer-widget__title">Quick Links</h3>
+                                </div>
+
+                                <div class="footer-widget__link-box">
+                                    <ul class="footer-widget__link">
+                                        <li><a href="about.html"><span class="icon-next"></span> About Us</a></li>
+                                        <li><a href="donation.html"><span class="icon-next"></span> Our Services</a>
+                                        </li>
+                                        <li><a href="blog-grid.html"><span class="icon-next"></span> Our Blogs</a></li>
+                                        <li><a href="faq.html"><span class="icon-next"></span> FAQ’S</a></li>
+                                        <li><a href="contact.html"><span class="icon-next"></span> Contact Us</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xl-3 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.3s">
+                            <div class="footer-widget__column footer-widget__useful-link services">
+                                <div class="footer-widget__title-box">
+                                    <h3 class="footer-widget__title">Our Services</h3>
+                                </div>
+
+                                <div class="footer-widget__link-box">
+                                    <ul class="footer-widget__link">
+                                        <li><a href="donation-details.html"><span class="icon-next"></span> Give
+                                                Donation</a></li>
+                                        <li><a href="donation-details.html"><span class="icon-next"></span> Education
+                                                Support</a>
+                                        </li>
+                                        <li><a href="donation-details.html"><span class="icon-next"></span> Food
+                                                Support</a></li>
+                                        <li><a href="donation-details.html"><span class="icon-next"></span> Health
+                                                Support</a></li>
+                                        <li><a href="donation-details.html"><span class="icon-next"></span> Our
+                                                Campaign</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xl-3 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.4s">
+                            <div class="footer-widget__column footer-widget__newsletter">
+                                <div class="footer-widget__title-box">
+                                    <h3 class="footer-widget__title">Newsletter</h3>
+                                </div>
+
+                                <div class="footer-widget__newsletter-inner">
+                                    <p class="footer-widget__newsletter-text">Subscribe to Our Newsletter. Regular
+                                        inspection and feedback mechanisms</p>
+
+                                    <form class="footer-widget__newsletter-form">
+                                        <div class="footer-widget__newsletter-input-box">
+                                            <input type="email" placeholder="Enter your email" name="email">
+                                            <button type="submit" class="footer-widget__newsletter-btn"><i
+                                                    class="icon-paper-plane"></i></button>
+                                        </div>
+                                    </form>
+
+                                    <div class="footer-widget__checked">
+                                        <input type="checkbox" name="skipper1" id="skipper2" checked="">
+                                        <label for="skipper2"><span></span>I agree to the <a href="#">Privacy
+                                                Policy.</a></label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="site-footer__bottom">
+                <div class="container">
+                    <div class="site-footer__bottom-inner">
+                        <p class="site-footer__bottom-text">© All Copyright 2025 by <a href="index.html">Donatix</a></p>
+
+                        <ul class="site-footer__bottom-menu">
+                            <li><a href="about.html">Terms and Condition</a></li>
+                            <li><a href="about.html">Privacy and Policy</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!--End Site Footer-->
+
+    </div><!-- /.page-wrapper -->
+
+
+    <div class="mobile-nav__wrapper">
+        <div class="mobile-nav__overlay mobile-nav__toggler"></div>
+        <!-- /.mobile-nav__overlay -->
+        <div class="mobile-nav__content">
+            <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
+            <div class="logo-box">
+                <a href="index.html" aria-label="logo image"><img src="assets/images/resources/logo-2.png" width="140"
+                        alt="" /></a>
+            </div>
+            <!-- /.logo-box -->
+            <div class="mobile-nav__container"></div>
+            <!-- /.mobile-nav__container -->
+
+            <ul class="mobile-nav__contact list-unstyled">
+                <li>
+                    <i class="fa fa-envelope"></i>
+                    <a href="mailto:needhelp@packageName__.com">needhelp@donatix</a>
+                </li>
+                <li>
+                    <i class="fas fa-phone"></i>
+                    <a href="tel:666-888-0000">666 888 0000</a>
+                </li>
+            </ul><!-- /.mobile-nav__contact -->
+            <div class="mobile-nav__top">
+                <div class="mobile-nav__social">
+                    <a href="#" class="fab fa-twitter"></a>
+                    <a href="#" class="fab fa-facebook-square"></a>
+                    <a href="#" class="fab fa-pinterest-p"></a>
+                    <a href="#" class="fab fa-instagram"></a>
+                </div><!-- /.mobile-nav__social -->
+            </div><!-- /.mobile-nav__top -->
+
+        </div>
+        <!-- /.mobile-nav__content -->
+    </div>
+    <!-- /.mobile-nav__wrapper -->
+
+
+
+    <!-- Search Popup -->
+    <div class="search-popup">
+        <div class="color-layer"></div>
+        <button class="close-search"><span class="far fa-times fa-fw"></span></button>
+        <form method="post" action="blog.html">
+            <div class="form-group">
+                <input type="search" name="search-field" value="" placeholder="Search Here" required="">
+                <button type="submit"><i class="fas fa-search"></i></button>
+            </div>
+        </form>
+    </div>
+    <!-- End Search Popup -->
+
+
+
+    <a href="#" data-target="html" class="scroll-to-target scroll-to-top">
+        <span class="scroll-to-top__wrapper"><span class="scroll-to-top__inner"></span></span>
+        <span class="scroll-to-top__text"> Go Back Top</span>
+    </a>
+
+
+    <script src="assets/js/jquery-latest.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/jarallax.min.js"></script>
+    <script src="assets/js/jquery.ajaxchimp.min.js"></script>
+    <script src="assets/js/jquery.appear.min.js"></script>
+    <script src="assets/js/swiper.min.js"></script>
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="assets/js/jquery.validate.min.js"></script>
+    <script src="assets/js/wNumb.min.js"></script>
+    <script src="assets/js/wow.js"></script>
+    <script src="assets/js/isotope.js"></script>
+    <script src="assets/js/owl.carousel.min.js"></script>
+    <script src="assets/js/jquery-ui.js"></script>
+    <script src="assets/js/jquery.nice-select.min.js"></script>
+    <script src="assets/js/marquee.min.js"></script>
+    <script src="assets/js/countdown.min.js"></script>
+    <script src="assets/js/jquery.circleType.js"></script>
+    <script src="assets/js/jquery.fittext.js"></script>
+    <script src="assets/js/jquery.lettering.min.js"></script>
+    <script src="assets/js/jquery-sidebar-content.js"></script>
+    <script src="assets/js/aos.js"></script>
+    <script src="assets/js/odometer.min.js"></script>
+
+    <script src="assets/js/gsap/gsap.js"></script>
+    <script src="assets/js/gsap/ScrollTrigger.js"></script>
+    <script src="assets/js/gsap/SplitText.js"></script>
+
+    <!-- template js -->
+    <script src="assets/js/script.js"></script>
+    <script src="assets/js/custom.js"></script>
+</body>
+
+</html>
