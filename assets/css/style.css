@@ -2257,6 +2257,7 @@ Thm Dot Style2
   transition: opacity 500ms ease 0ms, visibility 500ms ease 0ms, -webkit-transform 500ms ease 0ms;
   transition: opacity 500ms ease 0ms, visibility 500ms ease 0ms, transform 500ms ease 0ms;
   transition: opacity 500ms ease 0ms, visibility 500ms ease 0ms, transform 500ms ease 0ms, -webkit-transform 500ms ease 0ms;
+  border-radius: 0 16px 0 16px;
 }
 
 .mobile-nav__wrapper.expanded .mobile-nav__content {
