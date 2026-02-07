@@ -3,37 +3,32 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/peke6862/public_html/
     - /bin/cp index.php $DEPLOYPATH
-    - /bin/cp index-backup.html $DEPLOYPATH
-    - /bin/cp index-one-page.html $DEPLOYPATH
-    - /bin/cp index-dark.html $DEPLOYPATH
-    - /bin/cp index2-one-page.html $DEPLOYPATH
-    - /bin/cp index2.html $DEPLOYPATH
-    - /bin/cp index3-one-page.html $DEPLOYPATH
-    - /bin/cp index3.html $DEPLOYPATH
-    - /bin/cp team-details.html $DEPLOYPATH
-    - /bin/cp team.html $DEPLOYPATH
+    - /bin/cp team-details.php $DEPLOYPATH
+    - /bin/cp team.php $DEPLOYPATH
     - /bin/cp about.php $DEPLOYPATH
     
+    - /bin/cp blog-details.php $DEPLOYPATH
+    - /bin/cp blog.php $DEPLOYPATH
+    - /bin/cp blog-standard.php $DEPLOYPATH
     
-    - /bin/cp blog-details.html $DEPLOYPATH
-    - /bin/cp blog-grid.html $DEPLOYPATH
-    - /bin/cp blog-standard.html $DEPLOYPATH
+    - /bin/cp donation-details.php $DEPLOYPATH
+    - /bin/cp donate-now.php $DEPLOYPATH
+    - /bin/cp donation.php $DEPLOYPATH
     
-    - /bin/cp donation-details.html $DEPLOYPATH
-    - /bin/cp donate-now.html $DEPLOYPATH
-    - /bin/cp donation.html $DEPLOYPATH
-    
-    - /bin/cp event-details.html $DEPLOYPATH
-    - /bin/cp event-grid.html $DEPLOYPATH
-    - /bin/cp event-list.html $DEPLOYPATH
+    - /bin/cp event-details.php $DEPLOYPATH
+    - /bin/cp event-grid.php $DEPLOYPATH
+    - /bin/cp event.php $DEPLOYPATH
     
     - /bin/cp gallery.php $DEPLOYPATH
 
     - /bin/cp contact.php $DEPLOYPATH
-    - /bin/cp header.php $DEPLOYPATH
     
-    - /bin/cp faq.html $DEPLOYPATH
-    - /bin/cp become-volunteer.html $DEPLOYPATH
-    - /bin/cp 404.html $DEPLOYPATH
+    - /bin/cp faq.php $DEPLOYPATH
+    - /bin/cp become-volunteer.php $DEPLOYPATH
+    - /bin/cp 404.php $DEPLOYPATH
 
     - /bin/cp -R assets $DEPLOYPATH
+    - /bin/cp -R includes $DEPLOYPATH
+    - /bin/cp -R archives $DEPLOYPATH
+
+    - /bin/cp .htaccess $DEPLOYPATH

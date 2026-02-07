@@ -111,259 +111,8 @@
 
     <div class="page-wrapper">
 
-        <!--Start Main Header One-->
-        <header class="main-header main-header__one">
-            <!--Start Main Header One Top-->
-            <div class="main-header__one-top">
-                <div class="container">
-                    <div class="main-header__one-top-inner">
-                        <div class="main-header__one-top-left">
-                            <ul class="main-header__contact-list-style1">
-                                <li>
-                                    <div class="icon-box">
-                                        <span class="icon-mail"></span>
-                                    </div>
-                                    <div class="text-box">
-                                        <p><a href="mailto:info@donatix24.com">info@exmple.com</a>
-                                        </p>
-                                    </div>
-                                </li>
-
-                                <li>
-                                    <div class="icon-box">
-                                        <span class="icon-location"></span>
-                                    </div>
-                                    <div class="text-box">
-                                        <p>Rd. Santa Ana, Illinois 85486, United States
-                                        </p>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-
-                        <div class="main-header__one-top-right">
-                            <div class="main-header__social-links-style1">
-                                <div class="title-box">
-                                    <h4>Follow Us </h4>
-                                </div>
-
-                                <ul class="main-header__social-links-style1-list">
-                                    <li><a href="#"><span class="icon-facebook-app-symbol"></span></a></li>
-                                    <li><a href="#"><span class="icon-twitter"></span></a></li>
-                                    <li><a href="#"><span class="icon-youtube"></span></a></li>
-                                    <li><a href="#"><span class="icon-linkedin-big-logo"></span></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--End Main Header One Top-->
-
-            <!--Start Main Header One Bottom-->
-            <div class="main-header__one-bottom">
-                <nav class="main-menu">
-                    <div class="container">
-                        <div class="main-menu__wrapper">
-                            <div class="main-menu__wrapper-inner">
-
-                                <div class="main-header__one-bottom-left">
-                                    <div class="logo-box">
-                                        <a href="index.html"><img class="logo-header" src="assets/images/resources/logo-1.png" alt=""></a>
-                                    </div>
-                                </div>
-
-                                <div class="main-header__one-bottom-middle">
-                                    <div class="main-menu__main-menu-box">
-                                        <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
-                                        <ul class="main-menu__list">
-                                            <li class="dropdown megamenu">
-                                                <a href="#">Home </a>
-                                                <ul>
-                                                    <li>
-                                                        <section class="home-showcase">
-                                                            <div class="container">
-                                                                <div class="home-showcase__inner">
-                                                                    <div class="row">
-                                                                        <div class="col-lg-3">
-                                                                            <div class="home-showcase__item">
-                                                                                <div class="home-showcase__image">
-                                                                                    <img src="assets/images/home-showcase/home-showcase-1-1.jpg"
-                                                                                        alt="">
-                                                                                    <div class="home-showcase__buttons">
-                                                                                        <a href="index.html"
-                                                                                            class="thm-btn home-showcase__buttons__item">Multi
-                                                                                            Page
-                                                                                            <span
-                                                                                                class="icon-arrow-right"></span>
-                                                                                        </a>
-                                                                                        <a href="index-one-page.html"
-                                                                                            class="thm-btn home-showcase__buttons__item">One
-                                                                                            Page
-                                                                                            <span
-                                                                                                class="icon-arrow-right"></span>
-                                                                                        </a>
-                                                                                    </div>
-                                                                                    <!-- /.home-showcase__buttons -->
-                                                                                </div><!-- /.home-showcase__image -->
-                                                                                <h3 class="home-showcase__title">Home
-                                                                                    Page
-                                                                                    01</h3>
-                                                                                <!-- /.home-showcase__title -->
-                                                                            </div><!-- /.home-showcase__item -->
-                                                                        </div><!-- /.col-lg-3 -->
-                                                                        <div class="col-lg-3">
-                                                                            <div class="home-showcase__item">
-                                                                                <div class="home-showcase__image">
-                                                                                    <img src="assets/images/home-showcase/home-showcase-1-2.jpg"
-                                                                                        alt="">
-                                                                                    <div class="home-showcase__buttons">
-                                                                                        <a href="index2.html"
-                                                                                            class="thm-btn home-showcase__buttons__item">
-                                                                                            Multi
-                                                                                            Page
-                                                                                            <span
-                                                                                                class="icon-arrow-right"></span>
-                                                                                        </a>
-                                                                                        <a href="index2-one-page.html"
-                                                                                            class="thm-btn home-showcase__buttons__item">
-                                                                                            One
-                                                                                            Page
-                                                                                            <span
-                                                                                                class="icon-arrow-right"></span>
-                                                                                        </a>
-                                                                                    </div>
-                                                                                    <!-- /.home-showcase__buttons -->
-                                                                                </div><!-- /.home-showcase__image -->
-                                                                                <h3 class="home-showcase__title">Home
-                                                                                    Page
-                                                                                    02
-                                                                                </h3><!-- /.home-showcase__title -->
-                                                                            </div><!-- /.home-showcase__item -->
-                                                                        </div><!-- /.col-lg-3 -->
-                                                                        <div class="col-lg-3">
-                                                                            <div class="home-showcase__item">
-                                                                                <div class="home-showcase__image">
-                                                                                    <img src="assets/images/home-showcase/home-showcase-1-3.jpg"
-                                                                                        alt="">
-                                                                                    <div class="home-showcase__buttons">
-                                                                                        <a href="index3.html"
-                                                                                            class="thm-btn home-showcase__buttons__item">
-                                                                                            Multi
-                                                                                            Page
-                                                                                            <span
-                                                                                                class="icon-arrow-right"></span>
-                                                                                        </a>
-                                                                                        <a href="index3-one-page.html"
-                                                                                            class="thm-btn home-showcase__buttons__item">
-                                                                                            One
-                                                                                            Page
-                                                                                            <span
-                                                                                                class="icon-arrow-right"></span>
-                                                                                        </a>
-                                                                                    </div>
-                                                                                    <!-- /.home-showcase__buttons -->
-                                                                                </div><!-- /.home-showcase__image -->
-                                                                                <h3 class="home-showcase__title">Home
-                                                                                    Page
-                                                                                    03
-                                                                                </h3><!-- /.home-showcase__title -->
-                                                                            </div><!-- /.home-showcase__item -->
-                                                                        </div><!-- /.col-lg-3 -->
-                                                                        <div class="col-lg-3">
-                                                                            <div class="home-showcase__item">
-                                                                                <div class="home-showcase__image">
-                                                                                    <img src="assets/images/home-showcase/home-showcase-1-4.jpg"
-                                                                                        alt="">
-                                                                                    <div class="home-showcase__buttons">
-                                                                                        <a href="index-dark.html"
-                                                                                            class="thm-btn home-showcase__buttons__item">
-                                                                                            View
-                                                                                            Page
-                                                                                            <span
-                                                                                                class="icon-arrow-right"></span>
-                                                                                        </a>
-                                                                                    </div>
-                                                                                    <!-- /.home-showcase__buttons -->
-                                                                                </div><!-- /.home-showcase__image -->
-                                                                                <h3 class="home-showcase__title">Dark
-                                                                                    Page
-                                                                                </h3><!-- /.home-showcase__title -->
-                                                                            </div><!-- /.home-showcase__item -->
-                                                                        </div><!-- /.col-lg-3 -->
-                                                                    </div><!-- /.row -->
-                                                                </div><!-- /.home-showcase__inner -->
-
-                                                            </div><!-- /.container -->
-                                                        </section>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li>
-                                                <a href="about.html">About Us</a>
-                                            </li>
-                                            <li class="dropdown">
-                                                <a href="#">Donations</a>
-                                                <ul class="shadow-box">
-                                                    <li><a href="donation.html">Donation</a></li>
-                                                    <li><a href="donate-now.html">Donation Now</a></li>
-                                                    <li><a href="donation-details.html">Donation Details</a></li>
-                                                </ul>
-                                            </li>
-                                            <li class="dropdown">
-                                                <a href="#">Pages</a>
-                                                <ul class="shadow-box">
-                                                    <li><a href="event-grid.html">Event Grid</a></li>
-                                                    <li><a href="event-list.html">Event List</a></li>
-                                                    <li><a href="event-details.html">Event Details</a></li>
-                                                    <li><a href="team.html">Team</a></li>
-                                                    <li><a href="become-volunteer.html">Become A Volunteer</a></li>
-                                                    <li><a href="team-details.html">Team Details</a></li>
-                                                    <li><a href="faq.html">Faq</a>
-                                                    </li>
-                                                    <li><a href="gallery.html">Gallery</a>
-                                                    </li>
-                                                    <li><a href="404.html">404</a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li class="dropdown">
-                                                <a href="#">Blog</a>
-                                                <ul class="shadow-box">
-                                                    <li><a href="blog-grid.html">Blog Grid</a></li>
-                                                    <li><a href="blog-standard.html">Blog Standard</a></li>
-                                                    <li><a href="blog-details.html">Blog Details</a></li>
-                                                </ul>
-                                            </li>
-                                            <li>
-                                                <a href="contact.html">Contact Us</a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-
-                                <div class="main-header__one-bottom-right">
-                                    <div class="main-header__search-box">
-                                        <a href="#"
-                                            class="main-menu__search searcher-toggler-box icon-search-interface-symbol"></a>
-                                    </div>
-
-                                    <div class="main-header__cart-box">
-                                        <a href="#"><span class="icon-shopping-cart"></span></a>
-                                    </div>
-
-                                    <div class="main-header__btn-box">
-                                        <a href="donate-now.html" class="thm-btn"><i class="icon-heart"></i> Kirim Donasi</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </nav>
-            </div>
-            <!--End Main Header One Bottom-->
-
-        </header>
+         <!--Start Main Header One-->
+            <?php include 'includes/header.php'; ?>
         <!--End Main Header One-->
 
         <div class="stricky-header stricked-menu main-menu">
@@ -381,7 +130,7 @@
                 <div class="page-header__inner">
                     <h2 class="wow fadeInDown" data-wow-duration="1500ms">Event Details</h2>
                     <ul class="thm-breadcrumb wow fadeInUp" data-wow-duration="1500ms">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li>/</li>
                         <li>Event Details</li>
                     </ul>
@@ -465,7 +214,7 @@
 
                                 <div class="event-details__content-text2-contact-box">
                                     <div class="btn-box">
-                                        <a href="contact.html" class="thm-btn">Register Now <span
+                                        <a href="contact.php" class="thm-btn">Register Now <span
                                                 class="icon-diagonal-arrow1"></span></a>
                                     </div>
                                     <div class="contact-info">
@@ -731,7 +480,7 @@
                         <div class="col-xl-3 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s">
                             <div class="footer-widget__column footer-widget__about">
                                 <div class="footer-widget__logo">
-                                    <a href="index.html"><img class="logo-footer" src="assets/images/resources/logo-2.png" alt=""></a>
+                                    <a href="index.php"><img class="logo-footer" src="assets/images/resources/logo-2.png" alt=""></a>
                                 </div>
 
                                 <p class="footer-widget__about-text">Our secure online donation platform allows you to
@@ -754,12 +503,12 @@
 
                                 <div class="footer-widget__link-box">
                                     <ul class="footer-widget__link">
-                                        <li><a href="about.html"><span class="icon-next"></span> About Us</a></li>
-                                        <li><a href="donation.html"><span class="icon-next"></span> Our Services</a>
+                                        <li><a href="about.php"><span class="icon-next"></span> About Us</a></li>
+                                        <li><a href="donation.php"><span class="icon-next"></span> Our Services</a>
                                         </li>
-                                        <li><a href="blog-grid.html"><span class="icon-next"></span> Our Blogs</a></li>
-                                        <li><a href="faq.html"><span class="icon-next"></span> FAQ’S</a></li>
-                                        <li><a href="contact.html"><span class="icon-next"></span> Contact Us</a></li>
+                                        <li><a href="blog-grid.php"><span class="icon-next"></span> Our Blogs</a></li>
+                                        <li><a href="faq.php"><span class="icon-next"></span> FAQ’S</a></li>
+                                        <li><a href="contact.php"><span class="icon-next"></span> Contact Us</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -773,16 +522,16 @@
 
                                 <div class="footer-widget__link-box">
                                     <ul class="footer-widget__link">
-                                        <li><a href="donation-details.html"><span class="icon-next"></span> Give
+                                        <li><a href="donation-details.php"><span class="icon-next"></span> Give
                                                 Donation</a></li>
-                                        <li><a href="donation-details.html"><span class="icon-next"></span> Education
+                                        <li><a href="donation-details.php"><span class="icon-next"></span> Education
                                                 Support</a>
                                         </li>
-                                        <li><a href="donation-details.html"><span class="icon-next"></span> Food
+                                        <li><a href="donation-details.php"><span class="icon-next"></span> Food
                                                 Support</a></li>
-                                        <li><a href="donation-details.html"><span class="icon-next"></span> Health
+                                        <li><a href="donation-details.php"><span class="icon-next"></span> Health
                                                 Support</a></li>
-                                        <li><a href="donation-details.html"><span class="icon-next"></span> Our
+                                        <li><a href="donation-details.php"><span class="icon-next"></span> Our
                                                 Campaign</a></li>
                                     </ul>
                                 </div>
@@ -822,11 +571,11 @@
             <div class="site-footer__bottom">
                 <div class="container">
                     <div class="site-footer__bottom-inner">
-                        <p class="site-footer__bottom-text">© All Copyright 2025 by <a href="index.html">Donatix</a></p>
+                        <p class="site-footer__bottom-text">© All Copyright 2025 by <a href="index.php">Donatix</a></p>
 
                         <ul class="site-footer__bottom-menu">
-                            <li><a href="about.html">Terms and Condition</a></li>
-                            <li><a href="about.html">Privacy and Policy</a></li>
+                            <li><a href="about.php">Terms and Condition</a></li>
+                            <li><a href="about.php">Privacy and Policy</a></li>
                         </ul>
                     </div>
                 </div>
@@ -843,7 +592,7 @@
         <div class="mobile-nav__content">
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
             <div class="logo-box">
-                <a href="index.html" aria-label="logo image"><img src="assets/images/resources/logo-2.png" width="140"
+                <a href="index.php" aria-label="logo image"><img src="assets/images/resources/logo-2.png" width="140"
                         alt="" /></a>
             </div>
             <!-- /.logo-box -->
@@ -880,7 +629,7 @@
     <div class="search-popup">
         <div class="color-layer"></div>
         <button class="close-search"><span class="far fa-times fa-fw"></span></button>
-        <form method="post" action="blog.html">
+        <form method="post" action="blog.php">
             <div class="form-group">
                 <input type="search" name="search-field" value="" placeholder="Search Here" required="">
                 <button type="submit"><i class="fas fa-search"></i></button>
@@ -897,35 +646,7 @@
     </a>
 
 
-    <script src="assets/js/jquery-latest.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/jarallax.min.js"></script>
-    <script src="assets/js/jquery.ajaxchimp.min.js"></script>
-    <script src="assets/js/jquery.appear.min.js"></script>
-    <script src="assets/js/swiper.min.js"></script>
-    <script src="assets/js/jquery.magnific-popup.min.js"></script>
-    <script src="assets/js/jquery.validate.min.js"></script>
-    <script src="assets/js/wNumb.min.js"></script>
-    <script src="assets/js/wow.js"></script>
-    <script src="assets/js/isotope.js"></script>
-    <script src="assets/js/owl.carousel.min.js"></script>
-    <script src="assets/js/jquery-ui.js"></script>
-    <script src="assets/js/jquery.nice-select.min.js"></script>
-    <script src="assets/js/marquee.min.js"></script>
-    <script src="assets/js/countdown.min.js"></script>
-    <script src="assets/js/jquery.circleType.js"></script>
-    <script src="assets/js/jquery.fittext.js"></script>
-    <script src="assets/js/jquery.lettering.min.js"></script>
-    <script src="assets/js/jquery-sidebar-content.js"></script>
-    <script src="assets/js/aos.js"></script>
-    <script src="assets/js/odometer.min.js"></script>
-
-    <script src="assets/js/gsap/gsap.js"></script>
-    <script src="assets/js/gsap/ScrollTrigger.js"></script>
-    <script src="assets/js/gsap/SplitText.js"></script>
-
-    <!-- template js -->
-    <script src="assets/js/script.js"></script>
+   <?php include 'includes/script.php'; ?>
 </body>
 
 </html>

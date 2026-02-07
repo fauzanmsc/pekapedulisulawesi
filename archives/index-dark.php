@@ -1,10 +1,68 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php
-$pageTitle = "Peka Peduli Sulawesi - Official Website";
-include 'includes/head.php';
-?>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title> Home One- Peka Peduli Sulawesi</title>
+    <!-- favicons Icons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
+    <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
+    <meta name="description" content="Donatix HTML 5 Template " />
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap"
+        rel="stylesheet">
+
+
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="assets/css/animate.min.css" />
+    <link rel="stylesheet" href="assets/css/custom-animate.css" />
+    <link rel="stylesheet" href="assets/css/swiper.min.css" />
+    <link rel="stylesheet" href="assets/css/font-awesome-all.css" />
+    <link rel="stylesheet" href="assets/css/jarallax.css" />
+    <link rel="stylesheet" href="assets/css/jquery.magnific-popup.css" />
+    <link rel="stylesheet" href="assets/css/flaticon.css">
+    <link rel="stylesheet" href="assets/css/owl.carousel.min.css" />
+    <link rel="stylesheet" href="assets/css/owl.theme.default.min.css" />
+    <link rel="stylesheet" href="assets/css/nice-select.css" />
+    <link rel="stylesheet" href="assets/css/jquery-ui.css" />
+    <link rel="stylesheet" href="assets/css/aos.css" />
+    <link rel="stylesheet" href="assets/css/odometer.min.css" />
+
+
+    <link rel="stylesheet" href="assets/css/module-css/slider.css" />
+    <link rel="stylesheet" href="assets/css/module-css/footer.css" />
+    <link rel="stylesheet" href="assets/css/module-css/feature.css" />
+    <link rel="stylesheet" href="assets/css/module-css/about.css" />
+    <link rel="stylesheet" href="assets/css/module-css/service.css" />
+    <link rel="stylesheet" href="assets/css/module-css/counter.css" />
+    <link rel="stylesheet" href="assets/css/module-css/why-choose.css" />
+    <link rel="stylesheet" href="assets/css/module-css/project.css" />
+    <link rel="stylesheet" href="assets/css/module-css/video.css" />
+    <link rel="stylesheet" href="assets/css/module-css/team.css" />
+    <link rel="stylesheet" href="assets/css/module-css/brand.css" />
+    <link rel="stylesheet" href="assets/css/module-css/pricing.css" />
+    <link rel="stylesheet" href="assets/css/module-css/testimonial.css" />
+    <link rel="stylesheet" href="assets/css/module-css/blog.css" />
+    <link rel="stylesheet" href="assets/css/module-css/cause.css" />
+    <link rel="stylesheet" href="assets/css/module-css/cta.css" />
+    <link rel="stylesheet" href="assets/css/module-css/sliding-text.css" />
+    <link rel="stylesheet" href="assets/css/module-css/approch.css" />
+    <link rel="stylesheet" href="assets/css/module-css/faq.css" />
+    <link rel="stylesheet" href="assets/css/module-css/contact.css" />
+
+
+    <!-- template styles -->
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <link rel="stylesheet" href="assets/css/responsive.css" />
+    <link rel="stylesheet" href="assets/css/dark.css" />
+</head>
 
 <body class="custom-cursor">
 
@@ -12,7 +70,11 @@ include 'includes/head.php';
     <div class="custom-cursor__cursor-two"></div>
 
     <!--Start Preloader-->
-        <?php include 'includes/loader.php'; ?>
+    <div class="loader js-preloader">
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
     <!--End Preloader-->
 
 
@@ -58,7 +120,7 @@ include 'includes/head.php';
                     <div class="sidebar-info-contents">
                         <div class="content-inner">
                             <div class="logo">
-                                <a href="index.html"><img src="assets/images/resources/logo-2.png" alt="" /></a>
+                                <a href="index.php"><img src="assets/images/resources/logo-2.png" alt="" /></a>
                             </div>
                             <div class="content-box">
                                 <h4>About Us</h4>
@@ -134,7 +196,258 @@ include 'includes/head.php';
     <div class="page-wrapper">
 
         <!--Start Main Header One-->
-            <?php include 'includes/header.php'; ?>
+        <header class="main-header main-header__one">
+            <!--Start Main Header One Top-->
+            <div class="main-header__one-top">
+                <div class="container">
+                    <div class="main-header__one-top-inner">
+                        <div class="main-header__one-top-left">
+                            <ul class="main-header__contact-list-style1">
+                                <li>
+                                    <div class="icon-box">
+                                        <span class="icon-mail"></span>
+                                    </div>
+                                    <div class="text-box">
+                                        <p><a href="mailto:info@donatix24.com">info@exmple.com</a>
+                                        </p>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <div class="icon-box">
+                                        <span class="icon-location"></span>
+                                    </div>
+                                    <div class="text-box">
+                                        <p>Rd. Santa Ana, Illinois 85486, United States
+                                        </p>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div class="main-header__one-top-right">
+                            <div class="main-header__social-links-style1">
+                                <div class="title-box">
+                                    <h4>Follow Us </h4>
+                                </div>
+
+                                <ul class="main-header__social-links-style1-list">
+                                    <li><a href="#"><span class="icon-facebook-app-symbol"></span></a></li>
+                                    <li><a href="#"><span class="icon-twitter"></span></a></li>
+                                    <li><a href="#"><span class="icon-youtube"></span></a></li>
+                                    <li><a href="#"><span class="icon-linkedin-big-logo"></span></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--End Main Header One Top-->
+
+            <!--Start Main Header One Bottom-->
+            <div class="main-header__one-bottom">
+                <nav class="main-menu">
+                    <div class="container">
+                        <div class="main-menu__wrapper">
+                            <div class="main-menu__wrapper-inner">
+
+                                <div class="main-header__one-bottom-left">
+                                    <div class="logo-box">
+                                        <a href="index.php"><img class="logo-footer" src="assets/images/resources/logo-2.png" alt=""></a>
+                                    </div>
+                                </div>
+
+                                <div class="main-header__one-bottom-middle">
+                                    <div class="main-menu__main-menu-box">
+                                        <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
+                                        <ul class="main-menu__list">
+                                            <li class="dropdown megamenu">
+                                                <a href="#">Home </a>
+                                                <ul>
+                                                    <li>
+                                                        <section class="home-showcase">
+                                                            <div class="container">
+                                                                <div class="home-showcase__inner">
+                                                                    <div class="row">
+                                                                        <div class="col-lg-3">
+                                                                            <div class="home-showcase__item">
+                                                                                <div class="home-showcase__image">
+                                                                                    <img src="assets/images/home-showcase/home-showcase-1-1.jpg"
+                                                                                        alt="">
+                                                                                    <div class="home-showcase__buttons">
+                                                                                        <a href="index.php"
+                                                                                            class="thm-btn home-showcase__buttons__item">Multi
+                                                                                            Page
+                                                                                            <span
+                                                                                                class="icon-arrow-right"></span>
+                                                                                        </a>
+                                                                                        <a href="index-one-page.php"
+                                                                                            class="thm-btn home-showcase__buttons__item">One
+                                                                                            Page
+                                                                                            <span
+                                                                                                class="icon-arrow-right"></span>
+                                                                                        </a>
+                                                                                    </div>
+                                                                                    <!-- /.home-showcase__buttons -->
+                                                                                </div><!-- /.home-showcase__image -->
+                                                                                <h3 class="home-showcase__title">Home
+                                                                                    Page
+                                                                                    01</h3>
+                                                                                <!-- /.home-showcase__title -->
+                                                                            </div><!-- /.home-showcase__item -->
+                                                                        </div><!-- /.col-lg-3 -->
+                                                                        <div class="col-lg-3">
+                                                                            <div class="home-showcase__item">
+                                                                                <div class="home-showcase__image">
+                                                                                    <img src="assets/images/home-showcase/home-showcase-1-2.jpg"
+                                                                                        alt="">
+                                                                                    <div class="home-showcase__buttons">
+                                                                                        <a href="index2.php"
+                                                                                            class="thm-btn home-showcase__buttons__item">
+                                                                                            Multi
+                                                                                            Page
+                                                                                            <span
+                                                                                                class="icon-arrow-right"></span>
+                                                                                        </a>
+                                                                                        <a href="index2-one-page.php"
+                                                                                            class="thm-btn home-showcase__buttons__item">
+                                                                                            One
+                                                                                            Page
+                                                                                            <span
+                                                                                                class="icon-arrow-right"></span>
+                                                                                        </a>
+                                                                                    </div>
+                                                                                    <!-- /.home-showcase__buttons -->
+                                                                                </div><!-- /.home-showcase__image -->
+                                                                                <h3 class="home-showcase__title">Home
+                                                                                    Page
+                                                                                    02
+                                                                                </h3><!-- /.home-showcase__title -->
+                                                                            </div><!-- /.home-showcase__item -->
+                                                                        </div><!-- /.col-lg-3 -->
+                                                                        <div class="col-lg-3">
+                                                                            <div class="home-showcase__item">
+                                                                                <div class="home-showcase__image">
+                                                                                    <img src="assets/images/home-showcase/home-showcase-1-3.jpg"
+                                                                                        alt="">
+                                                                                    <div class="home-showcase__buttons">
+                                                                                        <a href="index3.php"
+                                                                                            class="thm-btn home-showcase__buttons__item">
+                                                                                            Multi
+                                                                                            Page
+                                                                                            <span
+                                                                                                class="icon-arrow-right"></span>
+                                                                                        </a>
+                                                                                        <a href="index3-one-page.php"
+                                                                                            class="thm-btn home-showcase__buttons__item">
+                                                                                            One
+                                                                                            Page
+                                                                                            <span
+                                                                                                class="icon-arrow-right"></span>
+                                                                                        </a>
+                                                                                    </div>
+                                                                                    <!-- /.home-showcase__buttons -->
+                                                                                </div><!-- /.home-showcase__image -->
+                                                                                <h3 class="home-showcase__title">Home
+                                                                                    Page
+                                                                                    03
+                                                                                </h3><!-- /.home-showcase__title -->
+                                                                            </div><!-- /.home-showcase__item -->
+                                                                        </div><!-- /.col-lg-3 -->
+                                                                        <div class="col-lg-3">
+                                                                            <div class="home-showcase__item">
+                                                                                <div class="home-showcase__image">
+                                                                                    <img src="assets/images/home-showcase/home-showcase-1-4.jpg"
+                                                                                        alt="">
+                                                                                    <div class="home-showcase__buttons">
+                                                                                        <a href="index-dark.php"
+                                                                                            class="thm-btn home-showcase__buttons__item">
+                                                                                            View
+                                                                                            Page
+                                                                                            <span
+                                                                                                class="icon-arrow-right"></span>
+                                                                                        </a>
+                                                                                    </div>
+                                                                                    <!-- /.home-showcase__buttons -->
+                                                                                </div><!-- /.home-showcase__image -->
+                                                                                <h3 class="home-showcase__title">Dark
+                                                                                    Page
+                                                                                </h3><!-- /.home-showcase__title -->
+                                                                            </div><!-- /.home-showcase__item -->
+                                                                        </div><!-- /.col-lg-3 -->
+                                                                    </div><!-- /.row -->
+                                                                </div><!-- /.home-showcase__inner -->
+
+                                                            </div><!-- /.container -->
+                                                        </section>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li>
+                                                <a href="about.php">About Us</a>
+                                            </li>
+                                            <li class="dropdown">
+                                                <a href="#">Donations</a>
+                                                <ul class="shadow-box">
+                                                    <li><a href="donation.php">Donation</a></li>
+                                                    <li><a href="donate-now.php">Donation Now</a></li>
+                                                    <li><a href="donation-details.php">Donation Details</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="dropdown">
+                                                <a href="#">Pages</a>
+                                                <ul class="shadow-box">
+                                                    <li><a href="event-grid.php">Event Grid</a></li>
+                                                    <li><a href="event-list.php">Event List</a></li>
+                                                    <li><a href="event-details.php">Event Details</a></li>
+                                                    <li><a href="team.php">Team</a></li>
+                                                    <li><a href="become-volunteer.php">Become A Volunteer</a></li>
+                                                    <li><a href="team-details.php">Team Details</a></li>
+                                                    <li><a href="faq.php">Faq</a>
+                                                    </li>
+                                                    <li><a href="gallery.php">Gallery</a>
+                                                    </li>
+                                                    <li><a href="404.php">404</a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li class="dropdown">
+                                                <a href="#">Blog</a>
+                                                <ul class="shadow-box">
+                                                    <li><a href="blog-grid.php">Blog Grid</a></li>
+                                                    <li><a href="blog-standard.php">Blog Standard</a></li>
+                                                    <li><a href="blog-details.php">Blog Details</a></li>
+                                                </ul>
+                                            </li>
+                                            <li>
+                                                <a href="contact.php">Contact Us</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <div class="main-header__one-bottom-right">
+                                    <div class="main-header__search-box">
+                                        <a href="#"
+                                            class="main-menu__search searcher-toggler-box icon-search-interface-symbol"></a>
+                                    </div>
+
+                                    <div class="main-header__cart-box">
+                                        <a href="#"><span class="icon-shopping-cart"></span></a>
+                                    </div>
+
+                                    <div class="main-header__btn-box">
+                                        <a href="donate-now.php" class="thm-btn"><i class="icon-heart"></i> Kirim Donasi</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+            <!--End Main Header One Bottom-->
+
+        </header>
         <!--End Main Header One-->
 
         <div class="stricky-header stricked-menu main-menu">
@@ -174,95 +487,12 @@ include 'includes/head.php';
                                     <h2>Dari Hati yang Peka, <br> Lahir Kepedulian</h2>
                                 </div>
                                 <div class="main-slider-one__text">
-                                    <p>Kami hadir sebagai ruang untuk melihat, merasakan, dan bergerak bersama.
+                                    <p>Join our mission to provide food, shelter, education, and hope to communities in
                                         <br>
-                                        Berawal dari kepekaan terhadap sekitar, kami percaya setiap langkah kecil kepedulian
-                                        <br>
-                                         mampu menghadirkan perubahan nyata bagi sesama dan lingkungan.</p>
+                                        need. Every act of kindness brings us closer to a better world</p>
                                 </div>
                                 <div class="main-slider-one__btn">
-                                    <a href="contact.html" class="thm-btn">Mari Bergerak <span
-                                            class="icon-diagonal-arrow1"></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Main Slider One Single-->
-
-                    <!-- Start Main Slider One Single-->
-                    <div class="main-slider-one__single">
-                        <div class="main-slider-one__bg"
-                            style="background-image: url(assets/images/backgrounds/main-slider-v1-img2.jpg);"></div>
-                        <div class="main-slider-one__single-img-bg"></div>
-                        <div class="main-slider-one__single-img">
-                            <img src="assets/images/backgrounds/main-slider-v1-img3.jpg" alt="">
-                        </div>
-                        <div class="shape1 float-bob-y"><img src="assets/images/shapes/main-slider-v1-shape1.png"
-                                alt="">
-                        </div>
-                        <div class="shape2"><img src="assets/images/shapes/main-slider-v1-shape2.png" alt=""></div>
-                        <div class="shape3 float-bob-x"><img src="assets/images/shapes/main-slider-v1-shape3.png"
-                                alt="">
-                        </div>
-                        <div class="shape4"><img src="assets/images/shapes/main-slider-v1-shape4.png" alt=""></div>
-
-                        <div class="container">
-                            <div class="main-slider-one__content">
-                                <div class="main-slider-one__sub-title">
-                                    <div class="line"></div>
-                                    <p>Kita Peka, Kita Peduli </p>
-                                </div>
-                                <div class="main-slider-one__title">
-                                    <h2>Dari Kepedulian <br>Menuju Perubahan</h2>
-                                </div>
-                                <div class="main-slider-one__text">
-                                    <p>Perubahan tidak lahir dari satu tangan, melainkan dari kebersamaan.
-                                        <br>
-                                        Dengan semangat kolaborasi dan kepedulian, kami percaya harapan dapat tumbuh,
-                                    <br>menguatkan sesama, dan menciptakan masa depan yang lebih baik bagi komunitas dan lingkungan.</p>
-                                </div>
-                                <div class="main-slider-one__btn">
-                                    <a href="contact.html" class="thm-btn">Mari Bergerak <span
-                                            class="icon-diagonal-arrow1"></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Main Slider One Single-->
-
-                    <!-- Start Main Slider One Single-->
-                    <div class="main-slider-one__single">
-                        <div class="main-slider-one__bg"
-                            style="background-image: url(assets/images/backgrounds/main-slider-v1-img1.jpg);"></div>
-                        <div class="main-slider-one__single-img-bg"></div>
-                        <div class="main-slider-one__single-img">
-                            <img src="assets/images/backgrounds/main-slider-v1-img3.jpg" alt="">
-                        </div>
-                        <div class="shape1 float-bob-y"><img src="assets/images/shapes/main-slider-v1-shape1.png"
-                                alt="">
-                        </div>
-                        <div class="shape2"><img src="assets/images/shapes/main-slider-v1-shape2.png" alt=""></div>
-                        <div class="shape3 float-bob-x"><img src="assets/images/shapes/main-slider-v1-shape3.png"
-                                alt="">
-                        </div>
-                        <div class="shape4"><img src="assets/images/shapes/main-slider-v1-shape4.png" alt=""></div>
-
-                        <div class="container">
-                            <div class="main-slider-one__content">
-                                <div class="main-slider-one__sub-title">
-                                    <div class="line"></div>
-                                    <p>Kita Peka, Kita Peduli </p>
-                                </div>
-                                <div class="main-slider-one__title">
-                                    <h2>Langkah Kecil,  <br> Dampak Besar</h2>
-                                </div>
-                                <div class="main-slider-one__text">
-                                    <p>Setiap tindakan peduli, sekecil apapun, dapat menggerakkan perubahan. 
-                                        <br>
-                                        Dengan empati dan komitmen, setiap orang bisa menjadi bagian <br>dari solusi untuk sesama.</p>
-                                </div>
-                                <div class="main-slider-one__btn">
-                                    <a href="contact.html" class="thm-btn">Mari Bergerak <span
+                                    <a href="contact.php" class="thm-btn">Mari Bergerak <span
                                             class="icon-diagonal-arrow1"></span></a>
                                 </div>
                             </div>
@@ -302,7 +532,87 @@ include 'includes/head.php';
                                         need. Every act of kindness brings us closer to a better world</p>
                                 </div>
                                 <div class="main-slider-one__btn">
-                                    <a href="contact.html" class="thm-btn">Mari Bergerak <span
+                                    <a href="contact.php" class="thm-btn">Mari Bergerak <span
+                                            class="icon-diagonal-arrow1"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Main Slider One Single-->
+
+                    <!-- Start Main Slider One Single-->
+                    <div class="main-slider-one__single">
+                        <div class="main-slider-one__bg"
+                            style="background-image: url(assets/images/backgrounds/main-slider-v1-img1.jpg);"></div>
+                        <div class="main-slider-one__single-img-bg"></div>
+                        <div class="main-slider-one__single-img">
+                            <img src="assets/images/backgrounds/main-slider-v1-img3.jpg" alt="">
+                        </div>
+                        <div class="shape1 float-bob-y"><img src="assets/images/shapes/main-slider-v1-shape1.png"
+                                alt="">
+                        </div>
+                        <div class="shape2"><img src="assets/images/shapes/main-slider-v1-shape2.png" alt=""></div>
+                        <div class="shape3 float-bob-x"><img src="assets/images/shapes/main-slider-v1-shape3.png"
+                                alt="">
+                        </div>
+                        <div class="shape4"><img src="assets/images/shapes/main-slider-v1-shape4.png" alt=""></div>
+
+                        <div class="container">
+                            <div class="main-slider-one__content">
+                                <div class="main-slider-one__sub-title">
+                                    <div class="line"></div>
+                                    <p>Kita Peka, Kita Peduli </p>
+                                </div>
+                                <div class="main-slider-one__title">
+                                    <h2>Dari Hati yang Peka, <br> Lahir Kepedulian</h2>
+                                </div>
+                                <div class="main-slider-one__text">
+                                    <p>Join our mission to provide food, shelter, education, and hope to communities in
+                                        <br>
+                                        need. Every act of kindness brings us closer to a better world</p>
+                                </div>
+                                <div class="main-slider-one__btn">
+                                    <a href="contact.php" class="thm-btn">Mari Bergerak <span
+                                            class="icon-diagonal-arrow1"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Main Slider One Single-->
+
+                    <!-- Start Main Slider One Single-->
+                    <div class="main-slider-one__single">
+                        <div class="main-slider-one__bg"
+                            style="background-image: url(assets/images/backgrounds/main-slider-v1-img2.jpg);"></div>
+                        <div class="main-slider-one__single-img-bg"></div>
+                        <div class="main-slider-one__single-img">
+                            <img src="assets/images/backgrounds/main-slider-v1-img3.jpg" alt="">
+                        </div>
+                        <div class="shape1 float-bob-y"><img src="assets/images/shapes/main-slider-v1-shape1.png"
+                                alt="">
+                        </div>
+                        <div class="shape2"><img src="assets/images/shapes/main-slider-v1-shape2.png" alt=""></div>
+                        <div class="shape3 float-bob-x"><img src="assets/images/shapes/main-slider-v1-shape3.png"
+                                alt="">
+                        </div>
+                        <div class="shape4"><img src="assets/images/shapes/main-slider-v1-shape4.png" alt=""></div>
+
+                        <div class="container">
+                            <div class="main-slider-one__content">
+                                <div class="main-slider-one__sub-title">
+                                    <div class="line"></div>
+                                    <p>Kita Peka, Kita Peduli </p>
+                                </div>
+                                <div class="main-slider-one__title">
+                                    <h2>Dari Hati yang Peka, <br> Lahir Kepedulian</h2>
+                                </div>
+                                <div class="main-slider-one__text">
+                                    <p>Join our mission to provide food, shelter, education, and hope to communities in
+                                        <br>
+                                        need. Every act of kindness brings us closer to a better world</p>
+                                </div>
+                                <div class="main-slider-one__btn">
+                                    <a href="contact.php" class="thm-btn">Mari Bergerak <span
                                             class="icon-diagonal-arrow1"></span></a>
                                 </div>
                             </div>
@@ -335,9 +645,9 @@ include 'includes/head.php';
                             </div>
                             <div class="about-one__img-content">
                                 <div class="about-one__img-content-inner">
-                                    <h2>Anak-Anak Sulawesi Butuh Pendidikan</h2>
+                                    <h2>Africa's 186 548+ Children Need School</h2>
                                     <div class="btn-box">
-                                        <a href="#">Jadilah Relawan Kami</a>
+                                        <a href="#">Become a Volunteer</a>
                                     </div>
                                 </div>
                             </div>
@@ -355,17 +665,20 @@ include 'includes/head.php';
                                         <h4>Who We Are</h4>
                                     </div>
                                 </div>
-                                <h2 class="sec-title__title title-animation">Bergerak Bersama <br> Menyalurkan Kebaikan
+                                <h2 class="sec-title__title title-animation">Help Children by Collecting <br> Priceless
+                                    Contributions
                                 </h2>
                             </div>
                             <div class="about-one__content-text">
-                                <p>Peka Peduli Sulawesi merupakan yayasan nirlaba dalam bidang sosial kemanusiaan, pendidikan, kesehatan, ekonomi yang sumber dananya yaitu mengumpulkan dana zakat, infaq, dan sedekah serta wakaf baik secara instansi maupun perseorangan.</p>
+                                <p>We help companies develop powerful corporate social responsibility, grantmaking, and
+                                    employee engagement strategies. Our impact is about more than moving money to where
+                                    it’s needed most it’s also about helping non-profits </p>
                             </div>
 
                             <div class="about-one__tab tab-box">
                                 <ul class="tabs-button-box clearfix">
                                     <li data-tab="#cause" class="tab-btn-item">
-                                        <h3>Kontribusi Kami</h3>
+                                        <h3>Check Your Cause</h3>
                                     </li>
                                     <li data-tab="#food" class="tab-btn-item active-btn">
                                         <h3>Charity For Food</h3>
@@ -385,8 +698,9 @@ include 'includes/head.php';
                                                         <span class="icon-checked"></span>
                                                     </div>
                                                     <div class="text-box">
-                                                        <p>Telah mendukung lebih dari <span>24.500+</span> proyek di berbagai wilayah,
-                                                            membantu lebih dari <span> 8 juta orang</span> meraih kehidupan yang lebih baik.
+                                                        <p>contributed to the funding of <span>24,537</span> projects in
+                                                            <span>24</span> countries that benefited more than
+                                                            <span>8.2</span> million people.
                                                         </p>
                                                     </div>
                                                 </div>
@@ -401,8 +715,9 @@ include 'includes/head.php';
                                                                 </div>
 
                                                                 <div class="text-box">
-                                                                    <h3>Yayasan Terpercaya</h3>
-                                                                    <p>Membantu mengembangkan program sosial yang transparan dan berdampak nyata.</p>
+                                                                    <h3>Yayasan Terpercaya 2</h3>
+                                                                    <p>We help companies develop powerful corporate
+                                                                        social</p>
                                                                 </div>
                                                             </div>
                                                         </li>
@@ -415,8 +730,9 @@ include 'includes/head.php';
                                                                 </div>
 
                                                                 <div class="text-box">
-                                                                    <h3>Mulai Berdonasi</h3>
-                                                                    <p>Memudahkan donasi untuk berbagai kebutuhan sosial dengan aman dan mudah.</p>
+                                                                    <h3>Mulai Berdonasi 2</h3>
+                                                                    <p>We help companies develop powerful corporate
+                                                                        social</p>
                                                                 </div>
                                                             </div>
                                                         </li>
@@ -453,8 +769,9 @@ include 'includes/head.php';
                                                                 </div>
 
                                                                 <div class="text-box">
-                                                                    <h3>Yayasan Terpercaya</h3>
-                                                                    <p>Membantu mengembangkan program sosial yang transparan dan berdampak nyata.</p>
+                                                                    <h3>Yayasan Terpercaya 2</h3>
+                                                                    <p>We help companies develop powerful corporate
+                                                                        social</p>
                                                                 </div>
                                                             </div>
                                                         </li>
@@ -467,8 +784,9 @@ include 'includes/head.php';
                                                                 </div>
 
                                                                 <div class="text-box">
-                                                                    <h3>Mulai Berdonasi</h3>
-                                                                    <p>Memudahkan donasi untuk berbagai kebutuhan sosial dengan aman dan mudah.</p>
+                                                                    <h3>Mulai Berdonasi 2</h3>
+                                                                    <p>We help companies develop powerful corporate
+                                                                        social</p>
                                                                 </div>
                                                             </div>
                                                         </li>
@@ -505,8 +823,9 @@ include 'includes/head.php';
                                                                 </div>
 
                                                                 <div class="text-box">
-                                                                    <h3>Yayasan Terpercaya</h3>
-                                                                    <p>Membantu mengembangkan program sosial yang transparan dan berdampak nyata.</p>
+                                                                    <h3>Yayasan Terpercaya 2</h3>
+                                                                    <p>We help companies develop powerful corporate
+                                                                        social</p>
                                                                 </div>
                                                             </div>
                                                         </li>
@@ -519,8 +838,9 @@ include 'includes/head.php';
                                                                 </div>
 
                                                                 <div class="text-box">
-                                                                    <h3>Mulai Berdonasi</h3>
-                                                                    <p>Memudahkan donasi untuk berbagai kebutuhan sosial dengan aman dan mudah.</p>
+                                                                    <h3>Mulai Berdonasi 2</h3>
+                                                                    <p>We help companies develop powerful corporate
+                                                                        social</p>
                                                                 </div>
                                                             </div>
                                                         </li>
@@ -535,7 +855,7 @@ include 'includes/head.php';
 
                             <div class="about-one__content-bottom">
                                 <div class="btn-box">
-                                    <a href="about.html" class="thm-btn">Mari Bergerak <span
+                                    <a href="about.php" class="thm-btn">Mari Bergerak <span
                                             class="icon-diagonal-arrow1"></span></a>
                                 </div>
 
@@ -545,7 +865,7 @@ include 'includes/head.php';
                                     </div>
 
                                     <div class="content-box">
-                                        <p>Hubungi Kami :</p>
+                                        <p>Call us any time:</p>
                                         <h4><a href="tel:1234567890">+62 812 4209 9798</a></h4>
                                     </div>
                                 </div>
@@ -611,10 +931,10 @@ include 'includes/head.php';
                                                 </div>
                                             </div>
                                         </div>
-                                        <h2><a href="donation-details.html">Helping the Homeless During <br>
+                                        <h2><a href="donation-details.php">Helping the Homeless During <br>
                                                 Hopeless</a></h2>
                                         <div class="btn-box">
-                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                            <a href="donate-now.php" class="thm-btn">Kirim Donasi <span
                                                     class="icon-diagonal-arrow1"></span></a>
                                         </div>
                                     </div>
@@ -654,10 +974,10 @@ include 'includes/head.php';
                                                 </div>
                                             </div>
                                         </div>
-                                        <h2><a href="donation-details.html">Fighting Hunger with Food <br> Distribution
+                                        <h2><a href="donation-details.php">Fighting Hunger with Food <br> Distribution
                                                 Drives</a></h2>
                                         <div class="btn-box">
-                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                            <a href="donate-now.php" class="thm-btn">Kirim Donasi <span
                                                     class="icon-diagonal-arrow1"></span></a>
                                         </div>
                                     </div>
@@ -697,11 +1017,11 @@ include 'includes/head.php';
                                                 </div>
                                             </div>
                                         </div>
-                                        <h2><a href="donation-details.html">Providing Medical Aid to <br> Undeserved
+                                        <h2><a href="donation-details.php">Providing Medical Aid to <br> Undeserved
                                                 Areas
                                             </a></h2>
                                         <div class="btn-box">
-                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                            <a href="donate-now.php" class="thm-btn">Kirim Donasi <span
                                                     class="icon-diagonal-arrow1"></span></a>
                                         </div>
                                     </div>
@@ -741,10 +1061,10 @@ include 'includes/head.php';
                                                 </div>
                                             </div>
                                         </div>
-                                        <h2><a href="donation-details.html">Helping the Homeless During <br>
+                                        <h2><a href="donation-details.php">Helping the Homeless During <br>
                                                 Hopeless</a></h2>
                                         <div class="btn-box">
-                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                            <a href="donate-now.php" class="thm-btn">Kirim Donasi <span
                                                     class="icon-diagonal-arrow1"></span></a>
                                         </div>
                                     </div>
@@ -784,10 +1104,10 @@ include 'includes/head.php';
                                                 </div>
                                             </div>
                                         </div>
-                                        <h2><a href="donation-details.html">Fighting Hunger with Food <br> Distribution
+                                        <h2><a href="donation-details.php">Fighting Hunger with Food <br> Distribution
                                                 Drives</a></h2>
                                         <div class="btn-box">
-                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                            <a href="donate-now.php" class="thm-btn">Kirim Donasi <span
                                                     class="icon-diagonal-arrow1"></span></a>
                                         </div>
                                     </div>
@@ -827,11 +1147,11 @@ include 'includes/head.php';
                                                 </div>
                                             </div>
                                         </div>
-                                        <h2><a href="donation-details.html">Providing Medical Aid to <br> Undeserved
+                                        <h2><a href="donation-details.php">Providing Medical Aid to <br> Undeserved
                                                 Areas
                                             </a></h2>
                                         <div class="btn-box">
-                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                            <a href="donate-now.php" class="thm-btn">Kirim Donasi <span
                                                     class="icon-diagonal-arrow1"></span></a>
                                         </div>
                                     </div>
@@ -871,10 +1191,10 @@ include 'includes/head.php';
                                                 </div>
                                             </div>
                                         </div>
-                                        <h2><a href="donation-details.html">Helping the Homeless During <br>
+                                        <h2><a href="donation-details.php">Helping the Homeless During <br>
                                                 Hopeless</a></h2>
                                         <div class="btn-box">
-                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                            <a href="donate-now.php" class="thm-btn">Kirim Donasi <span
                                                     class="icon-diagonal-arrow1"></span></a>
                                         </div>
                                     </div>
@@ -914,10 +1234,10 @@ include 'includes/head.php';
                                                 </div>
                                             </div>
                                         </div>
-                                        <h2><a href="donation-details.html">Fighting Hunger with Food <br> Distribution
+                                        <h2><a href="donation-details.php">Fighting Hunger with Food <br> Distribution
                                                 Drives</a></h2>
                                         <div class="btn-box">
-                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                            <a href="donate-now.php" class="thm-btn">Kirim Donasi <span
                                                     class="icon-diagonal-arrow1"></span></a>
                                         </div>
                                     </div>
@@ -957,11 +1277,11 @@ include 'includes/head.php';
                                                 </div>
                                             </div>
                                         </div>
-                                        <h2><a href="donation-details.html">Providing Medical Aid to <br> Undeserved
+                                        <h2><a href="donation-details.php">Providing Medical Aid to <br> Undeserved
                                                 Areas
                                             </a></h2>
                                         <div class="btn-box">
-                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                            <a href="donate-now.php" class="thm-btn">Kirim Donasi <span
                                                     class="icon-diagonal-arrow1"></span></a>
                                         </div>
                                     </div>
@@ -1001,10 +1321,10 @@ include 'includes/head.php';
                                                 </div>
                                             </div>
                                         </div>
-                                        <h2><a href="donation-details.html">Helping the Homeless During <br>
+                                        <h2><a href="donation-details.php">Helping the Homeless During <br>
                                                 Hopeless</a></h2>
                                         <div class="btn-box">
-                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                            <a href="donate-now.php" class="thm-btn">Kirim Donasi <span
                                                     class="icon-diagonal-arrow1"></span></a>
                                         </div>
                                     </div>
@@ -1044,10 +1364,10 @@ include 'includes/head.php';
                                                 </div>
                                             </div>
                                         </div>
-                                        <h2><a href="donation-details.html">Fighting Hunger with Food <br> Distribution
+                                        <h2><a href="donation-details.php">Fighting Hunger with Food <br> Distribution
                                                 Drives</a></h2>
                                         <div class="btn-box">
-                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                            <a href="donate-now.php" class="thm-btn">Kirim Donasi <span
                                                     class="icon-diagonal-arrow1"></span></a>
                                         </div>
                                     </div>
@@ -1087,11 +1407,11 @@ include 'includes/head.php';
                                                 </div>
                                             </div>
                                         </div>
-                                        <h2><a href="donation-details.html">Providing Medical Aid to <br> Undeserved
+                                        <h2><a href="donation-details.php">Providing Medical Aid to <br> Undeserved
                                                 Areas
                                             </a></h2>
                                         <div class="btn-box">
-                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                            <a href="donate-now.php" class="thm-btn">Kirim Donasi <span
                                                     class="icon-diagonal-arrow1"></span></a>
                                         </div>
                                     </div>
@@ -1128,7 +1448,7 @@ include 'includes/head.php';
                         </div>
 
                         <div class="btn-box">
-                            <a href="donate-now.html" class="thm-btn">Start Kirim Donasi <span
+                            <a href="donate-now.php" class="thm-btn">Start Kirim Donasi <span
                                     class="icon-diagonal-arrow1"></span></a>
                         </div>
                     </div>
@@ -1211,11 +1531,11 @@ include 'includes/head.php';
                             <div class="services-one__single-icon">
                                 <span class="icon-mortarboard"></span>
                             </div>
-                            <h2><a href="donation-details.html">Education</a></h2>
+                            <h2><a href="donation-details.php">Education</a></h2>
                             <p>Stay updated with the latest news, events, and impact stories from our organization.
                                 Subscribe to our newsletter.</p>
                             <div class="btn-box">
-                                <a href="donation-details.html">View Details <span
+                                <a href="donation-details.php">View Details <span
                                         class="icon-diagonal-arrow1"></span></a>
                             </div>
                         </div>
@@ -1230,11 +1550,11 @@ include 'includes/head.php';
                             <div class="services-one__single-icon">
                                 <span class="icon-supplies"></span>
                             </div>
-                            <h2><a href="donation-details.html">Food & Water</a></h2>
+                            <h2><a href="donation-details.php">Food & Water</a></h2>
                             <p>Stay updated with the latest news, events, and impact stories from our organization.
                                 Subscribe to our newsletter.</p>
                             <div class="btn-box">
-                                <a href="donation-details.html">View Details <span
+                                <a href="donation-details.php">View Details <span
                                         class="icon-diagonal-arrow1"></span></a>
                             </div>
                         </div>
@@ -1249,11 +1569,11 @@ include 'includes/head.php';
                             <div class="services-one__single-icon">
                                 <span class="icon-first-aid-kit"></span>
                             </div>
-                            <h2><a href="donation-details.html">Medical Aid</a></h2>
+                            <h2><a href="donation-details.php">Medical Aid</a></h2>
                             <p>Stay updated with the latest news, events, and impact stories from our organization.
                                 Subscribe to our newsletter.</p>
                             <div class="btn-box">
-                                <a href="donation-details.html">View Details <span
+                                <a href="donation-details.php">View Details <span
                                         class="icon-diagonal-arrow1"></span></a>
                             </div>
                         </div>
@@ -1268,11 +1588,11 @@ include 'includes/head.php';
                             <div class="services-one__single-icon">
                                 <span class="icon-team"></span>
                             </div>
-                            <h2><a href="donation-details.html">Disaster Relief</a></h2>
+                            <h2><a href="donation-details.php">Disaster Relief</a></h2>
                             <p>Stay updated with the latest news, events, and impact stories from our organization.
                                 Subscribe to our newsletter.</p>
                             <div class="btn-box">
-                                <a href="donation-details.html">View Details <span
+                                <a href="donation-details.php">View Details <span
                                         class="icon-diagonal-arrow1"></span></a>
                             </div>
                         </div>
@@ -1511,7 +1831,7 @@ include 'includes/head.php';
                                                         </div>
                                                     </div>
                                                     <div class="approch-one__single-content-btn">
-                                                        <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                                        <a href="donate-now.php" class="thm-btn">Kirim Donasi <span
                                                                 class="icon-diagonal-arrow1"></span></a>
                                                     </div>
                                                 </div>
@@ -1579,7 +1899,7 @@ include 'includes/head.php';
                                                         </div>
                                                     </div>
                                                     <div class="approch-one__single-content-btn">
-                                                        <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                                        <a href="donate-now.php" class="thm-btn">Kirim Donasi <span
                                                                 class="icon-diagonal-arrow1"></span></a>
                                                     </div>
                                                 </div>
@@ -1647,7 +1967,7 @@ include 'includes/head.php';
                                                         </div>
                                                     </div>
                                                     <div class="approch-one__single-content-btn">
-                                                        <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                                        <a href="donate-now.php" class="thm-btn">Kirim Donasi <span
                                                                 class="icon-diagonal-arrow1"></span></a>
                                                     </div>
                                                 </div>
@@ -1744,10 +2064,11 @@ include 'includes/head.php';
                                 <div class="sec-title__tagline">
                                     <div class="left-line"></div>
                                     <div class="text">
-                                        <h4>Testimoni Kami</h4>
+                                        <h4>Our Testimonial</h4>
                                     </div>
                                 </div>
-                                <h2 class="sec-title__title title-animation">Dipercaya oleh Ribuan Orang <br>& Lembaga atau Instansi
+                                <h2 class="sec-title__title title-animation">Trusted By Thousand Of <br>
+                                    People & Companies.
                                 </h2>
                             </div>
 
@@ -1764,11 +2085,16 @@ include 'includes/head.php';
                                         <a href="#"><i class="icon-star"></i></a>
                                         <a href="#"><i class="icon-star"></i></a>
                                     </div>
-                                    <p>“Tetap terhubung dengan kegiatan dan kampanye kami. Baik itu gala penggalangan dana, lari amal, atau program bantuan masyarakat, selalu ada cara untuk terlibat dan mendukung program kami. Periksa kalender kegiatan kami untuk detail lengkap. Kami juga mengutamakan keamanan Anda. Proses donasi menggunakan teknologi enkripsi terbaru untuk melindungi informasi pribadi dan keuangan Anda. Berdonasilah dengan tenang dan yakin."</p>
+                                    <p>“Stay informed about our upcoming events and campaigns. Whether it's a
+                                        fundraising gala, a charity run, or a community outreach program, there are
+                                        plenty of ways to get involved and support our cause. Check our event calendar
+                                        for details. We prioritize your security. Our donation process uses the latest
+                                        encryption technology to protect your personal and financial information. Donate
+                                        with confidence knowing”</p>
 
                                     <div class="author-info">
                                         <div class="img-box">
-                                            <img src="assets/images/testimonial/testimonial-v1-img2.jpg" alt="">
+                                            <img src="assets/images/testimonial/testimonial-v1-img2.png" alt="">
                                         </div>
                                         <div class="text-box">
                                             <h2>Isman Muhlis</h2>
@@ -1847,7 +2173,7 @@ include 'includes/head.php';
                                     </div>
 
                                     <div class="text-box">
-                                        <h2><a href="team-details.html">Isman Muhlis</a></h2>
+                                        <h2><a href="team-details.php">Isman Muhlis</a></h2>
                                         <p>Volunteer</p>
                                     </div>
                                 </div>
@@ -1870,7 +2196,7 @@ include 'includes/head.php';
                                     </div>
 
                                     <div class="text-box">
-                                        <h2><a href="team-details.html">Isman Muhlis</a></h2>
+                                        <h2><a href="team-details.php">Isman Muhlis</a></h2>
                                         <p>Volunteer</p>
                                     </div>
                                 </div>
@@ -1893,7 +2219,7 @@ include 'includes/head.php';
                                     </div>
 
                                     <div class="text-box">
-                                        <h2><a href="team-details.html">Isman Muhlis</a></h2>
+                                        <h2><a href="team-details.php">Isman Muhlis</a></h2>
                                         <p>Volunteer</p>
                                     </div>
                                 </div>
@@ -1916,7 +2242,7 @@ include 'includes/head.php';
                                     </div>
 
                                     <div class="text-box">
-                                        <h2><a href="team-details.html">Isman Muhlis</a></h2>
+                                        <h2><a href="team-details.php">Isman Muhlis</a></h2>
                                         <p>Volunteer</p>
                                     </div>
                                 </div>
@@ -1944,19 +2270,21 @@ include 'includes/head.php';
                                         <h4>Pertanyaan yang Sering Diajukan (FAQ)</h4>
                                     </div>
                                 </div>
-                                <h2 class="sec-title__title title-animation">Di sini Anda bisa menemukan jawaban <br>dari pertanyaan umum</h2>
+                                <h2 class="sec-title__title title-animation">There's Donation Center <br> Can Do
+                                    Question.
+                                </h2>
                             </div>
 
                             <div class="faq-one__content-faq">
                                 <div class="accrodion-grp faq-one-accrodion" data-grp-name="faq-one-accrodion-1">
                                     <div class="accrodion active">
                                         <div class="accrodion-title">
-                                            <h4>Apakah saya bisa memilih program yang ingin saya bantu?</h4>
+                                            <h4>Apakah saya bisa memilih program atau anak yang ingin saya bantu?</h4>
                                         </div>
 
                                         <div class="accrodion-content">
                                             <div class="inner">
-                                                <p>Ya! Anda dapat memilih program atau anak yang ingin didukung sesuai dengan pilihan dan kepedulian Anda. Kami menyediakan berbagai program dari pendidikan, kesehatan, hingga pemberdayaan ekonomi, sehingga Anda bisa menyalurkan bantuan sesuai minat.</p>
+                                                <p>Kami menawarkan banyak kesempatan untuk menjadi relawan, mulai dari perencanaan acara, penggalangan dana, pekerjaan lapangan, hingga dukungan administrasi. Temukan peran yang paling sesuai dengan kemampuan dan minat Anda.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1973,12 +2301,12 @@ include 'includes/head.php';
                                     </div>
                                     <div class="accrodion">
                                         <div class="accrodion-title">
-                                            <h4>Bagaimana cara memastikan donasi saya tepat sasaran?</h4>
+                                            <h4>Bagaimana cara memastikan donasi saya sampai kepada yang tepat?</h4>
                                         </div>
 
                                         <div class="accrodion-content">
                                             <div class="inner">
-                                                <p>Setiap donasi dikelola secara transparan dan diawasi oleh tim profesional kami. Kami menjamin bantuan yang Anda berikan tersalurkan langsung kepada penerima manfaat yang membutuhkan.</p>
+                                                <p>Kami menawarkan banyak kesempatan untuk menjadi relawan, mulai dari perencanaan acara, penggalangan dana, pekerjaan lapangan, hingga dukungan administrasi. Temukan peran yang paling sesuai dengan kemampuan dan minat Anda.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -2100,7 +2428,7 @@ include 'includes/head.php';
                             <div class="blog-one__single-img">
                                 <div class="shape1"><img src="assets/images/shapes/blog-v1-shape1.png" alt=""></div>
                                 <img src="assets/images/blog/blog-v1-img1.jpg" alt="">
-                                <a href="blog-details.html" class="blog-one__link"><span class="icon-plus"></span></a>
+                                <a href="blog-details.php" class="blog-one__link"><span class="icon-plus"></span></a>
                             </div>
 
                             <div class="blog-one__single-content">
@@ -2112,9 +2440,9 @@ include 'includes/head.php';
                                         <p>08 April, 2025</p>
                                     </li>
                                 </ul>
-                                <h2><a href="blog-details.html">How Clean Water Changed a Village in Kenya</a></h2>
+                                <h2><a href="blog-details.php">How Clean Water Changed a Village in Kenya</a></h2>
                                 <div class="btn-box">
-                                    <a href="blog-details.html" class="thm-btn">Read More <span
+                                    <a href="blog-details.php" class="thm-btn">Read More <span
                                             class="icon-diagonal-arrow1"></span></a>
                                 </div>
                             </div>
@@ -2128,7 +2456,7 @@ include 'includes/head.php';
                             <div class="blog-one__single-img">
                                 <div class="shape1"><img src="assets/images/shapes/blog-v1-shape1.png" alt=""></div>
                                 <img src="assets/images/blog/blog-v1-img2.jpg" alt="">
-                                <a href="blog-details.html" class="blog-one__link"><span class="icon-plus"></span></a>
+                                <a href="blog-details.php" class="blog-one__link"><span class="icon-plus"></span></a>
                             </div>
 
                             <div class="blog-one__single-content">
@@ -2140,10 +2468,10 @@ include 'includes/head.php';
                                         <p>12 April, 2025</p>
                                     </li>
                                 </ul>
-                                <h2><a href="blog-details.html">Volunteer Diaries: Feeding 500 Families in One Day</a>
+                                <h2><a href="blog-details.php">Volunteer Diaries: Feeding 500 Families in One Day</a>
                                 </h2>
                                 <div class="btn-box">
-                                    <a href="blog-details.html" class="thm-btn">Read More <span
+                                    <a href="blog-details.php" class="thm-btn">Read More <span
                                             class="icon-diagonal-arrow1"></span></a>
                                 </div>
                             </div>
@@ -2157,7 +2485,7 @@ include 'includes/head.php';
                             <div class="blog-one__single-img">
                                 <div class="shape1"><img src="assets/images/shapes/blog-v1-shape1.png" alt=""></div>
                                 <img src="assets/images/blog/blog-v1-img3.jpg" alt="">
-                                <a href="blog-details.html" class="blog-one__link"><span class="icon-plus"></span></a>
+                                <a href="blog-details.php" class="blog-one__link"><span class="icon-plus"></span></a>
                             </div>
 
                             <div class="blog-one__single-content">
@@ -2169,9 +2497,9 @@ include 'includes/head.php';
                                         <p>20 April, 2025</p>
                                     </li>
                                 </ul>
-                                <h2><a href="blog-details.html">5 Ways You Can Support Without Donating</a></h2>
+                                <h2><a href="blog-details.php">5 Ways You Can Support Without Donating</a></h2>
                                 <div class="btn-box">
-                                    <a href="blog-details.html" class="thm-btn">Read More <span
+                                    <a href="blog-details.php" class="thm-btn">Read More <span
                                             class="icon-diagonal-arrow1"></span></a>
                                 </div>
                             </div>
@@ -2319,7 +2647,7 @@ include 'includes/head.php';
                         <div class="col-xl-3 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s">
                             <div class="footer-widget__column footer-widget__about">
                                 <div class="footer-widget__logo">
-                                    <a href="index.html"><img class="logo-footer" src="assets/images/resources/logo-2.png" alt=""></a>
+                                    <a href="index.php"><img class="logo-footer" src="assets/images/resources/logo-2.png" alt=""></a>
                                 </div>
 
                                 <p class="footer-widget__about-text">Our secure online donation platform allows you to
@@ -2342,12 +2670,12 @@ include 'includes/head.php';
 
                                 <div class="footer-widget__link-box">
                                     <ul class="footer-widget__link">
-                                        <li><a href="about.html"><span class="icon-next"></span> About Us</a></li>
-                                        <li><a href="donation.html"><span class="icon-next"></span> Our Services</a>
+                                        <li><a href="about.php"><span class="icon-next"></span> About Us</a></li>
+                                        <li><a href="donation.php"><span class="icon-next"></span> Our Services</a>
                                         </li>
-                                        <li><a href="blog-grid.html"><span class="icon-next"></span> Our Blogs</a></li>
-                                        <li><a href="faq.html"><span class="icon-next"></span> FAQ’S</a></li>
-                                        <li><a href="contact.html"><span class="icon-next"></span> Contact Us</a></li>
+                                        <li><a href="blog-grid.php"><span class="icon-next"></span> Our Blogs</a></li>
+                                        <li><a href="faq.php"><span class="icon-next"></span> FAQ’S</a></li>
+                                        <li><a href="contact.php"><span class="icon-next"></span> Contact Us</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -2361,16 +2689,16 @@ include 'includes/head.php';
 
                                 <div class="footer-widget__link-box">
                                     <ul class="footer-widget__link">
-                                        <li><a href="donation-details.html"><span class="icon-next"></span> Give
+                                        <li><a href="donation-details.php"><span class="icon-next"></span> Give
                                                 Donation</a></li>
-                                        <li><a href="donation-details.html"><span class="icon-next"></span> Education
+                                        <li><a href="donation-details.php"><span class="icon-next"></span> Education
                                                 Support</a>
                                         </li>
-                                        <li><a href="donation-details.html"><span class="icon-next"></span> Food
+                                        <li><a href="donation-details.php"><span class="icon-next"></span> Food
                                                 Support</a></li>
-                                        <li><a href="donation-details.html"><span class="icon-next"></span> Health
+                                        <li><a href="donation-details.php"><span class="icon-next"></span> Health
                                                 Support</a></li>
-                                        <li><a href="donation-details.html"><span class="icon-next"></span> Our
+                                        <li><a href="donation-details.php"><span class="icon-next"></span> Our
                                                 Campaign</a></li>
                                     </ul>
                                 </div>
@@ -2410,11 +2738,11 @@ include 'includes/head.php';
             <div class="site-footer__bottom">
                 <div class="container">
                     <div class="site-footer__bottom-inner">
-                        <p class="site-footer__bottom-text">© All Copyright 2025 by <a href="index.html">Donatix</a></p>
+                        <p class="site-footer__bottom-text">© All Copyright 2025 by <a href="index.php">Donatix</a></p>
 
                         <ul class="site-footer__bottom-menu">
-                            <li><a href="about.html">Terms and Condition</a></li>
-                            <li><a href="about.html">Privacy and Policy</a></li>
+                            <li><a href="about.php">Terms and Condition</a></li>
+                            <li><a href="about.php">Privacy and Policy</a></li>
                         </ul>
                     </div>
                 </div>
@@ -2431,7 +2759,7 @@ include 'includes/head.php';
         <div class="mobile-nav__content">
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
             <div class="logo-box">
-                <a href="index.html" aria-label="logo image"><img src="assets/images/resources/logo-2.png" width="140"
+                <a href="index.php" aria-label="logo image"><img src="assets/images/resources/logo-2.png" width="140"
                         alt="" /></a>
             </div>
             <!-- /.logo-box -->
@@ -2468,7 +2796,7 @@ include 'includes/head.php';
     <div class="search-popup">
         <div class="color-layer"></div>
         <button class="close-search"><span class="far fa-times fa-fw"></span></button>
-        <form method="post" action="blog.html">
+        <form method="post" action="blog.php">
             <div class="form-group">
                 <input type="search" name="search-field" value="" placeholder="Search Here" required="">
                 <button type="submit"><i class="fas fa-search"></i></button>
@@ -2485,7 +2813,35 @@ include 'includes/head.php';
     </a>
 
 
-   <?php include 'includes/script.php'; ?>
+    <script src="assets/js/jquery-latest.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/jarallax.min.js"></script>
+    <script src="assets/js/jquery.ajaxchimp.min.js"></script>
+    <script src="assets/js/jquery.appear.min.js"></script>
+    <script src="assets/js/swiper.min.js"></script>
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="assets/js/jquery.validate.min.js"></script>
+    <script src="assets/js/wNumb.min.js"></script>
+    <script src="assets/js/wow.js"></script>
+    <script src="assets/js/isotope.js"></script>
+    <script src="assets/js/owl.carousel.min.js"></script>
+    <script src="assets/js/jquery-ui.js"></script>
+    <script src="assets/js/jquery.nice-select.min.js"></script>
+    <script src="assets/js/marquee.min.js"></script>
+    <script src="assets/js/countdown.min.js"></script>
+    <script src="assets/js/jquery.circleType.js"></script>
+    <script src="assets/js/jquery.fittext.js"></script>
+    <script src="assets/js/jquery.lettering.min.js"></script>
+    <script src="assets/js/jquery-sidebar-content.js"></script>
+    <script src="assets/js/aos.js"></script>
+    <script src="assets/js/odometer.min.js"></script>
+
+    <script src="assets/js/gsap/gsap.js"></script>
+    <script src="assets/js/gsap/ScrollTrigger.js"></script>
+    <script src="assets/js/gsap/SplitText.js"></script>
+
+    <!-- template js -->
+    <script src="assets/js/script.js"></script>
 </body>
 
 </html>

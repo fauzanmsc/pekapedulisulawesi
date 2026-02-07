@@ -119,7 +119,7 @@
                     <div class="sidebar-info-contents">
                         <div class="content-inner">
                             <div class="logo">
-                                <a href="index.html"><img src="assets/images/resources/logo-2.png" alt="" /></a>
+                                <a href="index.php"><img src="assets/images/resources/logo-2.png" alt="" /></a>
                             </div>
                             <div class="content-box">
                                 <h4>About Us</h4>
@@ -252,7 +252,7 @@
 
                                 <div class="main-header__one-bottom-left">
                                     <div class="logo-box">
-                                        <a href="index.html"><img class="logo-header" src="assets/images/resources/logo-1.png" alt=""></a>
+                                        <a href="index.php"><img class="logo-header" src="assets/images/resources/logo-1.png" alt=""></a>
                                     </div>
                                 </div>
 
@@ -274,13 +274,13 @@
                                                                                     <img src="assets/images/home-showcase/home-showcase-1-1.jpg"
                                                                                         alt="">
                                                                                     <div class="home-showcase__buttons">
-                                                                                        <a href="index.html"
+                                                                                        <a href="index.php"
                                                                                             class="thm-btn home-showcase__buttons__item">Multi
                                                                                             Page
                                                                                             <span
                                                                                                 class="icon-arrow-right"></span>
                                                                                         </a>
-                                                                                        <a href="index-one-page.html"
+                                                                                        <a href="index-one-page.php"
                                                                                             class="thm-btn home-showcase__buttons__item">One
                                                                                             Page
                                                                                             <span
@@ -301,14 +301,14 @@
                                                                                     <img src="assets/images/home-showcase/home-showcase-1-2.jpg"
                                                                                         alt="">
                                                                                     <div class="home-showcase__buttons">
-                                                                                        <a href="index2.html"
+                                                                                        <a href="index2.php"
                                                                                             class="thm-btn home-showcase__buttons__item">
                                                                                             Multi
                                                                                             Page
                                                                                             <span
                                                                                                 class="icon-arrow-right"></span>
                                                                                         </a>
-                                                                                        <a href="index2-one-page.html"
+                                                                                        <a href="index2-one-page.php"
                                                                                             class="thm-btn home-showcase__buttons__item">
                                                                                             One
                                                                                             Page
@@ -330,14 +330,14 @@
                                                                                     <img src="assets/images/home-showcase/home-showcase-1-3.jpg"
                                                                                         alt="">
                                                                                     <div class="home-showcase__buttons">
-                                                                                        <a href="index3.html"
+                                                                                        <a href="index3.php"
                                                                                             class="thm-btn home-showcase__buttons__item">
                                                                                             Multi
                                                                                             Page
                                                                                             <span
                                                                                                 class="icon-arrow-right"></span>
                                                                                         </a>
-                                                                                        <a href="index3-one-page.html"
+                                                                                        <a href="index3-one-page.php"
                                                                                             class="thm-btn home-showcase__buttons__item">
                                                                                             One
                                                                                             Page
@@ -359,7 +359,7 @@
                                                                                     <img src="assets/images/home-showcase/home-showcase-1-4.jpg"
                                                                                         alt="">
                                                                                     <div class="home-showcase__buttons">
-                                                                                        <a href="index-dark.html"
+                                                                                        <a href="index-dark.php"
                                                                                             class="thm-btn home-showcase__buttons__item">
                                                                                             View
                                                                                             Page
@@ -412,7 +412,7 @@
                                     </div>
 
                                     <div class="main-header__btn-box">
-                                        <a href="donate-now.html" class="thm-btn"><i class="icon-heart"></i> Kirim Donasi</a>
+                                        <a href="donate-now.php" class="thm-btn"><i class="icon-heart"></i> Kirim Donasi</a>
                                     </div>
                                 </div>
                             </div>
@@ -467,7 +467,7 @@
                                         need. Every act of kindness brings us closer to a better world</p>
                                 </div>
                                 <div class="main-slider-one__btn">
-                                    <a href="contact.html" class="thm-btn">Mari Bergerak <span
+                                    <a href="contact.php" class="thm-btn">Mari Bergerak <span
                                             class="icon-diagonal-arrow1"></span></a>
                                 </div>
                             </div>
@@ -507,7 +507,7 @@
                                         need. Every act of kindness brings us closer to a better world</p>
                                 </div>
                                 <div class="main-slider-one__btn">
-                                    <a href="contact.html" class="thm-btn">Mari Bergerak <span
+                                    <a href="contact.php" class="thm-btn">Mari Bergerak <span
                                             class="icon-diagonal-arrow1"></span></a>
                                 </div>
                             </div>
@@ -547,7 +547,7 @@
                                         need. Every act of kindness brings us closer to a better world</p>
                                 </div>
                                 <div class="main-slider-one__btn">
-                                    <a href="contact.html" class="thm-btn">Mari Bergerak <span
+                                    <a href="contact.php" class="thm-btn">Mari Bergerak <span
                                             class="icon-diagonal-arrow1"></span></a>
                                 </div>
                             </div>
@@ -587,7 +587,7 @@
                                         need. Every act of kindness brings us closer to a better world</p>
                                 </div>
                                 <div class="main-slider-one__btn">
-                                    <a href="contact.html" class="thm-btn">Mari Bergerak <span
+                                    <a href="contact.php" class="thm-btn">Mari Bergerak <span
                                             class="icon-diagonal-arrow1"></span></a>
                                 </div>
                             </div>
@@ -830,7 +830,7 @@
 
                             <div class="about-one__content-bottom">
                                 <div class="btn-box">
-                                    <a href="about.html" class="thm-btn">Mari Bergerak <span
+                                    <a href="about.php" class="thm-btn">Mari Bergerak <span
                                             class="icon-diagonal-arrow1"></span></a>
                                 </div>
 
@@ -906,10 +906,10 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <h2><a href="donation-details.html">Helping the Homeless During <br>
+                                        <h2><a href="donation-details.php">Helping the Homeless During <br>
                                                 Hopeless</a></h2>
                                         <div class="btn-box">
-                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                            <a href="donate-now.php" class="thm-btn">Kirim Donasi <span
                                                     class="icon-diagonal-arrow1"></span></a>
                                         </div>
                                     </div>
@@ -949,10 +949,10 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <h2><a href="donation-details.html">Fighting Hunger with Food <br> Distribution
+                                        <h2><a href="donation-details.php">Fighting Hunger with Food <br> Distribution
                                                 Drives</a></h2>
                                         <div class="btn-box">
-                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                            <a href="donate-now.php" class="thm-btn">Kirim Donasi <span
                                                     class="icon-diagonal-arrow1"></span></a>
                                         </div>
                                     </div>
@@ -992,11 +992,11 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <h2><a href="donation-details.html">Providing Medical Aid to <br> Undeserved
+                                        <h2><a href="donation-details.php">Providing Medical Aid to <br> Undeserved
                                                 Areas
                                             </a></h2>
                                         <div class="btn-box">
-                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                            <a href="donate-now.php" class="thm-btn">Kirim Donasi <span
                                                     class="icon-diagonal-arrow1"></span></a>
                                         </div>
                                     </div>
@@ -1036,10 +1036,10 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <h2><a href="donation-details.html">Helping the Homeless During <br>
+                                        <h2><a href="donation-details.php">Helping the Homeless During <br>
                                                 Hopeless</a></h2>
                                         <div class="btn-box">
-                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                            <a href="donate-now.php" class="thm-btn">Kirim Donasi <span
                                                     class="icon-diagonal-arrow1"></span></a>
                                         </div>
                                     </div>
@@ -1079,10 +1079,10 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <h2><a href="donation-details.html">Fighting Hunger with Food <br> Distribution
+                                        <h2><a href="donation-details.php">Fighting Hunger with Food <br> Distribution
                                                 Drives</a></h2>
                                         <div class="btn-box">
-                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                            <a href="donate-now.php" class="thm-btn">Kirim Donasi <span
                                                     class="icon-diagonal-arrow1"></span></a>
                                         </div>
                                     </div>
@@ -1122,11 +1122,11 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <h2><a href="donation-details.html">Providing Medical Aid to <br> Undeserved
+                                        <h2><a href="donation-details.php">Providing Medical Aid to <br> Undeserved
                                                 Areas
                                             </a></h2>
                                         <div class="btn-box">
-                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                            <a href="donate-now.php" class="thm-btn">Kirim Donasi <span
                                                     class="icon-diagonal-arrow1"></span></a>
                                         </div>
                                     </div>
@@ -1166,10 +1166,10 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <h2><a href="donation-details.html">Helping the Homeless During <br>
+                                        <h2><a href="donation-details.php">Helping the Homeless During <br>
                                                 Hopeless</a></h2>
                                         <div class="btn-box">
-                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                            <a href="donate-now.php" class="thm-btn">Kirim Donasi <span
                                                     class="icon-diagonal-arrow1"></span></a>
                                         </div>
                                     </div>
@@ -1209,10 +1209,10 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <h2><a href="donation-details.html">Fighting Hunger with Food <br> Distribution
+                                        <h2><a href="donation-details.php">Fighting Hunger with Food <br> Distribution
                                                 Drives</a></h2>
                                         <div class="btn-box">
-                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                            <a href="donate-now.php" class="thm-btn">Kirim Donasi <span
                                                     class="icon-diagonal-arrow1"></span></a>
                                         </div>
                                     </div>
@@ -1252,11 +1252,11 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <h2><a href="donation-details.html">Providing Medical Aid to <br> Undeserved
+                                        <h2><a href="donation-details.php">Providing Medical Aid to <br> Undeserved
                                                 Areas
                                             </a></h2>
                                         <div class="btn-box">
-                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                            <a href="donate-now.php" class="thm-btn">Kirim Donasi <span
                                                     class="icon-diagonal-arrow1"></span></a>
                                         </div>
                                     </div>
@@ -1296,10 +1296,10 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <h2><a href="donation-details.html">Helping the Homeless During <br>
+                                        <h2><a href="donation-details.php">Helping the Homeless During <br>
                                                 Hopeless</a></h2>
                                         <div class="btn-box">
-                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                            <a href="donate-now.php" class="thm-btn">Kirim Donasi <span
                                                     class="icon-diagonal-arrow1"></span></a>
                                         </div>
                                     </div>
@@ -1339,10 +1339,10 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <h2><a href="donation-details.html">Fighting Hunger with Food <br> Distribution
+                                        <h2><a href="donation-details.php">Fighting Hunger with Food <br> Distribution
                                                 Drives</a></h2>
                                         <div class="btn-box">
-                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                            <a href="donate-now.php" class="thm-btn">Kirim Donasi <span
                                                     class="icon-diagonal-arrow1"></span></a>
                                         </div>
                                     </div>
@@ -1382,11 +1382,11 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <h2><a href="donation-details.html">Providing Medical Aid to <br> Undeserved
+                                        <h2><a href="donation-details.php">Providing Medical Aid to <br> Undeserved
                                                 Areas
                                             </a></h2>
                                         <div class="btn-box">
-                                            <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                            <a href="donate-now.php" class="thm-btn">Kirim Donasi <span
                                                     class="icon-diagonal-arrow1"></span></a>
                                         </div>
                                     </div>
@@ -1423,7 +1423,7 @@
                         </div>
 
                         <div class="btn-box">
-                            <a href="donate-now.html" class="thm-btn">Start Kirim Donasi <span
+                            <a href="donate-now.php" class="thm-btn">Start Kirim Donasi <span
                                     class="icon-diagonal-arrow1"></span></a>
                         </div>
                     </div>
@@ -1506,11 +1506,11 @@
                             <div class="services-one__single-icon">
                                 <span class="icon-mortarboard"></span>
                             </div>
-                            <h2><a href="donation-details.html">Education</a></h2>
+                            <h2><a href="donation-details.php">Education</a></h2>
                             <p>Stay updated with the latest news, events, and impact stories from our organization.
                                 Subscribe to our newsletter.</p>
                             <div class="btn-box">
-                                <a href="donation-details.html">View Details <span
+                                <a href="donation-details.php">View Details <span
                                         class="icon-diagonal-arrow1"></span></a>
                             </div>
                         </div>
@@ -1525,11 +1525,11 @@
                             <div class="services-one__single-icon">
                                 <span class="icon-supplies"></span>
                             </div>
-                            <h2><a href="donation-details.html">Food & Water</a></h2>
+                            <h2><a href="donation-details.php">Food & Water</a></h2>
                             <p>Stay updated with the latest news, events, and impact stories from our organization.
                                 Subscribe to our newsletter.</p>
                             <div class="btn-box">
-                                <a href="donation-details.html">View Details <span
+                                <a href="donation-details.php">View Details <span
                                         class="icon-diagonal-arrow1"></span></a>
                             </div>
                         </div>
@@ -1544,11 +1544,11 @@
                             <div class="services-one__single-icon">
                                 <span class="icon-first-aid-kit"></span>
                             </div>
-                            <h2><a href="donation-details.html">Medical Aid</a></h2>
+                            <h2><a href="donation-details.php">Medical Aid</a></h2>
                             <p>Stay updated with the latest news, events, and impact stories from our organization.
                                 Subscribe to our newsletter.</p>
                             <div class="btn-box">
-                                <a href="donation-details.html">View Details <span
+                                <a href="donation-details.php">View Details <span
                                         class="icon-diagonal-arrow1"></span></a>
                             </div>
                         </div>
@@ -1563,11 +1563,11 @@
                             <div class="services-one__single-icon">
                                 <span class="icon-team"></span>
                             </div>
-                            <h2><a href="donation-details.html">Disaster Relief</a></h2>
+                            <h2><a href="donation-details.php">Disaster Relief</a></h2>
                             <p>Stay updated with the latest news, events, and impact stories from our organization.
                                 Subscribe to our newsletter.</p>
                             <div class="btn-box">
-                                <a href="donation-details.html">View Details <span
+                                <a href="donation-details.php">View Details <span
                                         class="icon-diagonal-arrow1"></span></a>
                             </div>
                         </div>
@@ -1806,7 +1806,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="approch-one__single-content-btn">
-                                                        <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                                        <a href="donate-now.php" class="thm-btn">Kirim Donasi <span
                                                                 class="icon-diagonal-arrow1"></span></a>
                                                     </div>
                                                 </div>
@@ -1874,7 +1874,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="approch-one__single-content-btn">
-                                                        <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                                        <a href="donate-now.php" class="thm-btn">Kirim Donasi <span
                                                                 class="icon-diagonal-arrow1"></span></a>
                                                     </div>
                                                 </div>
@@ -1942,7 +1942,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="approch-one__single-content-btn">
-                                                        <a href="donate-now.html" class="thm-btn">Kirim Donasi <span
+                                                        <a href="donate-now.php" class="thm-btn">Kirim Donasi <span
                                                                 class="icon-diagonal-arrow1"></span></a>
                                                     </div>
                                                 </div>
@@ -2148,7 +2148,7 @@
                                     </div>
 
                                     <div class="text-box">
-                                        <h2><a href="team-details.html">Isman Muhlis</a></h2>
+                                        <h2><a href="team-details.php">Isman Muhlis</a></h2>
                                         <p>Volunteer</p>
                                     </div>
                                 </div>
@@ -2171,7 +2171,7 @@
                                     </div>
 
                                     <div class="text-box">
-                                        <h2><a href="team-details.html">Isman Muhlis</a></h2>
+                                        <h2><a href="team-details.php">Isman Muhlis</a></h2>
                                         <p>Volunteer</p>
                                     </div>
                                 </div>
@@ -2194,7 +2194,7 @@
                                     </div>
 
                                     <div class="text-box">
-                                        <h2><a href="team-details.html">Isman Muhlis</a></h2>
+                                        <h2><a href="team-details.php">Isman Muhlis</a></h2>
                                         <p>Volunteer</p>
                                     </div>
                                 </div>
@@ -2217,7 +2217,7 @@
                                     </div>
 
                                     <div class="text-box">
-                                        <h2><a href="team-details.html">Isman Muhlis</a></h2>
+                                        <h2><a href="team-details.php">Isman Muhlis</a></h2>
                                         <p>Volunteer</p>
                                     </div>
                                 </div>
@@ -2403,7 +2403,7 @@
                             <div class="blog-one__single-img">
                                 <div class="shape1"><img src="assets/images/shapes/blog-v1-shape1.png" alt=""></div>
                                 <img src="assets/images/blog/blog-v1-img1.jpg" alt="">
-                                <a href="blog-details.html" class="blog-one__link"><span class="icon-plus"></span></a>
+                                <a href="blog-details.php" class="blog-one__link"><span class="icon-plus"></span></a>
                             </div>
 
                             <div class="blog-one__single-content">
@@ -2415,9 +2415,9 @@
                                         <p>08 April, 2025</p>
                                     </li>
                                 </ul>
-                                <h2><a href="blog-details.html">How Clean Water Changed a Village in Kenya</a></h2>
+                                <h2><a href="blog-details.php">How Clean Water Changed a Village in Kenya</a></h2>
                                 <div class="btn-box">
-                                    <a href="blog-details.html" class="thm-btn">Read More <span
+                                    <a href="blog-details.php" class="thm-btn">Read More <span
                                             class="icon-diagonal-arrow1"></span></a>
                                 </div>
                             </div>
@@ -2431,7 +2431,7 @@
                             <div class="blog-one__single-img">
                                 <div class="shape1"><img src="assets/images/shapes/blog-v1-shape1.png" alt=""></div>
                                 <img src="assets/images/blog/blog-v1-img2.jpg" alt="">
-                                <a href="blog-details.html" class="blog-one__link"><span class="icon-plus"></span></a>
+                                <a href="blog-details.php" class="blog-one__link"><span class="icon-plus"></span></a>
                             </div>
 
                             <div class="blog-one__single-content">
@@ -2443,10 +2443,10 @@
                                         <p>12 April, 2025</p>
                                     </li>
                                 </ul>
-                                <h2><a href="blog-details.html">Volunteer Diaries: Feeding 500 Families in One Day</a>
+                                <h2><a href="blog-details.php">Volunteer Diaries: Feeding 500 Families in One Day</a>
                                 </h2>
                                 <div class="btn-box">
-                                    <a href="blog-details.html" class="thm-btn">Read More <span
+                                    <a href="blog-details.php" class="thm-btn">Read More <span
                                             class="icon-diagonal-arrow1"></span></a>
                                 </div>
                             </div>
@@ -2460,7 +2460,7 @@
                             <div class="blog-one__single-img">
                                 <div class="shape1"><img src="assets/images/shapes/blog-v1-shape1.png" alt=""></div>
                                 <img src="assets/images/blog/blog-v1-img3.jpg" alt="">
-                                <a href="blog-details.html" class="blog-one__link"><span class="icon-plus"></span></a>
+                                <a href="blog-details.php" class="blog-one__link"><span class="icon-plus"></span></a>
                             </div>
 
                             <div class="blog-one__single-content">
@@ -2472,9 +2472,9 @@
                                         <p>20 April, 2025</p>
                                     </li>
                                 </ul>
-                                <h2><a href="blog-details.html">5 Ways You Can Support Without Donating</a></h2>
+                                <h2><a href="blog-details.php">5 Ways You Can Support Without Donating</a></h2>
                                 <div class="btn-box">
-                                    <a href="blog-details.html" class="thm-btn">Read More <span
+                                    <a href="blog-details.php" class="thm-btn">Read More <span
                                             class="icon-diagonal-arrow1"></span></a>
                                 </div>
                             </div>
@@ -2622,7 +2622,7 @@
                         <div class="col-xl-3 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s">
                             <div class="footer-widget__column footer-widget__about">
                                 <div class="footer-widget__logo">
-                                    <a href="index.html"><img class="logo-footer" src="assets/images/resources/logo-2.png" alt=""></a>
+                                    <a href="index.php"><img class="logo-footer" src="assets/images/resources/logo-2.png" alt=""></a>
                                 </div>
 
                                 <p class="footer-widget__about-text">Our secure online donation platform allows you to
@@ -2645,12 +2645,12 @@
 
                                 <div class="footer-widget__link-box">
                                     <ul class="footer-widget__link">
-                                        <li><a href="about.html"><span class="icon-next"></span> About Us</a></li>
-                                        <li><a href="donation.html"><span class="icon-next"></span> Our Services</a>
+                                        <li><a href="about.php"><span class="icon-next"></span> About Us</a></li>
+                                        <li><a href="donation.php"><span class="icon-next"></span> Our Services</a>
                                         </li>
-                                        <li><a href="blog-grid.html"><span class="icon-next"></span> Our Blogs</a></li>
-                                        <li><a href="faq.html"><span class="icon-next"></span> FAQ’S</a></li>
-                                        <li><a href="contact.html"><span class="icon-next"></span> Contact Us</a></li>
+                                        <li><a href="blog-grid.php"><span class="icon-next"></span> Our Blogs</a></li>
+                                        <li><a href="faq.php"><span class="icon-next"></span> FAQ’S</a></li>
+                                        <li><a href="contact.php"><span class="icon-next"></span> Contact Us</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -2664,16 +2664,16 @@
 
                                 <div class="footer-widget__link-box">
                                     <ul class="footer-widget__link">
-                                        <li><a href="donation-details.html"><span class="icon-next"></span> Give
+                                        <li><a href="donation-details.php"><span class="icon-next"></span> Give
                                                 Donation</a></li>
-                                        <li><a href="donation-details.html"><span class="icon-next"></span> Education
+                                        <li><a href="donation-details.php"><span class="icon-next"></span> Education
                                                 Support</a>
                                         </li>
-                                        <li><a href="donation-details.html"><span class="icon-next"></span> Food
+                                        <li><a href="donation-details.php"><span class="icon-next"></span> Food
                                                 Support</a></li>
-                                        <li><a href="donation-details.html"><span class="icon-next"></span> Health
+                                        <li><a href="donation-details.php"><span class="icon-next"></span> Health
                                                 Support</a></li>
-                                        <li><a href="donation-details.html"><span class="icon-next"></span> Our
+                                        <li><a href="donation-details.php"><span class="icon-next"></span> Our
                                                 Campaign</a></li>
                                     </ul>
                                 </div>
@@ -2713,11 +2713,11 @@
             <div class="site-footer__bottom">
                 <div class="container">
                     <div class="site-footer__bottom-inner">
-                        <p class="site-footer__bottom-text">© All Copyright 2025 by <a href="index.html">Donatix</a></p>
+                        <p class="site-footer__bottom-text">© All Copyright 2025 by <a href="index.php">Donatix</a></p>
 
                         <ul class="site-footer__bottom-menu">
-                            <li><a href="about.html">Terms and Condition</a></li>
-                            <li><a href="about.html">Privacy and Policy</a></li>
+                            <li><a href="about.php">Terms and Condition</a></li>
+                            <li><a href="about.php">Privacy and Policy</a></li>
                         </ul>
                     </div>
                 </div>
@@ -2734,7 +2734,7 @@
         <div class="mobile-nav__content">
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
             <div class="logo-box">
-                <a href="index.html" aria-label="logo image"><img src="assets/images/resources/logo-2.png" width="140"
+                <a href="index.php" aria-label="logo image"><img src="assets/images/resources/logo-2.png" width="140"
                         alt="" /></a>
             </div>
             <!-- /.logo-box -->
@@ -2771,7 +2771,7 @@
     <div class="search-popup">
         <div class="color-layer"></div>
         <button class="close-search"><span class="far fa-times fa-fw"></span></button>
-        <form method="post" action="blog.html">
+        <form method="post" action="blog.php">
             <div class="form-group">
                 <input type="search" name="search-field" value="" placeholder="Search Here" required="">
                 <button type="submit"><i class="fas fa-search"></i></button>

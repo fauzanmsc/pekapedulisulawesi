@@ -1,10 +1,70 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php
-$pageTitle = "Galeri - Peka Peduli Sulawesi";
-include 'includes/head.php';
-?>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title> Error- Peka Peduli Sulawesi</title>
+    <!-- favicons Icons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
+    <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
+    <meta name="description" content="Donatix HTML 5 Template " />
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap"
+        rel="stylesheet">
+
+
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="assets/css/animate.min.css" />
+    <link rel="stylesheet" href="assets/css/custom-animate.css" />
+    <link rel="stylesheet" href="assets/css/swiper.min.css" />
+    <link rel="stylesheet" href="assets/css/font-awesome-all.css" />
+    <link rel="stylesheet" href="assets/css/jarallax.css" />
+    <link rel="stylesheet" href="assets/css/jquery.magnific-popup.css" />
+    <link rel="stylesheet" href="assets/css/flaticon.css">
+    <link rel="stylesheet" href="assets/css/owl.carousel.min.css" />
+    <link rel="stylesheet" href="assets/css/owl.theme.default.min.css" />
+    <link rel="stylesheet" href="assets/css/nice-select.css" />
+    <link rel="stylesheet" href="assets/css/jquery-ui.css" />
+    <link rel="stylesheet" href="assets/css/aos.css" />
+    <link rel="stylesheet" href="assets/css/odometer.min.css" />
+
+
+    <link rel="stylesheet" href="assets/css/module-css/slider.css" />
+    <link rel="stylesheet" href="assets/css/module-css/footer.css" />
+    <link rel="stylesheet" href="assets/css/module-css/feature.css" />
+    <link rel="stylesheet" href="assets/css/module-css/about.css" />
+    <link rel="stylesheet" href="assets/css/module-css/service.css" />
+    <link rel="stylesheet" href="assets/css/module-css/counter.css" />
+    <link rel="stylesheet" href="assets/css/module-css/why-choose.css" />
+    <link rel="stylesheet" href="assets/css/module-css/project.css" />
+    <link rel="stylesheet" href="assets/css/module-css/video.css" />
+    <link rel="stylesheet" href="assets/css/module-css/team.css" />
+    <link rel="stylesheet" href="assets/css/module-css/brand.css" />
+    <link rel="stylesheet" href="assets/css/module-css/pricing.css" />
+    <link rel="stylesheet" href="assets/css/module-css/testimonial.css" />
+    <link rel="stylesheet" href="assets/css/module-css/blog.css" />
+    <link rel="stylesheet" href="assets/css/module-css/cause.css" />
+    <link rel="stylesheet" href="assets/css/module-css/cta.css" />
+    <link rel="stylesheet" href="assets/css/module-css/sliding-text.css" />
+    <link rel="stylesheet" href="assets/css/module-css/approch.css" />
+    <link rel="stylesheet" href="assets/css/module-css/faq.css" />
+    <link rel="stylesheet" href="assets/css/module-css/contact.css" />
+    <link rel="stylesheet" href="assets/css/module-css/page-header.css" />
+    <link rel="stylesheet" href="assets/css/module-css/event.css" />
+    <link rel="stylesheet" href="assets/css/module-css/error.css" />
+
+
+    <!-- template styles -->
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <link rel="stylesheet" href="assets/css/responsive.css" />
+</head>
 
 <body class="custom-cursor">
 
@@ -59,6 +119,7 @@ include 'includes/head.php';
             <div class="sticky-header__content"></div><!-- /.sticky-header__content -->
         </div><!-- /.stricky-header -->
 
+
         <!--Start Page Header-->
         <section class="page-header">
             <div class="page-header__bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg)">
@@ -67,192 +128,36 @@ include 'includes/head.php';
             <div class="shape2"><img src="assets/images/shapes/page-header-shape2.png" alt=""></div>
             <div class="container">
                 <div class="page-header__inner">
-                    <h2 class="wow fadeInDown" data-wow-duration="1500ms">Gallery</h2>
+                    <h2 class="wow fadeInDown" data-wow-duration="1500ms">Error Page</h2>
                     <ul class="thm-breadcrumb wow fadeInUp" data-wow-duration="1500ms">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li>/</li>
-                        <li>Gallery</li>
+                        <li>Error Page</li>
                     </ul>
                 </div>
             </div>
         </section>
         <!--End Page Header-->
 
-        <!--Start Gallery Page-->
-        <section class="gallery-page">
-            <div class="auto-container clearfix">
-                <div class="row">
-                    <!--Start Gallery Page Single-->
-                    <div class="col-xl-4">
-                        <div class="gallery-page__single">
-                            <div class="gallery-page__single-img">
-                                <img src="assets/images/resources/gallery-page-img1.jpg" alt="">
-                                <div class="gallery-page__single-icon">
-                                    <a class="img-popup" href="assets/images/resources/gallery-page-img1.jpg"><span
-                                            class="icon-view"></span></a>
-                                </div>
-                            </div>
-                        </div>
+        <!--Start Error Page-->
+        <section class="error-page">
+            <div class="container">
+                <div class="error-page__inner text-center">
+                    <div class="error-page__img float-bob-y">
+                        <img src="assets/images/resources/error-page-img1.png" alt="">
                     </div>
-                    <!--End Gallery Page Single-->
 
-                    <!--Start Gallery Page Single-->
-                    <div class="col-xl-2">
-                        <div class="gallery-page__single">
-                            <div class="gallery-page__single-img">
-                                <img src="assets/images/resources/gallery-page-img2.jpg" alt="">
-                                <div class="gallery-page__single-icon">
-                                    <a class="img-popup" href="assets/images/resources/gallery-page-img2.jpg"><span
-                                            class="icon-view"></span></a>
-                                </div>
-                            </div>
+                    <div class="error-page__content">
+                        <h2>Sorry we can't find that page <br> you’re looking for.</h2>
+                        <div class="btn-box">
+                            <a href="index.php" class="thm-btn">Back To Home <span
+                                    class="icon-diagonal-arrow1"></span></a>
                         </div>
                     </div>
-                    <!--End Gallery Page Single-->
-
-                    <!--Start Gallery Page Single-->
-                    <div class="col-xl-3">
-                        <div class="gallery-page__single">
-                            <div class="gallery-page__single-img">
-                                <img src="assets/images/resources/gallery-page-img3.jpg" alt="">
-                                <div class="gallery-page__single-icon">
-                                    <a class="img-popup" href="assets/images/resources/gallery-page-img3.jpg"><span
-                                            class="icon-view"></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Gallery Page Single-->
-
-                    <!--Start Gallery Page Single-->
-                    <div class="col-xl-3">
-                        <div class="gallery-page__single">
-                            <div class="gallery-page__single-img">
-                                <img src="assets/images/resources/gallery-page-img4.jpg" alt="">
-                                <div class="gallery-page__single-icon">
-                                    <a class="img-popup" href="assets/images/resources/gallery-page-img4.jpg"><span
-                                            class="icon-view"></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Gallery Page Single-->
-
-                    <!--Start Gallery Page Single-->
-                    <div class="col-xl-3">
-                        <div class="gallery-page__single">
-                            <div class="gallery-page__single-img">
-                                <img src="assets/images/resources/gallery-page-img5.jpg" alt="">
-                                <div class="gallery-page__single-icon">
-                                    <a class="img-popup" href="assets/images/resources/gallery-page-img5.jpg"><span
-                                            class="icon-view"></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Gallery Page Single-->
-
-                    <!--Start Gallery Page Single-->
-                    <div class="col-xl-3">
-                        <div class="gallery-page__single">
-                            <div class="gallery-page__single-img">
-                                <img src="assets/images/resources/gallery-page-img6.jpg" alt="">
-                                <div class="gallery-page__single-icon">
-                                    <a class="img-popup" href="assets/images/resources/gallery-page-img6.jpg"><span
-                                            class="icon-view"></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Gallery Page Single-->
-
-                    <!--Start Gallery Page Single-->
-                    <div class="col-xl-2">
-                        <div class="gallery-page__single">
-                            <div class="gallery-page__single-img">
-                                <img src="assets/images/resources/gallery-page-img7.jpg" alt="">
-                                <div class="gallery-page__single-icon">
-                                    <a class="img-popup" href="assets/images/resources/gallery-page-img7.jpg"><span
-                                            class="icon-view"></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Gallery Page Single-->
-
-                    <!--Start Gallery Page Single-->
-                    <div class="col-xl-4">
-                        <div class="gallery-page__single">
-                            <div class="gallery-page__single-img">
-                                <img src="assets/images/resources/gallery-page-img8.jpg" alt="">
-                                <div class="gallery-page__single-icon">
-                                    <a class="img-popup" href="assets/images/resources/gallery-page-img8.jpg"><span
-                                            class="icon-view"></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Gallery Page Single-->
-
-                    <!--Start Gallery Page Single-->
-                    <div class="col-xl-4">
-                        <div class="gallery-page__single">
-                            <div class="gallery-page__single-img">
-                                <img src="assets/images/resources/gallery-page-img9.jpg" alt="">
-                                <div class="gallery-page__single-icon">
-                                    <a class="img-popup" href="assets/images/resources/gallery-page-img9.jpg"><span
-                                            class="icon-view"></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Gallery Page Single-->
-
-                    <!--Start Gallery Page Single-->
-                    <div class="col-xl-2">
-                        <div class="gallery-page__single">
-                            <div class="gallery-page__single-img">
-                                <img src="assets/images/resources/gallery-page-img10.jpg" alt="">
-                                <div class="gallery-page__single-icon">
-                                    <a class="img-popup" href="assets/images/resources/gallery-page-img10.jpg"><span
-                                            class="icon-view"></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Gallery Page Single-->
-
-                    <!--Start Gallery Page Single-->
-                    <div class="col-xl-3">
-                        <div class="gallery-page__single">
-                            <div class="gallery-page__single-img">
-                                <img src="assets/images/resources/gallery-page-img11.jpg" alt="">
-                                <div class="gallery-page__single-icon">
-                                    <a class="img-popup" href="assets/images/resources/gallery-page-img11.jpg"><span
-                                            class="icon-view"></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Gallery Page Single-->
-
-                    <!--Start Gallery Page Single-->
-                    <div class="col-xl-3">
-                        <div class="gallery-page__single">
-                            <div class="gallery-page__single-img">
-                                <img src="assets/images/resources/gallery-page-img12.jpg" alt="">
-                                <div class="gallery-page__single-icon">
-                                    <a class="img-popup" href="assets/images/resources/gallery-page-img12.jpg"><span
-                                            class="icon-view"></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Gallery Page Single-->
                 </div>
             </div>
         </section>
-        <!--End Gallery Page-->
+        <!--End Error Page-->
 
         <!--Start Brand One-->
         <section class="brand-one">
@@ -389,7 +294,7 @@ include 'includes/head.php';
                         <div class="col-xl-3 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s">
                             <div class="footer-widget__column footer-widget__about">
                                 <div class="footer-widget__logo">
-                                    <a href="index.html"><img class="logo-footer" src="assets/images/resources/logo-2.png" alt=""></a>
+                                    <a href="index.php"><img class="logo-footer" src="assets/images/resources/logo-2.png" alt=""></a>
                                 </div>
 
                                 <p class="footer-widget__about-text">Our secure online donation platform allows you to
@@ -412,12 +317,12 @@ include 'includes/head.php';
 
                                 <div class="footer-widget__link-box">
                                     <ul class="footer-widget__link">
-                                        <li><a href="about.html"><span class="icon-next"></span> About Us</a></li>
-                                        <li><a href="donation.html"><span class="icon-next"></span> Our Services</a>
+                                        <li><a href="about.php"><span class="icon-next"></span> About Us</a></li>
+                                        <li><a href="donation.php"><span class="icon-next"></span> Our Services</a>
                                         </li>
-                                        <li><a href="blog-grid.html"><span class="icon-next"></span> Our Blogs</a></li>
-                                        <li><a href="faq.html"><span class="icon-next"></span> FAQ’S</a></li>
-                                        <li><a href="contact.html"><span class="icon-next"></span> Contact Us</a></li>
+                                        <li><a href="blog-grid.php"><span class="icon-next"></span> Our Blogs</a></li>
+                                        <li><a href="faq.php"><span class="icon-next"></span> FAQ’S</a></li>
+                                        <li><a href="contact.php"><span class="icon-next"></span> Contact Us</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -431,16 +336,16 @@ include 'includes/head.php';
 
                                 <div class="footer-widget__link-box">
                                     <ul class="footer-widget__link">
-                                        <li><a href="donation-details.html"><span class="icon-next"></span> Give
+                                        <li><a href="donation-details.php"><span class="icon-next"></span> Give
                                                 Donation</a></li>
-                                        <li><a href="donation-details.html"><span class="icon-next"></span> Education
+                                        <li><a href="donation-details.php"><span class="icon-next"></span> Education
                                                 Support</a>
                                         </li>
-                                        <li><a href="donation-details.html"><span class="icon-next"></span> Food
+                                        <li><a href="donation-details.php"><span class="icon-next"></span> Food
                                                 Support</a></li>
-                                        <li><a href="donation-details.html"><span class="icon-next"></span> Health
+                                        <li><a href="donation-details.php"><span class="icon-next"></span> Health
                                                 Support</a></li>
-                                        <li><a href="donation-details.html"><span class="icon-next"></span> Our
+                                        <li><a href="donation-details.php"><span class="icon-next"></span> Our
                                                 Campaign</a></li>
                                     </ul>
                                 </div>
@@ -480,18 +385,17 @@ include 'includes/head.php';
             <div class="site-footer__bottom">
                 <div class="container">
                     <div class="site-footer__bottom-inner">
-                        <p class="site-footer__bottom-text">© All Copyright 2025 by <a href="index.html">Donatix</a></p>
+                        <p class="site-footer__bottom-text">© All Copyright 2025 by <a href="index.php">Donatix</a></p>
 
                         <ul class="site-footer__bottom-menu">
-                            <li><a href="about.html">Terms and Condition</a></li>
-                            <li><a href="about.html">Privacy and Policy</a></li>
+                            <li><a href="about.php">Terms and Condition</a></li>
+                            <li><a href="about.php">Privacy and Policy</a></li>
                         </ul>
                     </div>
                 </div>
             </div>
         </footer>
         <!--End Site Footer-->
-
     </div><!-- /.page-wrapper -->
 
 
@@ -501,7 +405,7 @@ include 'includes/head.php';
         <div class="mobile-nav__content">
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
             <div class="logo-box">
-                <a href="index.html" aria-label="logo image"><img src="assets/images/resources/logo-2.png" width="140"
+                <a href="index.php" aria-label="logo image"><img src="assets/images/resources/logo-2.png" width="140"
                         alt="" /></a>
             </div>
             <!-- /.logo-box -->
@@ -538,7 +442,7 @@ include 'includes/head.php';
     <div class="search-popup">
         <div class="color-layer"></div>
         <button class="close-search"><span class="far fa-times fa-fw"></span></button>
-        <form method="post" action="blog.html">
+        <form method="post" action="blog.php">
             <div class="form-group">
                 <input type="search" name="search-field" value="" placeholder="Search Here" required="">
                 <button type="submit"><i class="fas fa-search"></i></button>
@@ -554,7 +458,8 @@ include 'includes/head.php';
         <span class="scroll-to-top__text"> Go Back Top</span>
     </a>
 
-<?php include 'includes/script.php'; ?>
+
+    <?php include 'includes/script.php'; ?>
 </body>
 
 </html>

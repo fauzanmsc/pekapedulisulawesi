@@ -69,10 +69,10 @@
                                                 <a href="index.php">Home </a>
                                             </li>
                                             <li>
-                                                <a href="about.php">About Us</a>
+                                                <a href="about.php">Tentang</a>
                                             </li>
                                             <li class="dropdown">
-                                                <a href="#">Donations</a>
+                                                <a href="#">Donasi</a>
                                                 <ul class="shadow-box">
                                                     <li><a href="donation.php">Donation</a></li>
                                                     <li><a href="donate-now.php">Donation Now</a></li>
@@ -82,8 +82,8 @@
                                             <li class="dropdown">
                                                 <a href="#">Pages</a>
                                                 <ul class="shadow-box">
+                                                    <li><a href="event.php">Event</a></li>
                                                     <li><a href="event-grid.php">Event Grid</a></li>
-                                                    <li><a href="event-list.php">Event List</a></li>
                                                     <li><a href="event-details.php">Event Details</a></li>
                                                     <li><a href="team.php">Team</a></li>
                                                     <li><a href="become-volunteer.php">Become A Volunteer</a></li>
@@ -96,16 +96,12 @@
                                                     </li>
                                                 </ul>
                                             </li>
-                                            <li class="dropdown">
-                                                <a href="#">Blog</a>
-                                                <ul class="shadow-box">
-                                                    <li><a href="blog-grid.php">Blog Grid</a></li>
-                                                    <li><a href="blog-standard.php">Blog Standard</a></li>
-                                                    <li><a href="blog-details.php">Blog Details</a></li>
-                                                </ul>
+                                            <li >
+                                                <a href="blog.php">Blog</a>
+                                               
                                             </li>
                                             <li>
-                                                <a href="contact.php">Contact Us</a>
+                                                <a href="contact.php">Kontak</a>
                                             </li>
                                         </ul>
                                     </div>
