@@ -23,17 +23,17 @@
   --donatix-font-three: "Caveat", cursive;
   --donatix-gray: #797E88;
   --donatix-gray-rgb: 121, 126, 136;
-  --donatix-base: #FF5528;
-  --donatix-base-rgb: 255, 85, 40;
+  --donatix-base: #e50c29;
+  --donatix-base-rgb: 229, 12, 41;
   --donatix-gray-bg: #F6F3EE;
   --donatix-gray-bg-rgb: 246, 243, 238;
   --donatix-black: #1F1F1F;
   --donatix-black-rgb: 31, 31, 31;
   --donatix-white: #ffffff;
   --donatix-white-rgb: 255, 255, 255;
-  --donatix-primary: #122F2A;
+  --donatix-primary: #212a2d;
   --donatix-primary-rgb: 18, 47, 42;
-  --donatix-secondary: #1A685B;
+  --donatix-secondary: #bd001a;
   --donatix-secondary-rgb: 26, 104, 91;
   --donatix-bdr-radius: 30px;
 }
@@ -2696,6 +2696,16 @@ Thm Dot Style2
 .main-menu-two__left {
   display: block;
 }
+
+
+.logo-header{
+  height: 45px;
+}
+
+.logo-footer{
+  height: 50px;
+}
+
 
 .main-menu-two__logo {
   display: block;
