@@ -1,11 +1,11 @@
-# Enable Rewrite Engine
+# Aktifkan mod_rewrite
 RewriteEngine On
 
-# Hapus .php dari URL
+# Redirect index.php ke root domain
+RewriteCond %{THE_REQUEST} /index\.php [NC]
+RewriteRule ^index\.php$ https://pekapeduli.org/ [R=301,L]
+
+# Hilangkan .php dari URL untuk halaman lain
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
-RewriteRule ^(.*)$ $1.php [L]
-
-# Redirect /about.php ke /about (opsional, agar SEO friendly)
-RewriteCond %{THE_REQUEST} \s([^.]+)\.php
-RewriteRule ^ %1 [R=301,L]
+RewriteRule ^([a-zA-Z0-9_-]+)$ $1.php [L]
