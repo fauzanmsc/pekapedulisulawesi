@@ -46,6 +46,13 @@
   --bs-gutter-y: 30px;
 }
 
+@media (max-width: 678px) {
+  .custom-cursor__cursor, .custom-cursor__cursor-two {
+    display: none !important;
+  }
+}
+
+
 body {
   font-family: var(--donatix-font);
   color: var(--donatix-gray);
