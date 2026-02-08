@@ -33,29 +33,39 @@
     <link rel="stylesheet" href="assets/css/odometer.min.css" />
 
 
-    <link rel="stylesheet" href="assets/css/module-css/slider.css" />
-    <link rel="stylesheet" href="assets/css/module-css/footer.css" />
-    <link rel="stylesheet" href="assets/css/module-css/feature.css" />
-    <link rel="stylesheet" href="assets/css/module-css/about.css" />
-    <link rel="stylesheet" href="assets/css/module-css/service.css" />
-    <link rel="stylesheet" href="assets/css/module-css/counter.css" />
-    <link rel="stylesheet" href="assets/css/module-css/why-choose.css" />
-    <link rel="stylesheet" href="assets/css/module-css/project.css" />
-    <link rel="stylesheet" href="assets/css/module-css/video.css" />
-    <link rel="stylesheet" href="assets/css/module-css/team.css" />
-    <link rel="stylesheet" href="assets/css/module-css/brand.css" />
-    <link rel="stylesheet" href="assets/css/module-css/pricing.css" />
-    <link rel="stylesheet" href="assets/css/module-css/testimonial.css" />
-    <link rel="stylesheet" href="assets/css/module-css/blog.css" />
-    <link rel="stylesheet" href="assets/css/module-css/cause.css" />
-    <link rel="stylesheet" href="assets/css/module-css/cta.css" />
-    <link rel="stylesheet" href="assets/css/module-css/sliding-text.css" />
+   <link rel="stylesheet" href="assets/css/module-css/about.css" />
     <link rel="stylesheet" href="assets/css/module-css/approch.css" />
-    <link rel="stylesheet" href="assets/css/module-css/faq.css" />
+    <link rel="stylesheet" href="assets/css/module-css/blog.css" />
+    <link rel="stylesheet" href="assets/css/module-css/brand.css" />
+    <link rel="stylesheet" href="assets/css/module-css/cause.css" />
     <link rel="stylesheet" href="assets/css/module-css/contact.css" />
-    <link rel="stylesheet" href="assets/css/module-css/page-header.css" />
+    <link rel="stylesheet" href="assets/css/module-css/counter.css" />
+    <link rel="stylesheet" href="assets/css/module-css/cta.css" />
+
+    <link rel="stylesheet" href="assets/css/module-css/donation.css" />
+    <link rel="stylesheet" href="assets/css/module-css/error.css" />
     <link rel="stylesheet" href="assets/css/module-css/event.css" />
+    <link rel="stylesheet" href="assets/css/module-css/faq.css" />
+    <link rel="stylesheet" href="assets/css/module-css/feature.css" />
+    <link rel="stylesheet" href="assets/css/module-css/footer.css" />
+
     <link rel="stylesheet" href="assets/css/module-css/gallery.css" />
+    <link rel="stylesheet" href="assets/css/module-css/help-people.css" />
+    <link rel="stylesheet" href="assets/css/module-css/page-header.css" />
+    <link rel="stylesheet" href="assets/css/module-css/pricing.css" />
+    <link rel="stylesheet" href="assets/css/module-css/process.css" />
+    <link rel="stylesheet" href="assets/css/module-css/project.css" />
+    
+    <link rel="stylesheet" href="assets/css/module-css/service.css" />
+    <link rel="stylesheet" href="assets/css/module-css/shop.css" />
+    <link rel="stylesheet" href="assets/css/module-css/slider.css" />
+    <link rel="stylesheet" href="assets/css/module-css/sliding-text.css" />
+
+    <link rel="stylesheet" href="assets/css/module-css/team.css" />
+    <link rel="stylesheet" href="assets/css/module-css/testimonial.css" />
+    <link rel="stylesheet" href="assets/css/module-css/video.css" />
+
+    <link rel="stylesheet" href="assets/css/module-css/why-choose.css" />
 
 
     <!-- template styles -->
