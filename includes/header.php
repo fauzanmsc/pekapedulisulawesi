@@ -80,12 +80,12 @@
                                                 </ul>
                                             </li>
                                             <li class="dropdown">
-                                                <a href="/pages">Pages</a>
+                                                <a href="/pages">Halaman</a>
                                                 <ul class="shadow-box">
                                                     <li><a href="/event">Event</a></li>
                                                     <li><a href="/event-grid">Event Grid</a></li>
                                                     <li><a href="/event-details">Event Details</a></li>
-                                                    <li><a href="/team">Team</a></li>
+                                                    <li><a href="/team">Relawan</a></li>
                                                     <li><a href="/become-volunteer">Become A Volunteer</a></li>
                                                     <li><a href="/team-details">Team Details</a></li>
                                                     <li><a href="/faq">Faq</a>

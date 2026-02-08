@@ -352,7 +352,7 @@ include 'includes/head.php';
                                 <div class="sec-title__tagline">
                                     <div class="left-line"></div>
                                     <div class="text">
-                                        <h4>Who We Are</h4>
+                                        <h4>Siapa Kami</h4>
                                     </div>
                                 </div>
                                 <h2 class="sec-title__title title-animation">Bergerak Bersama <br> Menyalurkan Kebaikan
@@ -572,7 +572,7 @@ include 'includes/head.php';
                         </div>
                         <div class="right-line"></div>
                     </div>
-                    <h2 class="sec-title__title title-animation">Temukan Program Populer <br> dan Salurkan Donasi Anda
+                    <h2 class="sec-title__title title-animation">Temukan Program Prioritas <br> dan Salurkan Donasi Terbaik Anda
                     </h2>
                 </div>
 
@@ -590,7 +590,7 @@ include 'includes/head.php';
                                     <div class="cause-one__single-content">
                                         <div class="cause-one__rised-and-progress">
                                             <div class="title-box">
-                                                <h4>Donation</h4>
+                                                <h4>Donasi Terkumpul</h4>
                                             </div>
 
                                             <div class="progress-box">
@@ -604,17 +604,16 @@ include 'includes/head.php';
                                             </div>
                                             <div class="cause-one__rised-and-goals">
                                                 <div class="cause-one__raised">
-                                                    <span>Raised $60,050</span>
+                                                    <span>Terkumpul Rp. 70jt</span>
                                                 </div>
                                                 <div class="cause-one__goals">
-                                                    <span>goal $55,000</span>
+                                                    <span>Target Rp. 35jt</span>
                                                 </div>
                                             </div>
                                         </div>
-                                        <h2><a href="/donation-details">Helping the Homeless During <br>
-                                                Hopeless</a></h2>
+                                        <h2><a href="/donation-details">Layanan Kesehatan <br>untuk Masyarakat Prasejahtera</a></h2>
                                         <div class="btn-box">
-                                            <a href="/donate-now" class="thm-btn">Kirim Donasi <span
+                                            <a href="/donate-now" class="thm-btn">Donasi Sekarang <span
                                                     class="icon-diagonal-arrow1"></span></a>
                                         </div>
                                     </div>
@@ -633,7 +632,7 @@ include 'includes/head.php';
                                     <div class="cause-one__single-content">
                                         <div class="cause-one__rised-and-progress">
                                             <div class="title-box">
-                                                <h4>Donation</h4>
+                                                <h4>Donasi Terkumpul</h4>
                                             </div>
 
                                             <div class="progress-box">
@@ -647,17 +646,16 @@ include 'includes/head.php';
                                             </div>
                                             <div class="cause-one__rised-and-goals">
                                                 <div class="cause-one__raised">
-                                                    <span>Raised $50,050</span>
+                                                    <span>Terkumpul Rp. 60jt</span>
                                                 </div>
                                                 <div class="cause-one__goals">
-                                                    <span>goal $45,000</span>
+                                                    <span>Target Rp. 85jt</span>
                                                 </div>
                                             </div>
                                         </div>
-                                        <h2><a href="/donation-details">Fighting Hunger with Food <br> Distribution
-                                                Drives</a></h2>
+                                        <h2><a href="/donation-details">Pendampingan bagi Saudara <br>Tanpa Tempat Tinggal</a></h2>
                                         <div class="btn-box">
-                                            <a href="/donate-now" class="thm-btn">Kirim Donasi <span
+                                            <a href="/donate-now" class="thm-btn">Donasi Sekarang <span
                                                     class="icon-diagonal-arrow1"></span></a>
                                         </div>
                                     </div>
@@ -676,7 +674,7 @@ include 'includes/head.php';
                                     <div class="cause-one__single-content">
                                         <div class="cause-one__rised-and-progress">
                                             <div class="title-box">
-                                                <h4>Donation</h4>
+                                                <h4>Donasi Terkumpul</h4>
                                             </div>
 
                                             <div class="progress-box">
@@ -690,18 +688,17 @@ include 'includes/head.php';
                                             </div>
                                             <div class="cause-one__rised-and-goals">
                                                 <div class="cause-one__raised">
-                                                    <span>Raised $70,050</span>
+                                                    <span>Rp. 30jt</span>
                                                 </div>
                                                 <div class="cause-one__goals">
-                                                    <span>goal $35,000</span>
+                                                    <span>Target Rp. 50jt</span>
                                                 </div>
                                             </div>
                                         </div>
-                                        <h2><a href="/donation-details">Providing Medical Aid to <br> Undeserved
-                                                Areas
+                                        <h2><a href="/donation-details">Gerakan Distribusi Pangan <br> untuk Sesama
                                             </a></h2>
                                         <div class="btn-box">
-                                            <a href="/donate-now" class="thm-btn">Kirim Donasi <span
+                                            <a href="/donate-now" class="thm-btn">Donasi Sekarang <span
                                                     class="icon-diagonal-arrow1"></span></a>
                                         </div>
                                     </div>
@@ -709,395 +706,7 @@ include 'includes/head.php';
                             </div>
                             <!--End Cause One Single-->
 
-                            <!--Start Cause One Single-->
-                            <div class="cause-one__single">
-                                <div class="cause-one__single-inner">
-                                    <div class="shape1"><img src="assets/images/shapes/cause-v1-shape1.png" alt="">
-                                    </div>
-                                    <div class="cause-one__single-img">
-                                        <img src="assets/images/resources/cause-v1-img1.jpg" alt="">
-                                    </div>
-                                    <div class="cause-one__single-content">
-                                        <div class="cause-one__rised-and-progress">
-                                            <div class="title-box">
-                                                <h4>Donation</h4>
-                                            </div>
 
-                                            <div class="progress-box">
-                                                <div class="inner count-box">
-                                                    <div class="bar">
-                                                        <div class="bar-inner count-bar" data-percent="95%">
-                                                            <div class="count-text">95%</div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="cause-one__rised-and-goals">
-                                                <div class="cause-one__raised">
-                                                    <span>Raised $60,050</span>
-                                                </div>
-                                                <div class="cause-one__goals">
-                                                    <span>goal $55,000</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <h2><a href="/donation-details">Helping the Homeless During <br>
-                                                Hopeless</a></h2>
-                                        <div class="btn-box">
-                                            <a href="/donate-now" class="thm-btn">Kirim Donasi <span
-                                                    class="icon-diagonal-arrow1"></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--End Cause One Single-->
-
-                            <!--Start Cause One Single-->
-                            <div class="cause-one__single">
-                                <div class="cause-one__single-inner">
-                                    <div class="shape1"><img src="assets/images/shapes/cause-v1-shape1.png" alt="">
-                                    </div>
-                                    <div class="cause-one__single-img">
-                                        <img src="assets/images/resources/cause-v1-img2.jpg" alt="">
-                                    </div>
-                                    <div class="cause-one__single-content">
-                                        <div class="cause-one__rised-and-progress">
-                                            <div class="title-box">
-                                                <h4>Donation</h4>
-                                            </div>
-
-                                            <div class="progress-box">
-                                                <div class="inner count-box">
-                                                    <div class="bar">
-                                                        <div class="bar-inner count-bar" data-percent="85%">
-                                                            <div class="count-text">85%</div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="cause-one__rised-and-goals">
-                                                <div class="cause-one__raised">
-                                                    <span>Raised $50,050</span>
-                                                </div>
-                                                <div class="cause-one__goals">
-                                                    <span>goal $45,000</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <h2><a href="/donation-details">Fighting Hunger with Food <br> Distribution
-                                                Drives</a></h2>
-                                        <div class="btn-box">
-                                            <a href="/donate-now" class="thm-btn">Kirim Donasi <span
-                                                    class="icon-diagonal-arrow1"></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--End Cause One Single-->
-
-                            <!--Start Cause One Single-->
-                            <div class="cause-one__single">
-                                <div class="cause-one__single-inner">
-                                    <div class="shape1"><img src="assets/images/shapes/cause-v1-shape1.png" alt="">
-                                    </div>
-                                    <div class="cause-one__single-img">
-                                        <img src="assets/images/resources/cause-v1-img3.jpg" alt="">
-                                    </div>
-                                    <div class="cause-one__single-content">
-                                        <div class="cause-one__rised-and-progress">
-                                            <div class="title-box">
-                                                <h4>Donation</h4>
-                                            </div>
-
-                                            <div class="progress-box">
-                                                <div class="inner count-box">
-                                                    <div class="bar">
-                                                        <div class="bar-inner count-bar" data-percent="65%">
-                                                            <div class="count-text">65%</div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="cause-one__rised-and-goals">
-                                                <div class="cause-one__raised">
-                                                    <span>Raised $70,050</span>
-                                                </div>
-                                                <div class="cause-one__goals">
-                                                    <span>goal $35,000</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <h2><a href="/donation-details">Providing Medical Aid to <br> Undeserved
-                                                Areas
-                                            </a></h2>
-                                        <div class="btn-box">
-                                            <a href="/donate-now" class="thm-btn">Kirim Donasi <span
-                                                    class="icon-diagonal-arrow1"></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--End Cause One Single-->
-
-                            <!--Start Cause One Single-->
-                            <div class="cause-one__single">
-                                <div class="cause-one__single-inner">
-                                    <div class="shape1"><img src="assets/images/shapes/cause-v1-shape1.png" alt="">
-                                    </div>
-                                    <div class="cause-one__single-img">
-                                        <img src="assets/images/resources/cause-v1-img1.jpg" alt="">
-                                    </div>
-                                    <div class="cause-one__single-content">
-                                        <div class="cause-one__rised-and-progress">
-                                            <div class="title-box">
-                                                <h4>Donation</h4>
-                                            </div>
-
-                                            <div class="progress-box">
-                                                <div class="inner count-box">
-                                                    <div class="bar">
-                                                        <div class="bar-inner count-bar" data-percent="95%">
-                                                            <div class="count-text">95%</div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="cause-one__rised-and-goals">
-                                                <div class="cause-one__raised">
-                                                    <span>Raised $60,050</span>
-                                                </div>
-                                                <div class="cause-one__goals">
-                                                    <span>goal $55,000</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <h2><a href="/donation-details">Helping the Homeless During <br>
-                                                Hopeless</a></h2>
-                                        <div class="btn-box">
-                                            <a href="/donate-now" class="thm-btn">Kirim Donasi <span
-                                                    class="icon-diagonal-arrow1"></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--End Cause One Single-->
-
-                            <!--Start Cause One Single-->
-                            <div class="cause-one__single">
-                                <div class="cause-one__single-inner">
-                                    <div class="shape1"><img src="assets/images/shapes/cause-v1-shape1.png" alt="">
-                                    </div>
-                                    <div class="cause-one__single-img">
-                                        <img src="assets/images/resources/cause-v1-img2.jpg" alt="">
-                                    </div>
-                                    <div class="cause-one__single-content">
-                                        <div class="cause-one__rised-and-progress">
-                                            <div class="title-box">
-                                                <h4>Donation</h4>
-                                            </div>
-
-                                            <div class="progress-box">
-                                                <div class="inner count-box">
-                                                    <div class="bar">
-                                                        <div class="bar-inner count-bar" data-percent="85%">
-                                                            <div class="count-text">85%</div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="cause-one__rised-and-goals">
-                                                <div class="cause-one__raised">
-                                                    <span>Raised $50,050</span>
-                                                </div>
-                                                <div class="cause-one__goals">
-                                                    <span>goal $45,000</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <h2><a href="/donation-details">Fighting Hunger with Food <br> Distribution
-                                                Drives</a></h2>
-                                        <div class="btn-box">
-                                            <a href="/donate-now" class="thm-btn">Kirim Donasi <span
-                                                    class="icon-diagonal-arrow1"></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--End Cause One Single-->
-
-                            <!--Start Cause One Single-->
-                            <div class="cause-one__single">
-                                <div class="cause-one__single-inner">
-                                    <div class="shape1"><img src="assets/images/shapes/cause-v1-shape1.png" alt="">
-                                    </div>
-                                    <div class="cause-one__single-img">
-                                        <img src="assets/images/resources/cause-v1-img3.jpg" alt="">
-                                    </div>
-                                    <div class="cause-one__single-content">
-                                        <div class="cause-one__rised-and-progress">
-                                            <div class="title-box">
-                                                <h4>Donation</h4>
-                                            </div>
-
-                                            <div class="progress-box">
-                                                <div class="inner count-box">
-                                                    <div class="bar">
-                                                        <div class="bar-inner count-bar" data-percent="65%">
-                                                            <div class="count-text">65%</div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="cause-one__rised-and-goals">
-                                                <div class="cause-one__raised">
-                                                    <span>Raised $70,050</span>
-                                                </div>
-                                                <div class="cause-one__goals">
-                                                    <span>goal $35,000</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <h2><a href="/donation-details">Providing Medical Aid to <br> Undeserved
-                                                Areas
-                                            </a></h2>
-                                        <div class="btn-box">
-                                            <a href="/donate-now" class="thm-btn">Kirim Donasi <span
-                                                    class="icon-diagonal-arrow1"></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--End Cause One Single-->
-
-                            <!--Start Cause One Single-->
-                            <div class="cause-one__single">
-                                <div class="cause-one__single-inner">
-                                    <div class="shape1"><img src="assets/images/shapes/cause-v1-shape1.png" alt="">
-                                    </div>
-                                    <div class="cause-one__single-img">
-                                        <img src="assets/images/resources/cause-v1-img1.jpg" alt="">
-                                    </div>
-                                    <div class="cause-one__single-content">
-                                        <div class="cause-one__rised-and-progress">
-                                            <div class="title-box">
-                                                <h4>Donation</h4>
-                                            </div>
-
-                                            <div class="progress-box">
-                                                <div class="inner count-box">
-                                                    <div class="bar">
-                                                        <div class="bar-inner count-bar" data-percent="95%">
-                                                            <div class="count-text">95%</div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="cause-one__rised-and-goals">
-                                                <div class="cause-one__raised">
-                                                    <span>Raised $60,050</span>
-                                                </div>
-                                                <div class="cause-one__goals">
-                                                    <span>goal $55,000</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <h2><a href="/donation-details">Helping the Homeless During <br>
-                                                Hopeless</a></h2>
-                                        <div class="btn-box">
-                                            <a href="/donate-now" class="thm-btn">Kirim Donasi <span
-                                                    class="icon-diagonal-arrow1"></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--End Cause One Single-->
-
-                            <!--Start Cause One Single-->
-                            <div class="cause-one__single">
-                                <div class="cause-one__single-inner">
-                                    <div class="shape1"><img src="assets/images/shapes/cause-v1-shape1.png" alt="">
-                                    </div>
-                                    <div class="cause-one__single-img">
-                                        <img src="assets/images/resources/cause-v1-img2.jpg" alt="">
-                                    </div>
-                                    <div class="cause-one__single-content">
-                                        <div class="cause-one__rised-and-progress">
-                                            <div class="title-box">
-                                                <h4>Donation</h4>
-                                            </div>
-
-                                            <div class="progress-box">
-                                                <div class="inner count-box">
-                                                    <div class="bar">
-                                                        <div class="bar-inner count-bar" data-percent="85%">
-                                                            <div class="count-text">85%</div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="cause-one__rised-and-goals">
-                                                <div class="cause-one__raised">
-                                                    <span>Raised $50,050</span>
-                                                </div>
-                                                <div class="cause-one__goals">
-                                                    <span>goal $45,000</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <h2><a href="/donation-details">Fighting Hunger with Food <br> Distribution
-                                                Drives</a></h2>
-                                        <div class="btn-box">
-                                            <a href="/donate-now" class="thm-btn">Kirim Donasi <span
-                                                    class="icon-diagonal-arrow1"></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--End Cause One Single-->
-
-                            <!--Start Cause One Single-->
-                            <div class="cause-one__single">
-                                <div class="cause-one__single-inner">
-                                    <div class="shape1"><img src="assets/images/shapes/cause-v1-shape1.png" alt="">
-                                    </div>
-                                    <div class="cause-one__single-img">
-                                        <img src="assets/images/resources/cause-v1-img3.jpg" alt="">
-                                    </div>
-                                    <div class="cause-one__single-content">
-                                        <div class="cause-one__rised-and-progress">
-                                            <div class="title-box">
-                                                <h4>Donation</h4>
-                                            </div>
-
-                                            <div class="progress-box">
-                                                <div class="inner count-box">
-                                                    <div class="bar">
-                                                        <div class="bar-inner count-bar" data-percent="65%">
-                                                            <div class="count-text">65%</div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="cause-one__rised-and-goals">
-                                                <div class="cause-one__raised">
-                                                    <span>Raised $70,050</span>
-                                                </div>
-                                                <div class="cause-one__goals">
-                                                    <span>goal $35,000</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <h2><a href="/donation-details">Providing Medical Aid to <br> Undeserved
-                                                Areas
-                                            </a></h2>
-                                        <div class="btn-box">
-                                            <a href="/donate-now" class="thm-btn">Kirim Donasi <span
-                                                    class="icon-diagonal-arrow1"></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--End Cause One Single-->
                         </div>
                     </div>
                 </div>
@@ -1119,16 +728,16 @@ include 'includes/head.php';
                             <div class="sec-title__tagline">
                                 <div class="left-line"></div>
                                 <div class="text">
-                                    <h4>Let’s Start Something For Them</h4>
+                                    <h4>Mari Kita Mulai Sesuatu untuk Mereka</h4>
                                 </div>
                             </div>
-                            <h2 class="sec-title__title title-animation">Giving Has Never Caused Anyone <br> To Become
-                                Poor.
+                            <h2 class="sec-title__title title-animation">Memberi Tidak Pernah Membuat Siapa Pun <br>Menjadi Miskin
+                                
                             </h2>
                         </div>
 
                         <div class="btn-box">
-                            <a href="/donate-now" class="thm-btn">Start Kirim Donasi <span
+                            <a href="/donate-now" class="thm-btn">Mulai Kirim Donasi <span
                                     class="icon-diagonal-arrow1"></span></a>
                         </div>
                     </div>
@@ -1136,7 +745,7 @@ include 'includes/head.php';
                     <div class="cta-one__round-text wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
                         <div class="cta-one__round-text-inner">
                             <div class="cta-one__curved-circle">
-                                PLAY VIDEO PLAY VIDEO PLAY VIDEO PLAY VIDEO
+                                PUTAR VIDEO PUTAR VIDEO PUTAR VIDEO PUTAR VIDEO
                             </div>
 
                             <div class="cta-one__video-link">
@@ -1159,27 +768,27 @@ include 'includes/head.php';
             <div class="sliding-text-one__wrap">
                 <ul class="sliding-text-one__list marquee_mode">
                     <li>
-                        <h2 data-hover="medical" class="sliding-text-one__title"> medical
+                        <h2 data-hover="medical" class="sliding-text-one__title"> kemanusiaan
                             <img src="assets/images/shapes/sliding-text-shape-1.png" alt=""></h2>
                     </li>
                     <li>
-                        <h2 data-hover="education" class="sliding-text-one__title style2"> education
+                        <h2 data-hover="education" class="sliding-text-one__title style2"> pendidikan
                             <img src="assets/images/shapes/sliding-text-shape-1.png" alt=""></h2>
                     </li>
                     <li>
-                        <h2 data-hover="foods" class="sliding-text-one__title"> foods
+                        <h2 data-hover="foods" class="sliding-text-one__title"> kesehatan
                             <img src="assets/images/shapes/sliding-text-shape-1.png" alt=""></h2>
                     </li>
                     <li>
-                        <h2 data-hover="health" class="sliding-text-one__title style2">health
+                        <h2 data-hover="health" class="sliding-text-one__title style2">sosial
                             <img src="assets/images/shapes/sliding-text-shape-1.png" alt=""></h2>
                     </li>
                     <li>
-                        <h2 data-hover="support" class="sliding-text-one__title">support
+                        <h2 data-hover="support" class="sliding-text-one__title">dukungan
                             <img src="assets/images/shapes/sliding-text-shape-1.png" alt=""></h2>
                     </li>
                     <li>
-                        <h2 data-hover="donation" class="sliding-text-one__title style2">donation
+                        <h2 data-hover="donation" class="sliding-text-one__title style2">donasi
                             <img src="assets/images/shapes/sliding-text-shape-1.png" alt=""></h2>
                     </li>
                 </ul>
@@ -1195,11 +804,11 @@ include 'includes/head.php';
                     <div class="sec-title__tagline center">
                         <div class="left-line"></div>
                         <div class="text">
-                            <h4>How We Make a Difference</h4>
+                            <h4>Bagaimana Kami Menciptakan Perubahan</h4>
                         </div>
                         <div class="right-line"></div>
                     </div>
-                    <h2 class="sec-title__title title-animation">What We Do to Create Change</h2>
+                    <h2 class="sec-title__title title-animation">Apa yang Kami Lakukan untuk Menciptakan Dampak</h2>
                 </div>
 
                 <div class="row">
@@ -1211,11 +820,10 @@ include 'includes/head.php';
                             <div class="services-one__single-icon">
                                 <span class="icon-mortarboard"></span>
                             </div>
-                            <h2><a href="/donation-details">Education</a></h2>
-                            <p>Stay updated with the latest news, events, and impact stories from our organization.
-                                Subscribe to our newsletter.</p>
+                            <h2><a href="/donation-details">Pendidikan</a></h2>
+                            <p>Tetap terhubung dengan informasi terbaru, kegiatan, dan kisah dampak dari program kami.</p>
                             <div class="btn-box">
-                                <a href="/donation-details">View Details <span
+                                <a href="/donation-details">Lihat Detail  <span
                                         class="icon-diagonal-arrow1"></span></a>
                             </div>
                         </div>
@@ -1230,11 +838,10 @@ include 'includes/head.php';
                             <div class="services-one__single-icon">
                                 <span class="icon-supplies"></span>
                             </div>
-                            <h2><a href="/donation-details">Food & Water</a></h2>
-                            <p>Stay updated with the latest news, events, and impact stories from our organization.
-                                Subscribe to our newsletter.</p>
+                            <h2><a href="/donation-details">Pangan & Air Bersih</a></h2>
+                            <p>Tetap terhubung dengan informasi terbaru, kegiatan, dan kisah dampak dari program kami.</p>
                             <div class="btn-box">
-                                <a href="/donation-details">View Details <span
+                                <a href="/donation-details">Lihat Detail <span
                                         class="icon-diagonal-arrow1"></span></a>
                             </div>
                         </div>
@@ -1249,11 +856,10 @@ include 'includes/head.php';
                             <div class="services-one__single-icon">
                                 <span class="icon-first-aid-kit"></span>
                             </div>
-                            <h2><a href="/donation-details">Medical Aid</a></h2>
-                            <p>Stay updated with the latest news, events, and impact stories from our organization.
-                                Subscribe to our newsletter.</p>
+                            <h2><a href="/donation-details">Bantuan Kesehatan</a></h2>
+                            <p>Tetap terhubung dengan informasi terbaru, kegiatan, dan kisah dampak dari program kami.</p>
                             <div class="btn-box">
-                                <a href="/donation-details">View Details <span
+                                <a href="/donation-details">Lihat Detail <span
                                         class="icon-diagonal-arrow1"></span></a>
                             </div>
                         </div>
@@ -1268,11 +874,10 @@ include 'includes/head.php';
                             <div class="services-one__single-icon">
                                 <span class="icon-team"></span>
                             </div>
-                            <h2><a href="/donation-details">Disaster Relief</a></h2>
-                            <p>Stay updated with the latest news, events, and impact stories from our organization.
-                                Subscribe to our newsletter.</p>
+                            <h2><a href="/donation-details">Tanggap Bencana</a></h2>
+                            <p>Tetap terhubung dengan informasi terbaru, kegiatan, dan kisah dampak dari program kami.</p>
                             <div class="btn-box">
-                                <a href="/donation-details">View Details <span
+                                <a href="/donation-details">Lihat Detail <span
                                         class="icon-diagonal-arrow1"></span></a>
                             </div>
                         </div>
@@ -1298,17 +903,15 @@ include 'includes/head.php';
                                 <div class="sec-title__tagline">
                                     <div class="left-line"></div>
                                     <div class="text">
-                                        <h4>Your Trust, Their Future</h4>
+                                        <h4>Kepercayaan Anda, Masa Depan Mereka</h4>
                                     </div>
                                 </div>
-                                <h2 class="sec-title__title title-animation">We Turn Your Kindness Into <br> Real Change
+                                <h2 class="sec-title__title title-animation">Kami Mengubah Kebaikan Anda Menjadi Perubahan Nyata
                                 </h2>
                             </div>
 
                             <div class="why-choose-one__content-text1">
-                                <p>We’re more than just a charity — we’re a movement of hope. Every donation, every
-                                    gift, every hRelawan Kamied goes directly to changing a child’s world. Here’s why
-                                    thousands trust us to deliver smiles and second chances</p>
+                                <p>Kami lebih dari sekadar lembaga amal — kami adalah gerakan harapan. Setiap donasi, setiap bantuan, dan setiap relawan berkontribusi langsung untuk mengubah kehidupan mereka yang membutuhkan. Inilah alasan mengapa ribuan orang mempercayakan kebaikannya kepada kami untuk menghadirkan senyuman dan kesempatan baru.</p>
                             </div>
 
                             <div class="why-choose-one__content-text2">
@@ -1343,7 +946,7 @@ include 'includes/head.php';
                                         </ul>
 
                                         <div class="why-choose-one__content-text2-top-left-text">
-                                            <p><span class="odometer" data-count="2"></span>k+ Happy <br>People</p>
+                                            <p><span class="odometer" data-count="2"></span>k+ Orang <br>Bahagia</p>
                                         </div>
                                     </div>
 
@@ -1359,8 +962,7 @@ include 'includes/head.php';
                                 </div>
 
                                 <div class="why-choose-one__content-text2-bottom">
-                                    <p>about 45 million people were benefited by 589,537 projects in 24 countries that
-                                        were funded in part.</p>
+                                    <p>Sekitar 45 juta orang telah merasakan manfaat melalui 589.537 program di 24 negara yang didukung oleh para donatur.</p>
                                 </div>
                             </div>
 
@@ -1373,8 +975,8 @@ include 'includes/head.php';
                                             </div>
 
                                             <div class="text-box">
-                                                <h3>Start Your Donating Now</h3>
-                                                <p>Charity refers to the act of voluntar giving help, ai assistance
+                                                <h3>Mulai Donasi Sekarang</h3>
+                                                <p>Donasi adalah bentuk kepedulian dan bantuan sukarela untuk membantu mereka yang membutuhkan.
                                                 </p>
                                             </div>
                                         </div>
@@ -1387,8 +989,8 @@ include 'includes/head.php';
                                             </div>
 
                                             <div class="text-box">
-                                                <h3>Poor People Make Donation</h3>
-                                                <p>Charity refers to the act of voluntar giving help, ai assistance
+                                                <h3>Bersama Membantu Sesama</h3>
+                                                <p>Setiap kontribusi Anda menjadi harapan baru bagi kehidupan yang lebih baik.
                                                 </p>
                                             </div>
                                         </div>
@@ -1409,9 +1011,9 @@ include 'includes/head.php';
                                 <div class="why-choose-one__img-experince">
                                     <div class="why-choose-one__img-experince-inner">
                                         <div class="count-text">
-                                            <h2><span class="odometer" data-count="25"></span>+</h2>
+                                            <h2><span class="odometer" data-count="5"></span>+</h2>
                                         </div>
-                                        <p>Years of <br> Experiences</p>
+                                        <p>Tahun<br> Pengalaman</p>
                                     </div>
                                 </div>
                             </div>
@@ -1436,24 +1038,24 @@ include 'includes/head.php';
                     <div class="sec-title__tagline center">
                         <div class="left-line"></div>
                         <div class="text">
-                            <h4>How We Are</h4>
+                            <h4>Siapa Kami</h4>
                         </div>
                         <div class="right-line"></div>
                     </div>
-                    <h2 class="sec-title__title title-animation">Reasons to believe in our <br> effect and dedication
+                    <h2 class="sec-title__title title-animation">Alasan untuk Percaya pada Dampak <br>dan Dedikasi Kami
                     </h2>
                 </div>
 
                 <div class="approch-one__tab tab-box-two">
                     <ul class="tabs-button-box clearfix">
                         <li data-tab="#approach" class="tab-btn-item active-btn">
-                            <h3>Our Approach</h3>
+                            <h3>Pendekatan</h3>
                         </li>
                         <li data-tab="#inspiration" class="tab-btn-item">
-                            <h3>Full Inspiration</h3>
+                            <h3>Sumber Inspirasi</h3>
                         </li>
                         <li data-tab="#deffarance" class="tab-btn-item">
-                            <h3>Make A deffarance</h3>
+                            <h3>Perubahan Nyata</h3>
                         </li>
                     </ul>
 
@@ -1467,27 +1069,21 @@ include 'includes/head.php';
                                             <div class="col-xl-6">
                                                 <div class="approch-one__single-content">
                                                     <div class="approch-one__single-content-text1">
-                                                        <h2>Inspiring Hope with Generous Acts</h2>
-                                                        <p>We’re more than just a charity — we’re a movement of hope.
-                                                            Every donation, every gift, every hRelawan Kamied goes
-                                                            directly to changing a child’s world. Here’s why thousands
-                                                            trust us to deliver smiles and second chances</p>
+                                                        <h2>Menghadirkan Harapan & Kebaikan</h2>
+                                                        <p>Kami bukan sekadar lembaga sosial - kami adalah gerakan harapan. Setiap donasi, setiap bantuan, dan setiap relawan berkontribusi langsung dalam mengubah kehidupan mereka yang membutuhkan.</p>
                                                     </div>
                                                     <div class="approch-one__single-content-text2">
                                                         <div class="row">
                                                             <div class="col-xl-6 col-lg-6 col-md-6">
                                                                 <ul class="approch-one__single-content-text2-list">
                                                                     <li>
-                                                                        <p><span class="icon-checked-1"></span> Accurate
-                                                                            Testing Processes</p>
+                                                                        <p><span class="icon-checked-1"></span> Tepat Sasaran</p>
                                                                     </li>
                                                                     <li>
-                                                                        <p><span class="icon-checked-1"></span> 100%
-                                                                            Satisfaction Guarantee</p>
+                                                                        <p><span class="icon-checked-1"></span> Transparan & Terpercaya</p>
                                                                     </li>
                                                                     <li>
-                                                                        <p><span class="icon-checked-1"></span> Award
-                                                                            Winning Company</p>
+                                                                        <p><span class="icon-checked-1"></span> Program Berkelanjutan</p>
                                                                     </li>
                                                                 </ul>
                                                             </div>
@@ -1495,16 +1091,13 @@ include 'includes/head.php';
                                                             <div class="col-xl-6 col-lg-6 col-md-6">
                                                                 <ul class="approch-one__single-content-text2-list">
                                                                     <li>
-                                                                        <p><span class="icon-checked-1"></span> Accurate
-                                                                            Testing Processes</p>
+                                                                        <p><span class="icon-checked-1"></span> Tim Profesional</p>
                                                                     </li>
                                                                     <li>
-                                                                        <p><span class="icon-checked-1"></span> 100%
-                                                                            Satisfaction Guarantee</p>
+                                                                        <p><span class="icon-checked-1"></span> Jaringan Luas</p>
                                                                     </li>
                                                                     <li>
-                                                                        <p><span class="icon-checked-1"></span> Award
-                                                                            Winning Company</p>
+                                                                        <p><span class="icon-checked-1"></span> Respon Cepat</p>
                                                                     </li>
                                                                 </ul>
                                                             </div>
@@ -1535,27 +1128,21 @@ include 'includes/head.php';
                                             <div class="col-xl-6">
                                                 <div class="approch-one__single-content">
                                                     <div class="approch-one__single-content-text1">
-                                                        <h2>Inspiring Hope with Generous Acts</h2>
-                                                        <p>We’re more than just a charity — we’re a movement of hope.
-                                                            Every donation, every gift, every hRelawan Kamied goes
-                                                            directly to changing a child’s world. Here’s why thousands
-                                                            trust us to deliver smiles and second chances</p>
+                                                        <h2>Menghadirkan Harapan & Kebaikan</h2>
+                                                        <p>Kami bukan sekadar lembaga sosial - kami adalah gerakan harapan. Setiap donasi, setiap bantuan, dan setiap relawan berkontribusi langsung dalam mengubah kehidupan mereka yang membutuhkan.</p>
                                                     </div>
                                                     <div class="approch-one__single-content-text2">
                                                         <div class="row">
                                                             <div class="col-xl-6 col-lg-6 col-md-6">
                                                                 <ul class="approch-one__single-content-text2-list">
                                                                     <li>
-                                                                        <p><span class="icon-checked-1"></span> Accurate
-                                                                            Testing Processes</p>
+                                                                        <p><span class="icon-checked-1"></span> Tepat Sasaran</p>
                                                                     </li>
                                                                     <li>
-                                                                        <p><span class="icon-checked-1"></span> 100%
-                                                                            Satisfaction Guarantee</p>
+                                                                        <p><span class="icon-checked-1"></span> Transparan & Terpercaya</p>
                                                                     </li>
                                                                     <li>
-                                                                        <p><span class="icon-checked-1"></span> Award
-                                                                            Winning Company</p>
+                                                                        <p><span class="icon-checked-1"></span> Program Berkelanjutan</p>
                                                                     </li>
                                                                 </ul>
                                                             </div>
@@ -1563,16 +1150,13 @@ include 'includes/head.php';
                                                             <div class="col-xl-6 col-lg-6 col-md-6">
                                                                 <ul class="approch-one__single-content-text2-list">
                                                                     <li>
-                                                                        <p><span class="icon-checked-1"></span> Accurate
-                                                                            Testing Processes</p>
+                                                                        <p><span class="icon-checked-1"></span> Tim Profesional</p>
                                                                     </li>
                                                                     <li>
-                                                                        <p><span class="icon-checked-1"></span> 100%
-                                                                            Satisfaction Guarantee</p>
+                                                                        <p><span class="icon-checked-1"></span> Jaringan Luas</p>
                                                                     </li>
                                                                     <li>
-                                                                        <p><span class="icon-checked-1"></span> Award
-                                                                            Winning Company</p>
+                                                                        <p><span class="icon-checked-1"></span> Respon Cepat</p>
                                                                     </li>
                                                                 </ul>
                                                             </div>
@@ -1603,27 +1187,21 @@ include 'includes/head.php';
                                             <div class="col-xl-6">
                                                 <div class="approch-one__single-content">
                                                     <div class="approch-one__single-content-text1">
-                                                        <h2>Inspiring Hope with Generous Acts</h2>
-                                                        <p>We’re more than just a charity — we’re a movement of hope.
-                                                            Every donation, every gift, every hRelawan Kamied goes
-                                                            directly to changing a child’s world. Here’s why thousands
-                                                            trust us to deliver smiles and second chances</p>
+                                                        <h2>Menghadirkan Harapan & Kebaikan</h2>
+                                                        <p>Kami bukan sekadar lembaga sosial - kami adalah gerakan harapan. Setiap donasi, setiap bantuan, dan setiap relawan berkontribusi langsung dalam mengubah kehidupan mereka yang membutuhkan.</p>
                                                     </div>
                                                     <div class="approch-one__single-content-text2">
                                                         <div class="row">
                                                             <div class="col-xl-6 col-lg-6 col-md-6">
                                                                 <ul class="approch-one__single-content-text2-list">
                                                                     <li>
-                                                                        <p><span class="icon-checked-1"></span> Accurate
-                                                                            Testing Processes</p>
+                                                                        <p><span class="icon-checked-1"></span> Tepat Sasaran</p>
                                                                     </li>
                                                                     <li>
-                                                                        <p><span class="icon-checked-1"></span> 100%
-                                                                            Satisfaction Guarantee</p>
+                                                                        <p><span class="icon-checked-1"></span> Transparan & Terpercaya</p>
                                                                     </li>
                                                                     <li>
-                                                                        <p><span class="icon-checked-1"></span> Award
-                                                                            Winning Company</p>
+                                                                        <p><span class="icon-checked-1"></span> Program Berkelanjutan</p>
                                                                     </li>
                                                                 </ul>
                                                             </div>
@@ -1631,16 +1209,13 @@ include 'includes/head.php';
                                                             <div class="col-xl-6 col-lg-6 col-md-6">
                                                                 <ul class="approch-one__single-content-text2-list">
                                                                     <li>
-                                                                        <p><span class="icon-checked-1"></span> Accurate
-                                                                            Testing Processes</p>
+                                                                        <p><span class="icon-checked-1"></span> Tim Profesional</p>
                                                                     </li>
                                                                     <li>
-                                                                        <p><span class="icon-checked-1"></span> 100%
-                                                                            Satisfaction Guarantee</p>
+                                                                        <p><span class="icon-checked-1"></span> Jaringan Luas</p>
                                                                     </li>
                                                                     <li>
-                                                                        <p><span class="icon-checked-1"></span> Award
-                                                                            Winning Company</p>
+                                                                        <p><span class="icon-checked-1"></span> Respon Cepat</p>
                                                                     </li>
                                                                 </ul>
                                                             </div>
@@ -2019,23 +1594,22 @@ include 'includes/head.php';
                             <div class="sec-title__tagline">
                                 <div class="left-line"></div>
                                 <div class="text">
-                                    <h4>Get In Touch</h4>
+                                    <h4>Hubungi Kami</h4>
                                 </div>
                             </div>
-                            <h2 class="sec-title__title title-animation">We’d Love to Hear From You
-                            </h2>
+                            <h2 class="sec-title__title title-animation">Kami Senang Mendengar dari Anda</h2>
                         </div>
                         <form class="contact-form-validated contact-one__form-box" action="assets/inc/sendemail.php"
                             method="post" novalidate="novalidate">
                             <div class="row">
                                 <div class="col-xl-6 col-lg-6 col-md-6">
                                     <div class="input-box">
-                                        <input type="text" name="name" placeholder="Full Name*" required="">
+                                        <input type="text" name="name" placeholder="Nama Lengkap*" required="">
                                     </div>
                                 </div>
                                 <div class="col-xl-6 col-lg-6 col-md-6">
                                     <div class="input-box">
-                                        <input type="email" name="email" placeholder="Email Address*" required="">
+                                        <input type="email" name="email" placeholder="Alamat Email*" required="">
                                     </div>
                                 </div>
 
@@ -2043,12 +1617,12 @@ include 'includes/head.php';
                                     <div class="input-box">
                                         <div class="select-box">
                                             <select class="selectmenu wide">
-                                                <option selected="selected">Services</option>
-                                                <option>Services 01</option>
-                                                <option>Services 02</option>
-                                                <option>Services 03</option>
-                                                <option>Services 04</option>
-                                                <option>Services 05</option>
+                                                <option selected="selected">Layanan</option>
+                                                <option>Layanan 01</option>
+                                                <option>Layanan 02</option>
+                                                <option>Layanan 03</option>
+                                                <option>Layanan 04</option>
+                                                <option>Layanan 05</option>
                                             </select>
                                         </div>
                                     </div>
@@ -2056,14 +1630,14 @@ include 'includes/head.php';
 
                                 <div class="col-xl-12">
                                     <div class="input-box">
-                                        <textarea name="message" placeholder="Your Message"></textarea>
+                                        <textarea name="message" placeholder="Pesan Anda"></textarea>
                                     </div>
                                 </div>
 
                                 <div class="col-xl-12">
                                     <div class="contact-page__form-btn">
                                         <button type="submit" class="thm-btn">
-                                            Contact Us <span class="icon-diagonal-arrow1"></span>
+                                            Kirim Pesan <span class="icon-diagonal-arrow1"></span>
                                         </button>
                                     </div>
                                 </div>
@@ -2085,12 +1659,12 @@ include 'includes/head.php';
                     <div class="sec-title__tagline center">
                         <div class="left-line"></div>
                         <div class="text">
-                            <h4>News & Articles</h4>
+                            <h4>Berita & Artikel</h4>
                         </div>
                         <div class="right-line"></div>
                     </div>
-                    <h2 class="sec-title__title title-animation">Latest News & Articles from <br>
-                        the Blog Posts</h2>
+                    <h2 class="sec-title__title title-animation">Berita & Artikel Terbaru  <br>
+                        dari Blog Kami</h2>
                 </div>
 
                 <div class="row">
@@ -2106,15 +1680,15 @@ include 'includes/head.php';
                             <div class="blog-one__single-content">
                                 <ul class="meta-info">
                                     <li>
-                                        <p>By Admin</p>
+                                        <p>oleh Admin</p>
                                     </li>
                                     <li>
-                                        <p>08 April, 2025</p>
+                                        <p>08 Februari, 2026</p>
                                     </li>
                                 </ul>
-                                <h2><a href="/blog-details">How Clean Water Changed a Village in Kenya</a></h2>
+                                <h2><a href="/blog-details">Bagaimana Air Bersih Mengubah Kehidupan Sebuah Desa di Sulawesi</a></h2>
                                 <div class="btn-box">
-                                    <a href="/blog-details" class="thm-btn">Read More <span
+                                    <a href="/blog-details" class="thm-btn">Baca Selengkapnya <span
                                             class="icon-diagonal-arrow1"></span></a>
                                 </div>
                             </div>
@@ -2134,16 +1708,16 @@ include 'includes/head.php';
                             <div class="blog-one__single-content">
                                 <ul class="meta-info">
                                     <li>
-                                        <p>By Admin</p>
+                                        <p>oleh Admin</p>
                                     </li>
                                     <li>
-                                        <p>12 April, 2025</p>
+                                        <p>07 Februari, 2026</p>
                                     </li>
                                 </ul>
-                                <h2><a href="/blog-details">Volunteer Diaries: Feeding 500 Families in One Day</a>
+                                <h2><a href="/blog-details">Catatan Relawan: Memberi Makan 500 Keluarga dalam Satu Hari</a>
                                 </h2>
                                 <div class="btn-box">
-                                    <a href="/blog-details" class="thm-btn">Read More <span
+                                    <a href="/blog-details" class="thm-btn">Baca Selengkapnya <span
                                             class="icon-diagonal-arrow1"></span></a>
                                 </div>
                             </div>
@@ -2163,15 +1737,15 @@ include 'includes/head.php';
                             <div class="blog-one__single-content">
                                 <ul class="meta-info">
                                     <li>
-                                        <p>By Admin</p>
+                                        <p>oleh Admin</p>
                                     </li>
                                     <li>
-                                        <p>20 April, 2025</p>
+                                        <p>06 Februari, 2026</p>
                                     </li>
                                 </ul>
-                                <h2><a href="/blog-details">5 Ways You Can Support Without Donating</a></h2>
+                                <h2><a href="/blog-details">5 Cara Mendukung Tanpa Harus Berdonasi</a></h2>
                                 <div class="btn-box">
-                                    <a href="/blog-details" class="thm-btn">Read More <span
+                                    <a href="/blog-details" class="thm-btn">Baca Selengkapnya <span
                                             class="icon-diagonal-arrow1"></span></a>
                                 </div>
                             </div>
@@ -2188,7 +1762,7 @@ include 'includes/head.php';
             <div class="shape1 float-bob-y"><img src="assets/images/shapes/brand-v1-shape1.png" alt=""></div>
             <div class="container">
                 <div class="brand-one__title">
-                    <h4><span>2k+</span> Brands Trust Us</h4>
+                    <h4><span>50+</span> Donatur dan Mitra Percaya Kepada Kami</h4>
                 </div>
                 <div class="brand-one__inner">
                     <div class="brand-one__carousel owl-carousel owl-theme">

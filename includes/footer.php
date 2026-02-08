@@ -14,7 +14,7 @@
                                 </div>
 
                                 <div class="content-box">
-                                    <p>call emergency</p>
+                                    <p>Telepon Darurat</p>
                                     <h3><a href="http://wa.me/6282348666693">+62 823 4866 6693</a></h3>
                                 </div>
                             </div>
@@ -27,8 +27,8 @@
                                 </div>
 
                                 <div class="content-box">
-                                    <p>call emergency</p>
-                                    <h3><a href="mailto:info@exmple.com">info@exmple.com</a></h3>
+                                    <p>Email Kami</p>
+                                    <h3><a href="mailto:yayasanpekapeduli@gmail.com">yayasanpekapeduli@gmail.com</a></h3>
                                 </div>
                             </div>
                         </li>
@@ -40,8 +40,8 @@
                                 </div>
 
                                 <div class="content-box">
-                                    <p>address</p>
-                                    <h3>4648 Rocky Road Philadelphia PA</h3>
+                                    <p>Alamat Kami</p>
+                                    <h3>Desa Bontobulaeng, Kec. Bulukumpa, Kab. Bulukmba, Sulawesi Selatan</h3>
                                 </div>
                             </div>
                         </li>
@@ -71,17 +71,17 @@
                         <div class="col-xl-3 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.2s">
                             <div class="footer-widget__column footer-widget__useful-link ml85">
                                 <div class="footer-widget__title-box">
-                                    <h3 class="footer-widget__title">Quick Links</h3>
+                                    <h3 class="footer-widget__title">Tautan Cepat</h3>
                                 </div>
 
                                 <div class="footer-widget__link-box">
                                     <ul class="footer-widget__link">
-                                        <li><a href="/about"><span class="icon-next"></span> About Us</a></li>
-                                        <li><a href="/donation"><span class="icon-next"></span> Our Services</a>
+                                        <li><a href="/about"><span class="icon-next"></span> Tentang Kami</a></li>
+                                        <li><a href="/donation"><span class="icon-next"></span> Layanan Kami</a>
                                         </li>
-                                        <li><a href="/blog-grid"><span class="icon-next"></span> Our Blogs</a></li>
-                                        <li><a href="/faq"><span class="icon-next"></span> FAQ’S</a></li>
-                                        <li><a href="/contact"><span class="icon-next"></span> Contact Us</a></li>
+                                        <li><a href="/blog-grid"><span class="icon-next"></span> Blog Kami</a></li>
+                                        <li><a href="/faq"><span class="icon-next"></span> Pertanyaan Umum</a></li>
+                                        <li><a href="/contact"><span class="icon-next"></span> Hubungi Kami</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -90,22 +90,17 @@
                         <div class="col-xl-3 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.3s">
                             <div class="footer-widget__column footer-widget__useful-link services">
                                 <div class="footer-widget__title-box">
-                                    <h3 class="footer-widget__title">Our Services</h3>
+                                    <h3 class="footer-widget__title">Layanan Kami</h3>
                                 </div>
 
                                 <div class="footer-widget__link-box">
                                     <ul class="footer-widget__link">
-                                        <li><a href="/donation-details"><span class="icon-next"></span> Give
-                                                Donation</a></li>
-                                        <li><a href="/donation-details"><span class="icon-next"></span> Education
-                                                Support</a>
+                                        <li><a href="/donation-details"><span class="icon-next"></span> Beri Donasi</a></li>
+                                        <li><a href="/donation-details"><span class="icon-next"></span> Dukungan Pendidikan</a>
                                         </li>
-                                        <li><a href="/donation-details"><span class="icon-next"></span> Food
-                                                Support</a></li>
-                                        <li><a href="/donation-details"><span class="icon-next"></span> Health
-                                                Support</a></li>
-                                        <li><a href="/donation-details"><span class="icon-next"></span> Our
-                                                Campaign</a></li>
+                                        <li><a href="/donation-details"><span class="icon-next"></span> Bantuan Pangan</a></li>
+                                        <li><a href="/donation-details"><span class="icon-next"></span> Layanan Kesehatan</a></li>
+                                        <li><a href="/donation-details"><span class="icon-next"></span> Program Kampanye</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -118,12 +113,11 @@
                                 </div>
 
                                 <div class="footer-widget__newsletter-inner">
-                                    <p class="footer-widget__newsletter-text">Subscribe to Our Newsletter. Regular
-                                        inspection and feedback mechanisms</p>
+                                    <p class="footer-widget__newsletter-text">Berlangganan newsletter kami untuk mendapatkan informasi terbaru, laporan kegiatan, dan perkembangan program.</p>
 
                                     <form class="footer-widget__newsletter-form">
                                         <div class="footer-widget__newsletter-input-box">
-                                            <input type="email" placeholder="Enter your email" name="email">
+                                            <input type="email" placeholder="Masukkan email Anda" name="email">
                                             <button type="submit" class="footer-widget__newsletter-btn"><i
                                                     class="icon-paper-plane"></i></button>
                                         </div>
@@ -131,8 +125,7 @@
 
                                     <div class="footer-widget__checked">
                                         <input type="checkbox" name="skipper1" id="skipper2" checked="">
-                                        <label for="skipper2"><span></span>I agree to the <a href="#">Privacy
-                                                Policy.</a></label>
+                                        <label for="skipper2"><span></span>Saya menyetujui <a href="#">Kebijakan Privasi.</a></label>
                                     </div>
                                 </div>
                             </div>
