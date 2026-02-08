@@ -121,7 +121,7 @@
 
 
         <!--Start Page Header-->
-        <section class="page-header">
+        <!-- <section class="page-header">
             <div class="page-header__bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg)">
             </div>
             <div class="shape1 float-bob-x"><img src="assets/images/shapes/page-header-shape1.png" alt=""></div>
@@ -136,7 +136,7 @@
                     </ul>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!--End Page Header-->
 
         <!--Start Error Page-->
@@ -159,88 +159,7 @@
         </section>
         <!--End Error Page-->
 
-        <!--Start Brand One-->
-        <section class="brand-one">
-            <div class="container">
-                <div class="brand-one__title">
-                    <h4><span>2k+</span> Brands Trust Us</h4>
-                </div>
-                <div class="brand-one__inner">
-                    <div class="brand-one__carousel owl-carousel owl-theme">
-                        <!--Start Brand One Single-->
-                        <div class="brand-one__single">
-                            <div class="brand-one__single-inner">
-                                <a href="#">
-                                    <img src="assets/images/brand/brand-1-7.png" alt="">
-                                    <img src="assets/images/brand/brand-1-1.png" alt="">
-                                </a>
-                            </div>
-                        </div>
-                        <!--End Brand One Single-->
 
-                        <!--Start Brand One Single-->
-                        <div class="brand-one__single">
-                            <div class="brand-one__single-inner">
-                                <a href="#">
-                                    <img src="assets/images/brand/brand-1-8.png" alt="">
-                                    <img src="assets/images/brand/brand-1-2.png" alt="">
-                                </a>
-                            </div>
-                        </div>
-                        <!--End Brand One Single-->
-
-                        <!--Start Brand One Single-->
-                        <div class="brand-one__single">
-                            <div class="brand-one__single-inner">
-                                <a href="#">
-                                    <img src="assets/images/brand/brand-1-9.png" alt="">
-                                    <img src="assets/images/brand/brand-1-3.png" alt="">
-                                </a>
-                            </div>
-                        </div>
-                        <!--End Brand One Single-->
-
-                        <!--Start Brand One Single-->
-                        <div class="brand-one__single">
-                            <div class="brand-one__single-inner">
-                                <a href="#">
-                                    <img src="assets/images/brand/brand-1-10.png" alt="">
-                                    <img src="assets/images/brand/brand-1-4.png" alt="">
-                                </a>
-                            </div>
-                        </div>
-                        <!--End Brand One Single-->
-
-                        <!--Start Brand One Single-->
-                        <div class="brand-one__single">
-                            <div class="brand-one__single-inner">
-                                <a href="#">
-                                    <img src="assets/images/brand/brand-1-11.png" alt="">
-                                    <img src="assets/images/brand/brand-1-5.png" alt="">
-                                </a>
-                            </div>
-                        </div>
-                        <!--End Brand One Single-->
-
-                        <!--Start Brand One Single-->
-                        <div class="brand-one__single">
-                            <div class="brand-one__single-inner">
-                                <a href="#">
-                                    <img src="assets/images/brand/brand-1-12.png" alt="">
-                                    <img src="assets/images/brand/brand-1-6.png" alt="">
-                                </a>
-                            </div>
-                        </div>
-                        <!--End Brand One Single-->
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--End Brand One-->
-
-        <!--Start Site Footer-->
-            <?php include 'includes/footer.php'; ?>
-        <!--End Site Footer-->
     </div><!-- /.page-wrapper -->
 
 

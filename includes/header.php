@@ -114,11 +114,13 @@
                                     </div>
 
                                     <div class="main-header__cart-box">
-                                        <a href="#"><span class="icon-shopping-cart"></span></a>
-                                    </div>
+    <a href="https://www.instagram.com/pekapedulisulawesi/" target="_blank">
+        <span class="icon-instagram"></span>
+    </a>
+</div>
 
                                     <div class="main-header__btn-box">
-                                        <a href="/donate-now" class="thm-btn"><i class="icon-heart"></i> Kirim Donasi</a>
+                                        <a href="https://wa.me/6282348666693" class="thm-btn"><i class="icon-heart"></i> Kirim Donasi</a>
                                     </div>
                                 </div>
                             </div>

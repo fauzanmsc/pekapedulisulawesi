@@ -68,11 +68,11 @@ include 'includes/head.php';
             <div class="shape2"><img src="assets/images/shapes/page-header-shape2.png" alt=""></div>
             <div class="container">
                 <div class="page-header__inner">
-                    <h2 class="wow fadeInDown" data-wow-duration="1500ms">Contact Us</h2>
+                    <h2 class="wow fadeInDown" data-wow-duration="1500ms">Kontak Kami</h2>
                     <ul class="thm-breadcrumb wow fadeInUp" data-wow-duration="1500ms">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.html">Beranda</a></li>
                         <li>/</li>
-                        <li>Contact Us</li>
+                        <li>Kontak Kami</li>
                     </ul>
                 </div>
             </div>
@@ -121,9 +121,8 @@ include 'includes/head.php';
                             </div>
 
                             <div class="content-box">
-                                <h3>Address</h3>
-                                <p><a href="mailto:exampal@gmail.com">info@donet.com</a></p>
-                                <p><a href="mailto:exampal@gmail.com">allinfo@donet.com</a></p>
+                                <h3>Email Resmi</h3>
+                                <p><a href="mailto:yayasanpekapeduli@gmail.com">yayasanpekapeduli@gmail.com</a></p>
                             </div>
                         </div>
                     </div>
@@ -147,39 +146,39 @@ include 'includes/head.php';
             <div class="container clearfix">
                 <div class="contact-page-form__inner">
                     <div class="title-box">
-                        <h2>Get In Touch</h2>
+                        <h2>Kirim Pesan & Pertanyaan Anda</h2>
                     </div>
                     <form id="contact-form" class="contact-form-validated contact-page__form"
                         action="assets/inc/sendemail.php" method="POST">
                         <div class="row">
                             <div class="col-xl-12 col-lg-12 col-md-12">
                                 <div class="contact-page__input-box">
-                                    <input type="text" name="name" placeholder="Your Name" required="">
+                                    <input type="text" name="name" placeholder="Nama Lengkap" required="">
                                 </div>
                             </div>
                             <div class="col-xl-12 col-lg-12 col-md-12">
                                 <div class="contact-page__input-box">
-                                    <input type="email" name="email" placeholder="Email Address" required="">
+                                    <input type="email" name="email" placeholder="Alamat Email" required="">
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6 col-md-6">
                                 <div class="contact-page__input-box">
-                                    <input type="text" placeholder="Phone Number" name="phone" required>
+                                    <input type="text" placeholder="Nomor HP / WhatsApp" name="phone" required>
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6 col-md-6">
                                 <div class="contact-page__input-box">
-                                    <input type="text" placeholder="Subject" name="subject">
+                                    <input type="text" placeholder="Perihal" name="subject">
                                 </div>
                             </div>
                             <div class="col-xl-12">
                                 <div class="contact-page__input-box text-message-box">
-                                    <textarea name="message" placeholder="Type Your Message" required></textarea>
+                                    <textarea name="message" placeholder="Tulis pesan Anda di sini" required></textarea>
                                 </div>
                                 <div class="contact-page__btn-box">
                                     <button type="submit" class="thm-btn contact-page__btn"
                                         data-loading-text="Please wait...">
-                                        Send A Message
+                                        Kirim Pesan
                                         <span class="icon-diagonal-arrow1"></span>
                                     </button>
                                 </div>
@@ -192,84 +191,6 @@ include 'includes/head.php';
         </section>
         <!--End Contact Page Form-->
 
-        <!--Start Brand One-->
-        <section class="brand-one">
-            <div class="container">
-                <div class="brand-one__title">
-                    <h4><span>2k+</span> Brands Trust Us</h4>
-                </div>
-                <div class="brand-one__inner">
-                    <div class="brand-one__carousel owl-carousel owl-theme">
-                        <!--Start Brand One Single-->
-                        <div class="brand-one__single">
-                            <div class="brand-one__single-inner">
-                                <a href="#">
-                                    <img src="assets/images/brand/brand-1-7.png" alt="">
-                                    <img src="assets/images/brand/brand-1-1.png" alt="">
-                                </a>
-                            </div>
-                        </div>
-                        <!--End Brand One Single-->
-
-                        <!--Start Brand One Single-->
-                        <div class="brand-one__single">
-                            <div class="brand-one__single-inner">
-                                <a href="#">
-                                    <img src="assets/images/brand/brand-1-8.png" alt="">
-                                    <img src="assets/images/brand/brand-1-2.png" alt="">
-                                </a>
-                            </div>
-                        </div>
-                        <!--End Brand One Single-->
-
-                        <!--Start Brand One Single-->
-                        <div class="brand-one__single">
-                            <div class="brand-one__single-inner">
-                                <a href="#">
-                                    <img src="assets/images/brand/brand-1-9.png" alt="">
-                                    <img src="assets/images/brand/brand-1-3.png" alt="">
-                                </a>
-                            </div>
-                        </div>
-                        <!--End Brand One Single-->
-
-                        <!--Start Brand One Single-->
-                        <div class="brand-one__single">
-                            <div class="brand-one__single-inner">
-                                <a href="#">
-                                    <img src="assets/images/brand/brand-1-10.png" alt="">
-                                    <img src="assets/images/brand/brand-1-4.png" alt="">
-                                </a>
-                            </div>
-                        </div>
-                        <!--End Brand One Single-->
-
-                        <!--Start Brand One Single-->
-                        <div class="brand-one__single">
-                            <div class="brand-one__single-inner">
-                                <a href="#">
-                                    <img src="assets/images/brand/brand-1-11.png" alt="">
-                                    <img src="assets/images/brand/brand-1-5.png" alt="">
-                                </a>
-                            </div>
-                        </div>
-                        <!--End Brand One Single-->
-
-                        <!--Start Brand One Single-->
-                        <div class="brand-one__single">
-                            <div class="brand-one__single-inner">
-                                <a href="#">
-                                    <img src="assets/images/brand/brand-1-12.png" alt="">
-                                    <img src="assets/images/brand/brand-1-6.png" alt="">
-                                </a>
-                            </div>
-                        </div>
-                        <!--End Brand One Single-->
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--End Brand One-->
 
         <!--Start Site Footer-->
             <?php include 'includes/footer.php'; ?>
