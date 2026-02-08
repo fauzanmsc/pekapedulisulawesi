@@ -1,69 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title> Contact- Peka Peduli Sulawesi</title>
-    <!-- favicons Icons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
-    <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-    <meta name="description" content="Donatix HTML 5 Template " />
-
-    <!-- Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap"
-        rel="stylesheet">
-
-
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/animate.min.css" />
-    <link rel="stylesheet" href="assets/css/custom-animate.css" />
-    <link rel="stylesheet" href="assets/css/swiper.min.css" />
-    <link rel="stylesheet" href="assets/css/font-awesome-all.css" />
-    <link rel="stylesheet" href="assets/css/jarallax.css" />
-    <link rel="stylesheet" href="assets/css/jquery.magnific-popup.css" />
-    <link rel="stylesheet" href="assets/css/flaticon.css">
-    <link rel="stylesheet" href="assets/css/owl.carousel.min.css" />
-    <link rel="stylesheet" href="assets/css/owl.theme.default.min.css" />
-    <link rel="stylesheet" href="assets/css/nice-select.css" />
-    <link rel="stylesheet" href="assets/css/jquery-ui.css" />
-    <link rel="stylesheet" href="assets/css/aos.css" />
-    <link rel="stylesheet" href="assets/css/odometer.min.css" />
-
-
-    <link rel="stylesheet" href="assets/css/module-css/slider.css" />
-    <link rel="stylesheet" href="assets/css/module-css/footer.css" />
-    <link rel="stylesheet" href="assets/css/module-css/feature.css" />
-    <link rel="stylesheet" href="assets/css/module-css/about.css" />
-    <link rel="stylesheet" href="assets/css/module-css/service.css" />
-    <link rel="stylesheet" href="assets/css/module-css/counter.css" />
-    <link rel="stylesheet" href="assets/css/module-css/why-choose.css" />
-    <link rel="stylesheet" href="assets/css/module-css/project.css" />
-    <link rel="stylesheet" href="assets/css/module-css/video.css" />
-    <link rel="stylesheet" href="assets/css/module-css/team.css" />
-    <link rel="stylesheet" href="assets/css/module-css/brand.css" />
-    <link rel="stylesheet" href="assets/css/module-css/pricing.css" />
-    <link rel="stylesheet" href="assets/css/module-css/testimonial.css" />
-    <link rel="stylesheet" href="assets/css/module-css/blog.css" />
-    <link rel="stylesheet" href="assets/css/module-css/cause.css" />
-    <link rel="stylesheet" href="assets/css/module-css/cta.css" />
-    <link rel="stylesheet" href="assets/css/module-css/sliding-text.css" />
-    <link rel="stylesheet" href="assets/css/module-css/approch.css" />
-    <link rel="stylesheet" href="assets/css/module-css/faq.css" />
-    <link rel="stylesheet" href="assets/css/module-css/contact.css" />
-    <link rel="stylesheet" href="assets/css/module-css/page-header.css" />
-    <link rel="stylesheet" href="assets/css/module-css/event.css" />
-
-
-    <!-- template styles -->
-    <link rel="stylesheet" href="assets/css/style.css" />
-    <link rel="stylesheet" href="assets/css/responsive.css" />
-</head>
+<?php
+$pageTitle = "Kontak - Peka Peduli Sulawesi";
+include 'includes/head.php';
+?>
 
 <body class="custom-cursor">
 
@@ -149,8 +90,8 @@
                                 <span class="icon-gps"></span>
                             </div>
                             <div class="content-box">
-                                <h3>Address</h3>
-                                <p>15 Maniel Lane, Front <br> Line Berlin</p>
+                                <h3>Alamat Yayasan</h3>
+                                <p>Desa Bontobulaeng <br> Kec. Bulukumpa</p>
                             </div>
                         </div>
                     </div>
@@ -164,9 +105,9 @@
                             </div>
 
                             <div class="content-box">
-                                <h3>Phone</h3>
-                                <p><a href="tel:1234567890">(+58-125) 25-3158</a></p>
-                                <p><a href="tel:1234567890">+163-524-4521</a></p>
+                                <h3>Np. Handphone</h3>
+                                <p><a href="tel:082348666693">(+62) 823-4866-6693</a></p>
+                                <p><a href="tel:085394946379">(+62) 853-9494-6379</a></p>
                             </div>
                         </div>
                     </div>
@@ -331,162 +272,7 @@
         <!--End Brand One-->
 
         <!--Start Site Footer-->
-        <footer class="site-footer site-footer--one">
-            <div class="site-footer__bg" style="background-image: url(assets/images/backgrounds/site-footer-bg.jpg);">
-            </div>
-            <div class="shape1"><img src="assets/images/shapes/site-footer-v1-shape1.png" alt=""></div>
-            <div class="shape2 float-bob-x"><img src="assets/images/shapes/site-footer-v1-shape2.png" alt=""></div>
-            <div class="shape3 float-bob-y"><img src="assets/images/shapes/site-footer-v1-shape3.png" alt=""></div>
-            <div class="container">
-                <div class="site-footer__top">
-                    <ul class="row site-footer__top-contact-info">
-                        <li class="col-xl-4 col-lg-4 site-footer__top-contact-info-single">
-                            <div class="site-footer__top-contact-info-single-inner">
-                                <div class="icon-box">
-                                    <span class="icon-telephone"></span>
-                                </div>
-
-                                <div class="content-box">
-                                    <p>call emergency</p>
-                                    <h3><a href="http://wa.me/6281242099798">+62 812 4209 9798</a></h3>
-                                </div>
-                            </div>
-                        </li>
-
-                        <li class="col-xl-4 col-lg-4 site-footer__top-contact-info-single">
-                            <div class="site-footer__top-contact-info-single-inner">
-                                <div class="icon-box">
-                                    <span class="icon-mail"></span>
-                                </div>
-
-                                <div class="content-box">
-                                    <p>call emergency</p>
-                                    <h3><a href="mailto:info@exmple.com">info@exmple.com</a></h3>
-                                </div>
-                            </div>
-                        </li>
-
-                        <li class="col-xl-4 col-lg-4 site-footer__top-contact-info-single">
-                            <div class="site-footer__top-contact-info-single-inner">
-                                <div class="icon-box">
-                                    <span class="icon-location"></span>
-                                </div>
-
-                                <div class="content-box">
-                                    <p>address</p>
-                                    <h3>4648 Rocky Road Philadelphia PA</h3>
-                                </div>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-
-                <div class="site-footer__middle">
-                    <div class="row">
-                        <div class="col-xl-3 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s">
-                            <div class="footer-widget__column footer-widget__about">
-                                <div class="footer-widget__logo">
-                                    <a href="index.html"><img class="logo-footer" src="assets/images/resources/logo-2.png" alt=""></a>
-                                </div>
-
-                                <p class="footer-widget__about-text">Our secure online donation platform allows you to
-                                    make contributions quickly and safely. Choose from various.</p>
-
-                                <div class="footer-widget__about-social-links">
-                                    <a href="#"><span class="icon-facebook-app-symbol"></span></a>
-                                    <a href="#"><span class="icon-twitter"></span></a>
-                                    <a href="#"><span class="icon-youtube"></span></a>
-                                    <a href="#"><span class="icon-linkedin-big-logo"></span></a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-xl-3 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.2s">
-                            <div class="footer-widget__column footer-widget__useful-link ml85">
-                                <div class="footer-widget__title-box">
-                                    <h3 class="footer-widget__title">Quick Links</h3>
-                                </div>
-
-                                <div class="footer-widget__link-box">
-                                    <ul class="footer-widget__link">
-                                        <li><a href="about.html"><span class="icon-next"></span> About Us</a></li>
-                                        <li><a href="donation.html"><span class="icon-next"></span> Our Services</a>
-                                        </li>
-                                        <li><a href="blog-grid.html"><span class="icon-next"></span> Our Blogs</a></li>
-                                        <li><a href="faq.html"><span class="icon-next"></span> FAQ’S</a></li>
-                                        <li><a href="contact.html"><span class="icon-next"></span> Contact Us</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-xl-3 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.3s">
-                            <div class="footer-widget__column footer-widget__useful-link services">
-                                <div class="footer-widget__title-box">
-                                    <h3 class="footer-widget__title">Our Services</h3>
-                                </div>
-
-                                <div class="footer-widget__link-box">
-                                    <ul class="footer-widget__link">
-                                        <li><a href="donation-details.html"><span class="icon-next"></span> Give
-                                                Donation</a></li>
-                                        <li><a href="donation-details.html"><span class="icon-next"></span> Education
-                                                Support</a>
-                                        </li>
-                                        <li><a href="donation-details.html"><span class="icon-next"></span> Food
-                                                Support</a></li>
-                                        <li><a href="donation-details.html"><span class="icon-next"></span> Health
-                                                Support</a></li>
-                                        <li><a href="donation-details.html"><span class="icon-next"></span> Our
-                                                Campaign</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-xl-3 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.4s">
-                            <div class="footer-widget__column footer-widget__newsletter">
-                                <div class="footer-widget__title-box">
-                                    <h3 class="footer-widget__title">Newsletter</h3>
-                                </div>
-
-                                <div class="footer-widget__newsletter-inner">
-                                    <p class="footer-widget__newsletter-text">Subscribe to Our Newsletter. Regular
-                                        inspection and feedback mechanisms</p>
-
-                                    <form class="footer-widget__newsletter-form">
-                                        <div class="footer-widget__newsletter-input-box">
-                                            <input type="email" placeholder="Enter your email" name="email">
-                                            <button type="submit" class="footer-widget__newsletter-btn"><i
-                                                    class="icon-paper-plane"></i></button>
-                                        </div>
-                                    </form>
-
-                                    <div class="footer-widget__checked">
-                                        <input type="checkbox" name="skipper1" id="skipper2" checked="">
-                                        <label for="skipper2"><span></span>I agree to the <a href="#">Privacy
-                                                Policy.</a></label>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="site-footer__bottom">
-                <div class="container">
-                    <div class="site-footer__bottom-inner">
-                        <p class="site-footer__bottom-text">© All Copyright 2025 by <a href="index.html">Donatix</a></p>
-
-                        <ul class="site-footer__bottom-menu">
-                            <li><a href="about.html">Terms and Condition</a></li>
-                            <li><a href="about.html">Privacy and Policy</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </footer>
+            <?php include 'includes/footer.php'; ?>
         <!--End Site Footer-->
 
     </div><!-- /.page-wrapper -->
@@ -512,7 +298,7 @@
                 </li>
                 <li>
                     <i class="fas fa-phone"></i>
-                    <a href="tel:6281242099798">+62 812 4209 9798</a>
+                    <a href="tel:6282348666693">+62 823 4866 6693</a>
                 </li>
             </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__top">

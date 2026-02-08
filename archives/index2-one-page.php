@@ -837,7 +837,7 @@
 
                                     <div class="content-box">
                                         <p>Call us any time:</p>
-                                        <h4><a href="tel:1234567890">+62 812 4209 9798</a></h4>
+                                        <h4><a href="tel:082348666693">+62 823 4866 6693</a></h4>
                                     </div>
                                 </div>
                             </div>
@@ -2819,7 +2819,7 @@
                 </li>
                 <li>
                     <i class="fas fa-phone"></i>
-                    <a href="tel:6281242099798">+62 812 4209 9798</a>
+                    <a href="tel:6282348666693">+62 823 4866 6693</a>
                 </li>
             </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__top">
