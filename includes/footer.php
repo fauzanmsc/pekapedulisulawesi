@@ -56,8 +56,7 @@
                                     <a href="/"><img class="logo-footer" src="assets/images/resources/logo-2.png" alt=""></a>
                                 </div>
 
-                                <p class="footer-widget__about-text">Our secure online donation platform allows you to
-                                    make contributions quickly and safely. Choose from various.</p>
+                                <p class="footer-widget__about-text">Peka Peduli Sulawesi adalah yayasan nirlaba di bidang sosial, pendidikan, kesehatan, dan ekonomi yang menghimpun dana zakat, infak, sedekah, dan wakaf dari instansi dan perorangan.</p>
 
                                 <div class="footer-widget__about-social-links">
                                     <a href="#"><span class="icon-facebook-app-symbol"></span></a>
@@ -125,7 +124,7 @@
 
                                     <div class="footer-widget__checked">
                                         <input type="checkbox" name="skipper1" id="skipper2" checked="">
-                                        <label for="skipper2"><span></span>Saya menyetujui <a href="#">Kebijakan Privasi.</a></label>
+                                        <label for="skipper2"><span></span>Saya menyetujui<a href="#">Kebijakan Privasi.</a></label>
                                     </div>
                                 </div>
                             </div>

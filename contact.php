@@ -122,7 +122,7 @@ include 'includes/head.php';
 
                             <div class="content-box">
                                 <h3>Email Resmi</h3>
-                                <p><a href="mailto:yayasanpekapeduli@gmail.com">yayasanpekapeduli@gmail.com</a></p>
+                                <p><a href="mailto:yayasanpekapeduli@gmail.com">@yayasanpekapeduli</a></p>
                             </div>
                         </div>
                     </div>
