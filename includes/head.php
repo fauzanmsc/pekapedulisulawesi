@@ -2,6 +2,21 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title><?php echo isset($pageTitle) ? $pageTitle : "Default Title"; ?></title>
+
+
+    <!-- Open Graph Meta -->
+    <meta property="og:title" content="Peka Peduli Sulawesi">
+    <meta property="og:description" content="Peka Peduli Sulawesi merupakan yayasan nirlaba dalam bidang sosial kemanusiaan, pendidikan, kesehatan, ekonomi yang sumber dananya yaitu mengumpulkan dana zakat, infaq, dan sedekah serta wakaf baik secara instansi maupun perseorangan.">
+    <meta property="og:image" content="/assets/images/thumbnail/pekapeduli.jpg">
+    <meta property="og:url" content="https://pekapeduli.org">
+    <meta property="og:type" content="website">
+
+    <!-- WhatsApp & Twitter Support -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Peka Peduli Sulawesi">
+    <meta name="twitter:description" content="Peka Peduli Sulawesi merupakan yayasan nirlaba dalam bidang sosial kemanusiaan, pendidikan, kesehatan, ekonomi yang sumber dananya yaitu mengumpulkan dana zakat, infaq, dan sedekah serta wakaf baik secara instansi maupun perseorangan.">
+    <meta name="twitter:image" content="/assets/images/thumbnail/pekapeduli.jpg">
+    
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
