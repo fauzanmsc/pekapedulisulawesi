@@ -57,7 +57,7 @@
 
                                 <div class="main-header__one-bottom-left">
                                     <div class="logo-box">
-                                        <a href="index.php"><img class="logo-header" src="assets/images/resources/logo-1.png" alt=""></a>
+                                        <a href="/"><img class="logo-header" src="assets/images/resources/logo-1.png" alt=""></a>
                                     </div>
                                 </div>
 
@@ -66,42 +66,42 @@
                                         <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
                                         <ul class="main-menu__list">
                                             <li>
-                                                <a href="index.php">Home </a>
+                                                <a href="/">Beranda </a>
                                             </li>
                                             <li>
-                                                <a href="about.php">Tentang</a>
+                                                <a href="/about">Tentang</a>
                                             </li>
                                             <li class="dropdown">
-                                                <a href="#">Donasi</a>
+                                                <a href="/donation">Donasi</a>
                                                 <ul class="shadow-box">
-                                                    <li><a href="donation.php">Donation</a></li>
-                                                    <li><a href="donate-now.php">Donation Now</a></li>
-                                                    <li><a href="donation-details.php">Donation Details</a></li>
+                                                    <li><a href="/donation">Donasi</a></li>
+                                                    <li><a href="/donate-now">Donation Sekarang</a></li>
+                                                    <li><a href="/donation-details">Detail Donasi</a></li>
                                                 </ul>
                                             </li>
                                             <li class="dropdown">
-                                                <a href="#">Pages</a>
+                                                <a href="/pages">Pages</a>
                                                 <ul class="shadow-box">
-                                                    <li><a href="event.php">Event</a></li>
-                                                    <li><a href="event-grid.php">Event Grid</a></li>
-                                                    <li><a href="event-details.php">Event Details</a></li>
-                                                    <li><a href="team.php">Team</a></li>
-                                                    <li><a href="become-volunteer.php">Become A Volunteer</a></li>
-                                                    <li><a href="team-details.php">Team Details</a></li>
-                                                    <li><a href="faq.php">Faq</a>
+                                                    <li><a href="/event">Event</a></li>
+                                                    <li><a href="/event-grid">Event Grid</a></li>
+                                                    <li><a href="/event-details">Event Details</a></li>
+                                                    <li><a href="/team">Team</a></li>
+                                                    <li><a href="/become-volunteer">Become A Volunteer</a></li>
+                                                    <li><a href="/team-details">Team Details</a></li>
+                                                    <li><a href="/faq">Faq</a>
                                                     </li>
-                                                    <li><a href="gallery.php">Gallery</a>
+                                                    <li><a href="/gallery">Gallery</a>
                                                     </li>
-                                                    <li><a href="404.php">404</a>
+                                                    <li><a href="/404">404</a>
                                                     </li>
                                                 </ul>
                                             </li>
                                             <li >
-                                                <a href="blog.php">Blog</a>
+                                                <a href="/blog">Blog</a>
                                                
                                             </li>
                                             <li>
-                                                <a href="contact.php">Kontak</a>
+                                                <a href="/contact">Kontak</a>
                                             </li>
                                         </ul>
                                     </div>
@@ -118,7 +118,7 @@
                                     </div>
 
                                     <div class="main-header__btn-box">
-                                        <a href="donate-now.php" class="thm-btn"><i class="icon-heart"></i> Kirim Donasi</a>
+                                        <a href="/donate-now" class="thm-btn"><i class="icon-heart"></i> Kirim Donasi</a>
                                     </div>
                                 </div>
                             </div>
